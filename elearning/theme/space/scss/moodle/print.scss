@@ -1,0 +1,45 @@
+@media print {
+
+    // Safari fix see: http://v4-alpha.getbootstrap.com/getting-started/browsers-devices/#printing.
+    .container {
+        width: auto;
+    }
+
+    #page {
+        overflow: visible !important;
+        height: auto;
+        margin: 0 !important;
+    }
+
+    body {
+        margin: 0 !important
+    }
+
+    #page.drawers {
+        overflow-y: initial;
+        height: 100%;
+    }
+
+    body,
+    #page {
+        padding: 0 !important;
+        margin: 0 !important;
+        min-width: 100%;
+    }
+
+    #page.drawers.show-drawer-left.show-drawer-right {
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+    }
+
+    body.drawer-open-left,
+    body.drawer-courseindex--open,
+    body.drawer-open-index--open {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    #page.drawers {
+        height: max-content;
+    }
+}

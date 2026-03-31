@@ -1,0 +1,98 @@
+ .stat-card {
+            background: white;
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            border: none;
+            height: 100%;
+        }
+        
+        .stat-icon {
+            width: 24px;
+            height: 24px;
+            margin-bottom: 16px;
+            opacity: 0.7;
+        }
+        
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 8px;
+            line-height: 1;
+        }
+        
+        .stat-label {
+            color: #6b7280;
+            font-size: 0.95rem;
+            margin: 0;
+        }
+        
+        .chart-card {
+            background: white;
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            border: none;
+            height: 100%;
+        }
+        
+        .chart-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin-bottom: 20px;
+        }
+        
+        .activity-text {
+            color: #6b7280;
+            font-size: 0.95rem;
+            margin-bottom: 16px;
+        }
+        
+        .month-dropdown {
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            padding: 8px 16px;
+            background: white;
+            color: #6b7280;
+            font-size: 0.9rem;
+        }
+        
+        .progress-legend {
+            display: flex;
+            gap: 24px;
+            margin-bottom: 20px;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.9rem;
+            color: #6b7280;
+        }
+        
+        .legend-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+        
+        .legend-dot.blue {
+            background-color: #3b82f6;
+        }
+        
+        .legend-dot.orange {
+            background-color: #f59e0b;
+        }
+        
+        .chart-container {
+            position: relative;
+            height: 400px;
+        }
+        
+        .chart-container-small {
+            position: relative;
+            height: 200px;
+        }

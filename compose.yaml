@@ -1,0 +1,22 @@
+services:
+    db:
+        image: mariadb
+        restart: always
+        environment:
+            MARIADB_ROOT_PASSWORD: gov@123
+        volumes:
+            - ./db:/var/lib/mysql
+            - ./init-scripts:/docker-entrypoint-initdb.d
+        ports:
+            - 3306:3306
+    moodle:
+        depends_on:
+            - db
+        build:
+            dockerfile: Dockerfile 
+        volumes:
+            - ./elearning:/var/www/html
+            - ./moodledata:/var/www/moodledata
+            - ./php.ini-development:/usr/local/etc/php/php.ini
+        ports:
+            - 8086:80

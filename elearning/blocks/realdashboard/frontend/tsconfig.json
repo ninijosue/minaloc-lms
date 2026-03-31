@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "lib": ["es2018", "dom"],
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "useDefineForClassFields": false,
+    "sourceMap": true,
+    "outDir": "dist",
+    "resolveJsonModule": true,
+  },
+  "include": ["src/**/*.ts", "src/components/dialog.js"],
+  "exclude": ["node_modules"]
+}

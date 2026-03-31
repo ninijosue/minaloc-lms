@@ -1,0 +1,736 @@
+{{!
+    This file is part of Moodle - http://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template theme_space/tmpl-frontpage
+
+    Context variables required for this template:
+    * sitename - The name of the site
+    * output - The core renderer for the page
+    * bodyattributes - attributes for the body tag as a string of html attributes
+    * sidepreblocks - HTML for the blocks
+    * hasblocks - true if there are blocks on this page
+    * navdraweropen - true if the nav drawer should be open on page load
+    * regionmainsettingsmenu - HTML for the region main settings menu
+    * hasregionmainsettingsmenu - There is a region main settings menu on this page.
+
+    Example context (json):
+    {
+        "sitename": "Moodle",
+        "output": {
+            "doctype": "<!DOCTYPE html>",
+            "page_title": "Test page",
+            "favicon": "favicon.ico",
+            "main_content": "<h1>Headings make html validators happier</h1>"
+         },
+        "bodyattributes":"",
+        "sidepreblocks": "<h2>Blocks html goes here</h2>",
+        "hasblocks":true,
+        "navdraweropen":true,
+        "regionmainsettingsmenu": "",
+        "hasregionmainsettingsmenu": false
+    }
+}}
+{{> theme_space/head }}
+
+<body {{{ bodyattributes }}}>
+    {{> core/local/toast/wrapper}}
+
+    <div id="page-wrapper" class="d-print-block">
+
+        {{{ output.standard_top_of_body_html }}}
+
+        {{> theme_space/navbar }}
+
+        {{^hiddensidebar}}
+            {{> theme_space/nav-drawer }}
+        {{/hiddensidebar}}
+
+        {{#hasblocks}}
+            {{< theme_space/drawer }}
+                {{$id}}space-drawers-blocks{{/id}}
+                {{$drawerclasses}}rui-right-drawer rui-blocks-column rui-blocks-area drawer drawer-right {{#blockdraweropen}} show{{/blockdraweropen}}{{/drawerclasses}}
+                {{$drawercontent}}
+                    <section class="d-print-none" aria-label="{{#str}}blocks{{/str}}">
+                        {{{ addblockbutton }}}
+                        {{{ sidepreblocks }}}
+                    </section>
+                {{/drawercontent}}
+                {{$drawerpreferencename}}drawer-open-block{{/drawerpreferencename}}
+                {{$forceopen}}{{#forceblockdraweropen}}1{{/forceblockdraweropen}}{{/forceopen}}
+                {{$drawerstate}}show-drawer-right{{/drawerstate}}
+                {{$tooltipplacement}}left{{/tooltipplacement}}
+                {{$drawercloseonresize}}1{{/drawercloseonresize}}
+                {{$closebuttontext}}{{#str}}closeblockdrawer, core{{/str}}{{/closebuttontext}}
+            {{/ theme_space/drawer}}
+        {{/hasblocks}}
+    
+         {{#hiddensidebar}}
+         <div>
+            <div class="hero_-home">
+                <div class="hero-container_home">
+                    <div class="hero-content_home">
+                        <h1>Learn, Grow and Serve.</h1>
+                        <p class="hero-subtitle_home">
+                            Empowering Local Governments for Citizen-Centered Service Delivery</p>
+                        <p class="hero-description_home">
+                            Access to high-quality training opportunities enhances your skills for professional success and contributes to improved service delivery across all levels of local governance.
+                        </p>
+                        <a href="/course/index.php" class="btn btn-primary btn-lg mt-3 explore_courses_btn">Explore Course Categories</a>
+                    </div>
+                    <div class="hero-images_home">
+                    </div>
+                </div>
+            </div>
+           
+    {{/hiddensidebar}} 
+
+    
+    
+  
+        <div id="page" data-region="mainpage" data-usertour="scroller" class="drawers main_content_display {{#blockdraweropen}}show-hidden-drawer{{/blockdraweropen}} {{#blockdraweropen}}show-drawer-right{{/blockdraweropen}} drag-container">
+            
+            <div id="topofscroll" class="main-inner">
+                <div id="page-content" class="page-content wrapper-page">
+
+                    <div class="drawer-toggles d_flex">
+                        {{#hasblocks}}
+                            <div id="sidepreopen-control" class="drawer-toggler drawer-right-toggle ml-auto d-print-none">
+                                <button
+                                    class="btn border-0 icon-no-margin drawertoggle btn-close-drawer--right"
+                                    data-toggler="drawers"
+                                    data-action="toggle"
+                                    data-target="space-drawers-blocks"
+                                    data-toggle="tooltip"
+                                    data-placement="right"
+                                    title="{{#str}}opendrawerblocks, core{{/str}}"
+                                >
+                                    <span class="sr-only">{{#str}}opendrawerblocks, core{{/str}}</span>
+                                    <span class="dir-rtl-hide">
+                                        <svg width="20" height="20" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+                                            <g transform="matrix(1,0,0,1,-2,0)">
+                                                <path d="M18.333,15L18.333,5C18.333,3.629 17.205,2.5 15.833,2.5L14.167,2.5C12.795,2.5 11.667,3.629 11.667,5L11.667,15C11.667,16.371 12.795,17.5 14.167,17.5L15.833,17.5C17.205,17.5 18.333,16.371 18.333,15Z" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:1.67px;" />
+                                            </g>
+                                            <g transform="matrix(1,0,0,1,-2,0)">
+                                                <path d="M11.667,10L5,10M5,10L7.5,7.5M5,10L7.5,12.5" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:1.25px;stroke-linecap:round;stroke-linejoin:round;" />
+                                            </g>
+                                        </svg>
+                                    </span>
+                                    <span class="dir-ltr-hide">
+                                        <svg width="20" height="20" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+                                            <g transform="matrix(1,0,0,1,-2,0)">
+                                                <path d="M18.333,15L18.333,5C18.333,3.629 17.205,2.5 15.833,2.5L14.167,2.5C12.795,2.5 11.667,3.629 11.667,5L11.667,15C11.667,16.371 12.795,17.5 14.167,17.5L15.833,17.5C17.205,17.5 18.333,16.371 18.333,15Z" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:1.67px;" />
+                                            </g>
+                                            <g transform="matrix(1,0,0,1,-2,0)">
+                                                <path d="M11.667,10L5,10M5,10L7.5,7.5M5,10L7.5,12.5" style="fill:none;fill-rule:nonzero;stroke:currentColor;stroke-width:1.25px;stroke-linecap:round;stroke-linejoin:round;" />
+                                            </g>
+                                        </svg>                            
+                                    </span>
+                                </button>
+                            </div>
+                        {{/hasblocks}}
+                    </div>
+
+                    {{{ output.breadcrumbs }}}
+
+                    {{#secondarymoremenu}}
+                        <div class="secondary-navigation d-print-none">
+                            {{> core/moremenu}}
+                        </div>
+                    {{/secondarymoremenu}}
+
+                    {{{coursepageinformationbanners}}}
+                    <div class="wrapper-header">
+                        {{#headeractions}}
+                            <div class="header-actions-container ml-1" data-region="header-actions-container">
+                                <div class="header-action">{{{.}}}</div>
+                            </div>
+                        {{/headeractions}}
+                        {{{pageheadingbutton}}}
+                    </div>
+                    
+
+                    <div id="region-main-box" class="region-main-wrapper mt-4">
+                        <section id="region-main" class="region-main-content {{#hasblocks}}has-blocks{{/hasblocks}}" aria-label="{{#str}}content{{/str}}">
+                            <div {{#hasblocks}}class="blocks-wrapper d-inline-flex justify-content-between w-100" {{/hasblocks}}>
+                                <div {{#hasblocks}}class="wrapper-blocks"{{/hasblocks}}>
+                                    {{#hasregionmainsettingsmenu}}
+                                        <div class="region_main_settings_menu_proxy"></div>
+                                    {{/hasregionmainsettingsmenu}}
+
+                                    {{#headercontent}}
+                                        {{> core/activity_header }}
+                                    {{/headercontent}}
+                                    {{#overflow}}
+                                        <div class="container-fluid tertiary-navigation">
+                                            <div class="navitem">
+                                                {{> core/url_select}}
+                                            </div>
+                                        </div>
+                                    {{/overflow}}
+
+                                    {{{ruiscb}}}
+
+                                </div>
+                            </div>
+                            {{#hiddensidebar}}
+                                <h2 class="about-title">About This Platform</h2>
+
+                              <div class="description__-_container" id="about_home_section">
+                                <div class="description__-details">
+                                    <div class="description__-details_right">
+                                    
+                                        <p class="desc-description_word">
+                                            The mission of MINALOC is to ensure the coordination of good governance and high quality territorial administration programs that promote economic, social and political development throughout the nation.
+                                             
+
+                                            <br /> 
+                                            <br />
+                                            To that end, MINALOC initiated an e-learning platform aimed at bringing together and facilitating easy access to all capacity-building interventions delivered by its affiliated agencies for local government staff and elected leaders. The platform's courses are designed to continuously strengthen local governance, improve public service delivery, and equip users with skills aligned with Rwanda’s National Strategy for Transformation (NST2) and other national development priorities.
+                                            <br />
+                                            <br />
+                                            By fostering stronger collaboration and partnerships, MINALOC continues to work with key stakeholders in local government capacity building such as RALGA, Bloomberg Philanthropies for Data for Health, Vital Strategies, and Local Administrative Entities Development Agency (LODA), National Identification Agency NIDA), etc. by promoting digital learning and advancing e-governance. These efforts aim to contribute to Rwanda’s broader vision of building a digitally literate, accountable, and performance-driven public sector that supports inclusive and sustainable development.
+                                        </p>
+                                    </div>
+                                    <div class="about_page_-image">
+                                    </div>
+                                </div>
+                            </div> 
+                               <section class="offers-section">
+        <div class="">
+            <h2 class="section-title">What This Platform Offers</h2>
+            
+            <div class="row offer_details g-4">
+                <div class="col-lg-3 col-md-6">
+                    <div class="offer-card">
+                        <div class="offer-icon">
+                            <i class="fas fa-users-cog"></i>
+                        </div>
+                        <h3 class="offer-title">Capacity Building</h3>
+                        <p class="offer-description">Training local government officials on topics such as CRVS, MEIS, SRIS and so on</p>
+                    </div>
+                </div>
+                
+                <div class="col-lg-3 col-md-6">
+                    <div class="offer-card">
+                        <div class="offer-icon">
+                            <i class="fas fa-tools"></i>
+                        </div>
+                        <h3 class="offer-title">Skill Development</h3>
+                        <p class="offer-description">Offering courses to develop skills in specific areas</p>
+                    </div>
+                </div>
+                
+                <div class="col-lg-3 col-md-6">
+                    <div class="offer-card">
+                        <div class="offer-icon">
+                            <i class="fas fa-clock"></i>
+                        </div>
+                        <h3 class="offer-title">Convenience</h3>
+                        <p class="offer-description">Providing access to educational materials and training from anywhere, promoting continuous learning and development</p>
+                    </div>
+                </div>
+                
+                <div class="col-lg-3 col-md-6">
+                    <div class="offer-card">
+                        <div class="offer-icon">
+                            <i class="fas fa-microchip"></i>
+                        </div>
+                        <h3 class="offer-title">Technology Integration</h3>
+                        <p class="offer-description">Facilitating the use of technology in governance and public service, supporting the government's digital transformation initiatives</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+                            <section class="partners-section" id="partner_home_section">
+                                <div class="container">
+                                    <h2 class="partners-title">Our Partners</h2>
+                                    <div class="row App justify-content-center">
+                                        <div class=" slide-container">
+                                           
+                                        <div class="d_flex">
+                                                <img src="{{partner4url}}?height=80&width=120"  alt="Regional Hospital" class="partner-logo">
+                                                <img src="{{partner2url}}?height=80&width=120" style="width: 300px;" alt="Medical Center" class="partner-logo">
+                                                <img src="{{partner1url}}?height=80&width=120" alt="Healthcare Plus" class="partner-logo">
+                                                <img src="{{partner4url}}?height=80&width=120" alt="Regional Hospital" class="partner-logo">
+                                                <img src="{{partner5url}}?height=80&width=120" alt="Regional Hospital" class="partner-logo">
+
+
+
+
+                                            <!--
+                                        <div class="col-lg-3 col-md-3 col-sm-4 col-4">
+                                            <div class="partner-item">
+                                                <img src="{{partner2url}}?height=80&width=120" alt="Medical Center" class="partner-logo">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-3 col-sm-4 col-4">
+                                            <div class="partner-item">
+                                                <img src="{{partner1url}}?height=80&width=120" alt="Healthcare Plus" class="partner-logo">
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="col-lg-3 col-md-3 col-sm-4 col-4">
+                                            <div class="partner-item">
+                                                <img src="{{partner3url}}?height=80&width=120" alt="Pacific Health" class="partner-logo">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-3 col-md-3 col-sm-4 col-4">
+                                            <div class="partner-item">
+                                                <img src="{{partner4url}}?height=80&width=120" alt="Regional Hospital" class="partner-logo">
+                                            </div>
+                                        </div>
+                                         <div class="col-lg-3 col-md-3 col-sm-4 col-4">
+                                            <div class="partner-item">
+                                                <img src="{{partner5url}}?height=80&width=120" alt="Regional Hospital" class="partner-logo">
+                                            </div>
+                                        </div>
+                                        -->
+                                         </div>
+                                          <div class="d_flex">
+                                                <img src="{{partner4url}}?height=80&width=120" alt="Regional Hospital" class="partner-logo">
+                                                <img src="{{partner2url}}?height=80&width=120" style="width: 300px;" alt="Medical Center" class="partner-logo">
+                                                <img src="{{partner1url}}?height=80&width=120" alt="Healthcare Plus" class="partner-logo">
+                                                <img src="{{partner4url}}?height=80&width=120" alt="Regional Hospital" class="partner-logo">
+                                                <img src="{{partner5url}}?height=80&width=120" alt="Regional Hospital" class="partner-logo">
+
+                                            </div>
+                                    </div>
+                                    </div>
+                                </div>
+                            </section>
+                            {{/hiddensidebar}}
+    
+                            {{{ output.activity_navigation }}}
+                            {{{ output.course_content_footer }}}
+                        </section>
+                    </div>
+                </div>
+            </div>
+            {{> theme_space/footer }}
+        </div>
+        </div>
+        
+
+        {{{ output.standard_after_main_region_html }}}
+
+    </div>
+     
+
+</body>
+{{#hiddensidebar}}
+  <style>
+    #page-wrapper #page {
+        height: fit-content;
+    }
+    @media only screen and (max-width: 800px){
+        .rui-title-container{
+            margin-top: -37px !important;
+            margin-bottom: -31px !important;
+        }
+        .explore_courses_btn {
+            max-width: 300px;
+            font-size: .9rem !important;
+        }
+        #page {
+            overflow-y: hidden;
+            height: fit-content;
+        }
+        .hero_-home {
+            min-height: fit-content !important;
+            padding-top: 157px !important;
+            padding-bottom: 10px;
+        }
+        .hero-container_home {
+            grid-template-columns: 1fr !important;
+        }
+        .hero-subtitle_home {
+            font-size: 1rem !important;
+            text-align: center;
+        }
+        .hero-content_home h1{
+            font-size: 34px !important;
+            text-align: center !important;
+        }
+        .hero-subtitle_home p {
+            font-size: 1rem !important;
+            text-align: center !important;
+        }
+        .hero-description_home {
+            font-size: 0.8rem !important;
+            text-align: center !important;
+        }
+        .hero-content_home {
+            display: flex !important;
+            flex-direction: column !important;
+            align-items: center !important;
+        }
+        .about-title {
+            font-size: 1.5rem !important;
+            margin-top: 10px !important;
+        }
+        .description__-_container{
+            padding-top: 28px !important;
+        }
+        .desc-description_word{
+            text-align: center !important;
+            font-size: .8rem !important;
+        }
+        .about_page_-image {
+            max-width: 400px !important;
+            max-height: 300px !important;
+            width: 100% !important;
+        }
+        .description__-details {
+            flex-direction: column !important;
+            display: flex !important;
+            gap: 30px !important;
+            padding-top: 0 !important;
+        }
+        .section-title {
+            font-size: 1.5rem !important;
+            margin-bottom: 2rem !important;
+        }
+        .offer_details{
+            gap: 40px  !important;
+        }
+        .offers-section {
+            padding-bottom: 0  !important;
+        }
+        .partners-section {
+            margin: 0 !important;
+        }
+        .d_flex {
+            gap: 40px !important;
+        }
+      
+    }
+    .main_content_display{
+        overflow-y: hidden;
+        height: fit-content;
+    }
+    .App {
+    overflow: hidden;
+  
+  }
+  
+  .slide-container {
+    display: flex;
+    overflow: hidden;
+    width: 400%;
+    gap:100px;
+  }
+
+    .d_flex {
+        display: flex;
+        animation: animateContainer 10s linear  infinite;
+        gap:100px;
+        justify-content: center;
+        align-items: center;
+  
+    }
+  
+    .slide-container:hover .d_flex{
+      animation-play-state: paused;
+    }
+    
+    @keyframes animateContainer {
+      from {
+        transform: translateX(0);
+      }
+      to {
+        transform: translateX(-100%);
+      }
+    }
+  
+    @media only screen and (max-width: 800px){
+      .slide-container{
+        width: 800%;
+      }
+      .d_flex{
+        animation: animateContainer 10s linear  infinite;
+      }
+    }
+
+    
+
+       .offers-section {
+            padding: 80px 0;
+        }
+        
+        .section-title {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #1e40af;
+            text-align: center;
+            margin-bottom: 4rem;
+            margin-top: 20px
+        }
+        
+        .offer-card {
+            background: white;
+            border-radius: 15px;
+            padding: 2rem;
+            text-align: center;
+            box-shadow: 0 5px 20px rgba(59, 130, 246, 0.1);
+            transition: all 0.3s ease;
+            height: 100%;
+        }
+        
+        .offer-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(59, 130, 246, 0.2);
+        }
+        
+        .offer-icon {
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(45deg, #3b82f6, #1e40af);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 1.5rem;
+            font-size: 2rem;
+            color: white;
+        }
+        
+        .offer-title {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #1e40af;
+            margin-bottom: 1rem;
+        }
+        
+        .offer-description {
+            color: #64748b;
+    line-height: 1.6;
+    font-size: 14px;
+        }
+    
+  .hero_-home {
+            background: url('{{mainbgimageurl}}');
+            padding: 80px 0;
+            position: relative;
+            overflow: hidden;
+              background-size: cover; /* This is the key property */
+                background-position: center center; /* Centers the image */
+                background-repeat: no-repeat; 
+            min-height: 700px;
+            display: flex;
+            padding-top: 100px;
+        }
+
+        .hero-container_home {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 0.5fr;
+            gap: 60px;
+            align-items: center;
+            padding: 0 20px;
+            position: relative;
+            
+            
+        }
+        .hero-content_home {
+            margin-top: 7px;
+        }
+
+        .hero-content_home h1 {
+            font-size: 4rem;
+            font-weight: bold;
+            margin-bottom: 20px;
+            line-height: 1.1;
+        }
+
+
+        .hero-subtitle_home {
+            font-size: 1.4rem;
+            margin-bottom: 30px;
+            font-weight: 300;
+            max-width: 500px;
+        }
+
+        .hero-description_home {
+            font-size: 1.1rem;
+            opacity: 0.9;
+            max-width: 400px;
+        }
+
+        .hero-images_home {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .person-image_home {
+            width: 200px;
+            height: 250px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            margin: 0 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            backdrop-filter: blur(10px);
+        }
+
+        .description__-_container{
+            
+            
+            padding: 40px 0;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            padding-top: 100px;
+
+        }
+
+         .description__-details {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 0.5fr;
+            gap: 100px;
+            align-items: center;
+            padding: 0 20px;
+            position: relative;
+        }
+
+        .description__-details_right {
+             font-size: 4rem;
+            font-weight: bold;
+            margin-bottom: 20px;
+            line-height: 1.1;
+            
+            
+        }
+
+        .description__-details_right h1 {
+            font-size: 2.5rem;
+            font-weight: 500;
+            margin-bottom: 40px;
+            line-height: 1.1;
+        }
+
+        .desc-description_word {
+            font-size: 1rem;
+            opacity: 0.9;
+            max-width: 400px;
+            font-weight:100;
+             line-height: 1.5;
+            text-align: justify;
+        }
+
+        .about_page_-image{
+            width:500px;
+            height: 700px;
+            background: white;
+            background-color: rgb(143, 194, 245);
+            background-image: url('{{serviceimageurl}}');
+            background-size: cover;
+            background-position: center;
+            border-radius: 20px;
+        }
+           .partners-section {
+            background-color: white;
+            padding: 60px 0;
+            margin-top: 60px;
+        }
+        
+        .partners-title {
+            text-align: center;
+            font-size: 3rem;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 50px;
+        }
+        .about-title{
+            text-align: center;
+            font-size: 3rem;
+            font-weight: 600;
+            color: #333;
+            margin-top: 50px;
+        }
+        
+        .partner-item {
+            text-align: center;
+            margin-bottom: 40px;
+            transition: transform 0.3s ease;
+        }
+        
+        .partner-item:hover {
+            transform: translateY(-5px);
+        }
+        
+        .partner-logo {
+            width: 160px;
+            height: auto;
+            object-fit: contain;
+            margin-bottom: 15px;
+            transition: filter 0.3s ease;
+        }
+        
+        .partner-logo:hover {
+            filter: grayscale(0%);
+        }
+        
+        .partner-name {
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: #666;
+            margin-top: 10px;
+        }
+        
+        @media (max-width: 768px) {
+            .partners-title {
+                font-size: 2rem;
+                margin-bottom: 30px;
+            }
+            
+            .partner-logo {
+                width: 100px;
+                height: 60px;
+            }
+            
+            .partner-item {
+                margin-bottom: 30px;
+            }
+        }
+        
+        @media (max-width: 576px) {
+            .partners-title {
+                font-size: 1.75rem;
+            }
+            
+            .partner-logo {
+                width: 80px;
+                height: 50px;
+            }
+        }
+    </style>
+{{/hiddensidebar}}
+</html>
+{{#js}}
+    M.util.js_pending('theme_space/loader');
+    require(['theme_space/loader', 'theme_space/drawer'], function(Loader, Drawer) {
+    Drawer.init();
+    M.util.js_complete('theme_space/loader');
+    });
+{{/js}}

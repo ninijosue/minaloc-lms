@@ -1,0 +1,43 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c --bundleConfigAsCjs",
+    "dev": "rollup -c  --bundleConfigAsCjs --watch",
+    "watch": "http-server public -p 8080",
+    "clean": "rm -rf dist && rollup -c --bundleConfigAsCjs  ",
+    "tailwind": "npx tailwindcss -i src/styles.css -o src/output.css --watch "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.3",
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^28.0.6",
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "@rollup/plugin-typescript": "^12.1.4",
+    "@tailwindcss/postcss": "^4.1.11",
+    "autoprefixer": "^10.4.21",
+    "lit": "^3.3.1",
+    "postcss": "^8.5.6",
+    "rollup": "^4.45.1",
+    "rollup-plugin-terser": "^7.0.2",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@lit/ts-transformers": "^2.0.2",
+    "@rollup/plugin-json": "^6.1.0",
+    "csv-parse": "^6.1.0",
+    "postcss-cli": "^11.0.1",
+    "postcss-import": "^16.1.1",
+    "postcss-lit": "^1.2.0",
+    "postcss-preset-env": "^10.2.4",
+    "rollup-plugin-delete": "^3.0.1",
+    "rollup-plugin-postcss": "^4.0.2",
+    "tailwindcss": "^4.1.11",
+    "tslib": "^2.8.1"
+  }
+}

@@ -1,0 +1,9530 @@
+{
+  "rwamagana_nyakaliro": [
+    {
+      "facilityName": "Friendly Clinic",
+      "id": "3074"
+    },
+    {
+      "facilityName": "Gatare (Nyakaliro) HP",
+      "id": "3004"
+    },
+    {
+      "facilityName": "Gishore HP",
+      "id": "2966"
+    },
+    {
+      "facilityName": "Nyakaliro CS",
+      "id": "360"
+    },
+    {
+      "facilityName": "Rugende Nyakaliro HP",
+      "id": "3005"
+    },
+    {
+      "facilityName": "RWIMBOGO HP",
+      "id": "2138"
+    }
+  ],
+  "rubavu_gisenyi": [
+    {
+      "facilityName": "ABI Mobile Dental Clinic",
+      "id": "2772"
+    },
+    {
+      "facilityName": "Blessed F H Ltd (Rubavu) CLIN",
+      "id": "2368"
+    },
+    {
+      "facilityName": "Charity Medical (Rubavu) Clin",
+      "id": "2354"
+    },
+    {
+      "facilityName": "Dialysis Center_Gisenyi",
+      "id": "2163"
+    },
+    {
+      "facilityName": "Elysium Healthcare Rwanda Clin",
+      "id": "3297"
+    },
+    {
+      "facilityName": "Gacuba Ii CS",
+      "id": "197"
+    },
+    {
+      "facilityName": "GACUBA II HP",
+      "id": "2073"
+    },
+    {
+      "facilityName": "Gisenyi CS",
+      "id": "198"
+    },
+    {
+      "facilityName": "Gisenyi DH",
+      "id": "199"
+    },
+    {
+      "facilityName": "Horanubuzima (Rubavu) CLIN",
+      "id": "1439"
+    },
+    {
+      "facilityName": "La Croix du Sud Polyclinic Rubavu",
+      "id": "2631"
+    },
+    {
+      "facilityName": "La Fidelite CLIN_Gisenyi",
+      "id": "1399"
+    },
+    {
+      "facilityName": "lâ€™Arche CLIN",
+      "id": "1396"
+    },
+    {
+      "facilityName": "Nyarubande HP",
+      "id": "2782"
+    },
+    {
+      "facilityName": "Plan Health Care/Lane Park Polyclinic",
+      "id": "2977"
+    },
+    {
+      "facilityName": "Polyclinic la Medicale de Rubavu",
+      "id": "2530"
+    },
+    {
+      "facilityName": "Rubavu Prison",
+      "id": "205"
+    },
+    {
+      "facilityName": "Smile Dental Clin",
+      "id": "2362"
+    }
+  ],
+  "kicukiro_niboye": [
+    {
+      "facilityName": "Acacia Renal Care Ltd",
+      "id": "3384"
+    },
+    {
+      "facilityName": "Don de Dieu (Kicukiro) CLIN",
+      "id": "1120"
+    },
+    {
+      "facilityName": "Jubilee Dental  Clinic",
+      "id": "1467"
+    },
+    {
+      "facilityName": "Kicukiro CS",
+      "id": "35"
+    },
+    {
+      "facilityName": "mhub Rwanda Clin",
+      "id": "3096"
+    },
+    {
+      "facilityName": "Nyakabanda (Niboye) HP",
+      "id": "3066"
+    }
+  ],
+  "gasabo_kimironko": [
+    {
+      "facilityName": "Active Life Physiotherapy ltd",
+      "id": "1664"
+    },
+    {
+      "facilityName": "Advanced Dental Center Ltd",
+      "id": "1568"
+    },
+    {
+      "facilityName": "Beri Clin",
+      "id": "1667"
+    },
+    {
+      "facilityName": "Doctor's Plaza CLIN",
+      "id": "1119"
+    },
+    {
+      "facilityName": "Galien Clin",
+      "id": "1670"
+    },
+    {
+      "facilityName": "Gasabo Prison",
+      "id": "27"
+    },
+    {
+      "facilityName": "Grand Lac Clin",
+      "id": "2167"
+    },
+    {
+      "facilityName": "Healthy Minds Counselling Clinic Ltd",
+      "id": "3199"
+    },
+    {
+      "facilityName": "I CARE DENTAL CLINIC",
+      "id": "3115"
+    },
+    {
+      "facilityName": "Infinity Medical and Dental Clin",
+      "id": "3366"
+    },
+    {
+      "facilityName": "Kibagabaga HP",
+      "id": "2858"
+    },
+    {
+      "facilityName": "Kibagabaga L2TH",
+      "id": "22"
+    },
+    {
+      "facilityName": "Kigali Medical Center",
+      "id": "1362"
+    },
+    {
+      "facilityName": "La Confiance Clin",
+      "id": "1689"
+    },
+    {
+      "facilityName": "Nyagatovu (Kimironko) HP",
+      "id": "3095"
+    },
+    {
+      "facilityName": "Rapha Medical Clinic",
+      "id": "1691"
+    },
+    {
+      "facilityName": "The Diamond Smile Dental Clinic",
+      "id": "2760"
+    },
+    {
+      "facilityName": "Ubuzima Polyclin",
+      "id": "1443"
+    }
+  ],
+  "gasabo_remera": [
+    {
+      "facilityName": "ADA  Dental CLIN",
+      "id": "1115"
+    },
+    {
+      "facilityName": "Avega Clinic",
+      "id": "13"
+    },
+    {
+      "facilityName": "Baho International Hospital",
+      "id": "1659"
+    },
+    {
+      "facilityName": "Centre MÃ©dical Orkide",
+      "id": "1113"
+    },
+    {
+      "facilityName": "Deus Est Neuro-Rehabilitation Center and Clin",
+      "id": "2689"
+    },
+    {
+      "facilityName": "Deva Medical Center Clin",
+      "id": "1690"
+    },
+    {
+      "facilityName": "Dr Julieta B Lucs Dental Clinic",
+      "id": "1468"
+    },
+    {
+      "facilityName": "Frontier Polyclinic",
+      "id": "3006"
+    },
+    {
+      "facilityName": "GLAMERC Policlinic",
+      "id": "1440"
+    },
+    {
+      "facilityName": "Hopital Croix du Sud",
+      "id": "466"
+    },
+    {
+      "facilityName": "Horebu Medical Clin",
+      "id": "2628"
+    },
+    {
+      "facilityName": "Iranzi Clin",
+      "id": "1679"
+    },
+    {
+      "facilityName": "Kigali Adventist Medical",
+      "id": "1216"
+    },
+    {
+      "facilityName": "Kigali Cardiology Cabinet Clin",
+      "id": "2174"
+    },
+    {
+      "facilityName": "Kigali Citizens Polyclinic",
+      "id": "1191"
+    },
+    {
+      "facilityName": "Kigali Dermatology Clin",
+      "id": "1217"
+    },
+    {
+      "facilityName": "Kigali Eye Care Consultants Clin",
+      "id": "3352"
+    },
+    {
+      "facilityName": "Kigali Psycho-Medical Center",
+      "id": "2832"
+    },
+    {
+      "facilityName": "Kigali Trust Clinic",
+      "id": "3244"
+    },
+    {
+      "facilityName": "La Triade CLIN",
+      "id": "658"
+    },
+    {
+      "facilityName": "Lancet Laboratories Rwanda",
+      "id": "2763"
+    },
+    {
+      "facilityName": "Le bon samaritain CLIN",
+      "id": "1126"
+    },
+    {
+      "facilityName": "Makirelax Cabinet Clin",
+      "id": "2657"
+    },
+    {
+      "facilityName": "Max Cure Clin",
+      "id": "2650"
+    },
+    {
+      "facilityName": "Mpore Liberte (Gasabo) CLIN",
+      "id": "1134"
+    },
+    {
+      "facilityName": "MÃ¨re du verbe CLIN",
+      "id": "1133"
+    },
+    {
+      "facilityName": "Nations Unies Clin",
+      "id": "1139"
+    },
+    {
+      "facilityName": "Nyabisindu(Gasabo) HP",
+      "id": "2981"
+    },
+    {
+      "facilityName": "Nyarutarama Medical Center Clin",
+      "id": "2995"
+    },
+    {
+      "facilityName": "Physique Ltd Clinic",
+      "id": "1542"
+    },
+    {
+      "facilityName": "Polyclin Familiale",
+      "id": "1293"
+    },
+    {
+      "facilityName": "Polyclinic du Plateau",
+      "id": "655"
+    },
+    {
+      "facilityName": "Polyclinique Familiale Clin",
+      "id": "1135"
+    },
+    {
+      "facilityName": "Remera (Gasabo) MHC",
+      "id": "23"
+    },
+    {
+      "facilityName": "Saint Samuella Clin",
+      "id": "1695"
+    },
+    {
+      "facilityName": "WE-ACT CLINIC",
+      "id": "1348"
+    }
+  ],
+  "nyarugenge_nyarugenge": [
+    {
+      "facilityName": "Advanced Medical Diagnostics Clin",
+      "id": "2627"
+    },
+    {
+      "facilityName": "Babyl Health Clin",
+      "id": "1682"
+    },
+    {
+      "facilityName": "Biryogo CS",
+      "id": "1"
+    },
+    {
+      "facilityName": "Cabinet dentaire",
+      "id": "1469"
+    },
+    {
+      "facilityName": "Cabinet Medical Soins pour tous",
+      "id": "1109"
+    },
+    {
+      "facilityName": "Centre MÃ©dical BAHO",
+      "id": "1110"
+    },
+    {
+      "facilityName": "Centre MÃ©dical BNR",
+      "id": "1111"
+    },
+    {
+      "facilityName": "Charite Digestive Charity Clin",
+      "id": "3112"
+    },
+    {
+      "facilityName": "Chinoise CLIN",
+      "id": "1117"
+    },
+    {
+      "facilityName": "CHK(CHUK) HNR",
+      "id": "3"
+    },
+    {
+      "facilityName": "Clinique Ewsa CLIN",
+      "id": "1485"
+    },
+    {
+      "facilityName": "Clinique Medicale Prive CLIN",
+      "id": "656"
+    },
+    {
+      "facilityName": "EPDU Africa Digital Clinic",
+      "id": "3196"
+    },
+    {
+      "facilityName": "Gentle Dental Clin",
+      "id": "2170"
+    },
+    {
+      "facilityName": "Imboni CLIN",
+      "id": "1123"
+    },
+    {
+      "facilityName": "Impore HP",
+      "id": "2875"
+    },
+    {
+      "facilityName": "Kigali Adventist Dental Clinic (Nyarugenge)",
+      "id": "1685"
+    },
+    {
+      "facilityName": "Kigali Optic",
+      "id": "1218"
+    },
+    {
+      "facilityName": "Life Clinic",
+      "id": "1219"
+    },
+    {
+      "facilityName": "MBC Hospital",
+      "id": "2147"
+    },
+    {
+      "facilityName": "Pineda Dental Clin",
+      "id": "1220"
+    },
+    {
+      "facilityName": "PolyClin Med Naroda",
+      "id": "1224"
+    },
+    {
+      "facilityName": "Rwampara CS",
+      "id": "5"
+    },
+    {
+      "facilityName": "Rwanda Eye Clin",
+      "id": "1225"
+    },
+    {
+      "facilityName": "Sanlam Assurance",
+      "id": "1226"
+    },
+    {
+      "facilityName": "SANTE Clinic",
+      "id": "2818"
+    },
+    {
+      "facilityName": "St Peter Bio Medical Clin",
+      "id": "1227"
+    },
+    {
+      "facilityName": "UR-CMHS Polyclinic",
+      "id": "1545"
+    },
+    {
+      "facilityName": "Urumuri HP",
+      "id": "3176"
+    },
+    {
+      "facilityName": "WE ACT For Hope Clin",
+      "id": "1573"
+    }
+  ],
+  "gisagara_kigembe": [
+    {
+      "facilityName": "Agahabwa CS",
+      "id": "1554"
+    },
+    {
+      "facilityName": "Gatovu (Kigembe) HP",
+      "id": "2475"
+    },
+    {
+      "facilityName": "Nyabikenke HP",
+      "id": "2482"
+    },
+    {
+      "facilityName": "Rubona (Kigembe) HP",
+      "id": "2578"
+    },
+    {
+      "facilityName": "Rusagara (Kigembe) HP",
+      "id": "3171"
+    }
+  ],
+  "gisagara_mukindo": [
+    {
+      "facilityName": "Agatunda HP",
+      "id": "3149"
+    },
+    {
+      "facilityName": "Gitega (Mukindo) HP",
+      "id": "2577"
+    },
+    {
+      "facilityName": "Kibayi CS",
+      "id": "59"
+    },
+    {
+      "facilityName": "Mukiza HP",
+      "id": "2435"
+    },
+    {
+      "facilityName": "Runyinya HP",
+      "id": "2436"
+    }
+  ],
+  "gasabo_kimihurura": [
+    {
+      "facilityName": "AHA Clinic",
+      "id": "1281"
+    },
+    {
+      "facilityName": "Kamukina HP",
+      "id": "2982"
+    },
+    {
+      "facilityName": "Kigali Stand Alone Dialysis Center",
+      "id": "2162"
+    },
+    {
+      "facilityName": "Mediheal Clin",
+      "id": "1678"
+    },
+    {
+      "facilityName": "Nziza HP",
+      "id": "3023"
+    },
+    {
+      "facilityName": "Rugando HP",
+      "id": "2713"
+    },
+    {
+      "facilityName": "Solamer CLIN",
+      "id": "1136"
+    },
+    {
+      "facilityName": "Umwizerwa Medicare Centre Clin",
+      "id": "1676"
+    }
+  ],
+  "gasabo_kinyinya": [
+    {
+      "facilityName": "AIM LIFECARE LTD",
+      "id": "3287"
+    },
+    {
+      "facilityName": "Batsinda HP",
+      "id": "1782"
+    },
+    {
+      "facilityName": "Isange Dental Clinic",
+      "id": "3309"
+    },
+    {
+      "facilityName": "Kagugu CS",
+      "id": "20"
+    },
+    {
+      "facilityName": "Kagugu HP",
+      "id": "3063"
+    },
+    {
+      "facilityName": "Kami HP",
+      "id": "2968"
+    },
+    {
+      "facilityName": "Kigali Mental Health Referral Center",
+      "id": "3138"
+    },
+    {
+      "facilityName": "Kinyinya CS",
+      "id": "25"
+    },
+    {
+      "facilityName": "NISSI Clinic",
+      "id": "3048"
+    },
+    {
+      "facilityName": "Plastic surgery and Beauty Clinic",
+      "id": "3259"
+    },
+    {
+      "facilityName": "Rwanda Women's Network CS",
+      "id": "1229"
+    },
+    {
+      "facilityName": "Rwankuba HP",
+      "id": "2526"
+    },
+    {
+      "facilityName": "Salem Clin",
+      "id": "1558"
+    },
+    {
+      "facilityName": "Urwego HP",
+      "id": "3395"
+    }
+  ],
+  "nyarugenge_gitega": [
+    {
+      "facilityName": "Akabahizi HP",
+      "id": "2733"
+    },
+    {
+      "facilityName": "Akabeza II HP",
+      "id": "2735"
+    },
+    {
+      "facilityName": "Asterie HP",
+      "id": "2734"
+    },
+    {
+      "facilityName": "Gitega (Kigarama) HP",
+      "id": "2987"
+    },
+    {
+      "facilityName": "Gitega Polyclinic Saint Robert",
+      "id": "3065"
+    },
+    {
+      "facilityName": "Ihumure HP",
+      "id": "2986"
+    },
+    {
+      "facilityName": "Kinyange HP",
+      "id": "2935"
+    },
+    {
+      "facilityName": "KORA HP",
+      "id": "2046"
+    },
+    {
+      "facilityName": "Odonto Stomatologie Clin",
+      "id": "2189"
+    }
+  ],
+  "gisagara_musha": [
+    {
+      "facilityName": "Akabanga(Musha)HP",
+      "id": "3081"
+    },
+    {
+      "facilityName": "Gatovu (Musha) HP",
+      "id": "2476"
+    },
+    {
+      "facilityName": "Kigarama (Musha) HP",
+      "id": "2478"
+    },
+    {
+      "facilityName": "Kimana Precious HP",
+      "id": "1836"
+    },
+    {
+      "facilityName": "Musha (gisagara) CS",
+      "id": "65"
+    }
+  ],
+  "ngoma_mugesera": [
+    {
+      "facilityName": "Akabungo HP",
+      "id": "1953"
+    },
+    {
+      "facilityName": "Ntaga HP",
+      "id": "3324"
+    },
+    {
+      "facilityName": "Nyange CS",
+      "id": "439"
+    }
+  ],
+  "ngoma_rurenge": [
+    {
+      "facilityName": "Akagarama HP",
+      "id": "1954"
+    },
+    {
+      "facilityName": "Kirwa CS",
+      "id": "437"
+    },
+    {
+      "facilityName": "Muhurire PS",
+      "id": "626"
+    }
+  ],
+  "gisagara_kansi": [
+    {
+      "facilityName": "Akambogo HP",
+      "id": "3067"
+    },
+    {
+      "facilityName": "Bwiza (Kansi) HP",
+      "id": "3170"
+    },
+    {
+      "facilityName": "Gikore CS",
+      "id": "56"
+    },
+    {
+      "facilityName": "Impinga HP",
+      "id": "1835"
+    },
+    {
+      "facilityName": "Kansi CS",
+      "id": "58"
+    },
+    {
+      "facilityName": "Rubona HP",
+      "id": "2485"
+    },
+    {
+      "facilityName": "Umunini HP",
+      "id": "1845"
+    }
+  ],
+  "rwamagana_muyumbu": [
+    {
+      "facilityName": "Akinyambo HP",
+      "id": "2587"
+    },
+    {
+      "facilityName": "Imena HP",
+      "id": "3068"
+    },
+    {
+      "facilityName": "Murehe Muyumbu HP",
+      "id": "653"
+    },
+    {
+      "facilityName": "Muyumbu CS",
+      "id": "358"
+    },
+    {
+      "facilityName": "Muyumbu Medical Clinic Ltd",
+      "id": "2692"
+    },
+    {
+      "facilityName": "Nyarukombe HP",
+      "id": "2998"
+    }
+  ],
+  "gasabo_rusororo": [
+    {
+      "facilityName": "ALLIANCE ARENA CLINIC",
+      "id": "3195"
+    },
+    {
+      "facilityName": "Alpha Bisenga HP",
+      "id": "2857"
+    },
+    {
+      "facilityName": "Beatrice Polyclinic",
+      "id": "1684"
+    },
+    {
+      "facilityName": "Clinique Dentaire St Joseph",
+      "id": "1639"
+    },
+    {
+      "facilityName": "Gasagara HP",
+      "id": "1787"
+    },
+    {
+      "facilityName": "Good Hope CLIN",
+      "id": "1122"
+    },
+    {
+      "facilityName": "Iramiro CLIN",
+      "id": "1124"
+    },
+    {
+      "facilityName": "Kabuga (Rusororo) HP",
+      "id": "3146"
+    },
+    {
+      "facilityName": "Kinyana HP",
+      "id": "1793"
+    },
+    {
+      "facilityName": "Mbandazi HP",
+      "id": "1508"
+    },
+    {
+      "facilityName": "Odenwald HP",
+      "id": "3291"
+    },
+    {
+      "facilityName": "Palliative Care Center",
+      "id": "1366"
+    },
+    {
+      "facilityName": "Solace Ministries CS",
+      "id": "1228"
+    },
+    {
+      "facilityName": "Yego Center KABUGA HP",
+      "id": "3029"
+    }
+  ],
+  "nyarugenge_kigali": [
+    {
+      "facilityName": "Amizero Rwesero HP",
+      "id": "3304"
+    },
+    {
+      "facilityName": "BT David HealthCare Clin",
+      "id": "3198"
+    },
+    {
+      "facilityName": "Family Medical Clinic",
+      "id": "3053"
+    },
+    {
+      "facilityName": "Inshuti Nyabikoni HP",
+      "id": "2932"
+    },
+    {
+      "facilityName": "Karama (Kigali) HP",
+      "id": "2454"
+    },
+    {
+      "facilityName": "Kigali HP",
+      "id": "2984"
+    },
+    {
+      "facilityName": "Mwendo (nyarugenge) CS",
+      "id": "9"
+    },
+    {
+      "facilityName": "NSHUTI HP",
+      "id": "2049"
+    },
+    {
+      "facilityName": "Rwesero (Kigali) HP",
+      "id": "2786"
+    },
+    {
+      "facilityName": "Saint Gerald Clinic",
+      "id": "3135"
+    },
+    {
+      "facilityName": "Trac HIV Clinic",
+      "id": "12"
+    },
+    {
+      "facilityName": "Urban Dental Clinic",
+      "id": "3179"
+    }
+  ],
+  "huye_ngoma (huye district)": [
+    {
+      "facilityName": "ARBEF HUYE",
+      "id": "1556"
+    },
+    {
+      "facilityName": "Butare Chu Hnr (huye)",
+      "id": "82"
+    },
+    {
+      "facilityName": "CUSP Butare CS",
+      "id": "83"
+    },
+    {
+      "facilityName": "Huye Isange Rehabilitation Center",
+      "id": "2821"
+    },
+    {
+      "facilityName": "Huye Police CS",
+      "id": "84"
+    },
+    {
+      "facilityName": "Huye Prison",
+      "id": "90"
+    },
+    {
+      "facilityName": "IRISA Medical Clin",
+      "id": "2363"
+    },
+    {
+      "facilityName": "KABUREMERA BWIZA HEALTH POST",
+      "id": "3389"
+    },
+    {
+      "facilityName": "Kabutare DH",
+      "id": "85"
+    },
+    {
+      "facilityName": "Matyazo CS",
+      "id": "88"
+    },
+    {
+      "facilityName": "Medilabs Ngoma Clin",
+      "id": "2165"
+    },
+    {
+      "facilityName": "Polyclinic la Medicale de Huye CLIN",
+      "id": "1402"
+    },
+    {
+      "facilityName": "Rusa.Germain48 HP",
+      "id": "3164"
+    },
+    {
+      "facilityName": "Salus Polyclinic",
+      "id": "1540"
+    },
+    {
+      "facilityName": "Sangwa Polyclinic",
+      "id": "3213"
+    },
+    {
+      "facilityName": "SANITIUS MEDICAL CLINIC",
+      "id": "3262"
+    }
+  ],
+  "nyarugenge_muhima": [
+    {
+      "facilityName": "ARBEF Muhima",
+      "id": "1104"
+    },
+    {
+      "facilityName": "Bien Naitre CLIN",
+      "id": "1121"
+    },
+    {
+      "facilityName": "BMC",
+      "id": "1107"
+    },
+    {
+      "facilityName": "Bwiza medical clinic and Diagnostic center Clin",
+      "id": "2803"
+    },
+    {
+      "facilityName": "Cabinet MÃ©d Pediatrie",
+      "id": "1108"
+    },
+    {
+      "facilityName": "Faith Clinic",
+      "id": "1214"
+    },
+    {
+      "facilityName": "Harmony Clin",
+      "id": "1222"
+    },
+    {
+      "facilityName": "Humanhood Clinics",
+      "id": "2817"
+    },
+    {
+      "facilityName": "Ihumure (Nyabugogo) HP",
+      "id": "2993"
+    },
+    {
+      "facilityName": "Ivuriro Alpha Rugenge HP",
+      "id": "3234"
+    },
+    {
+      "facilityName": "Kabasengerezi HP",
+      "id": "3204"
+    },
+    {
+      "facilityName": "Kabeza (Muhima) HPx",
+      "id": "2811"
+    },
+    {
+      "facilityName": "kigali eye centre",
+      "id": "1579"
+    },
+    {
+      "facilityName": "Kigali Medical Imaging  Supply Center Clin",
+      "id": "2359"
+    },
+    {
+      "facilityName": "la fondation du coeur",
+      "id": "1581"
+    },
+    {
+      "facilityName": "La MÃ©dicale (Kwa Kanimba) CLIN",
+      "id": "1125"
+    },
+    {
+      "facilityName": "Muhima CS",
+      "id": "7"
+    },
+    {
+      "facilityName": "Muhima DH",
+      "id": "8"
+    },
+    {
+      "facilityName": "PolyClin La Biomed",
+      "id": "1223"
+    },
+    {
+      "facilityName": "Polyclinique de l'Etoile",
+      "id": "1543"
+    },
+    {
+      "facilityName": "Polyclinique Medico Sociale",
+      "id": "1132"
+    },
+    {
+      "facilityName": "Rilima Orthopedic Center-CRPF(Kigali Branch)",
+      "id": "3236"
+    },
+    {
+      "facilityName": "Rugenge HP",
+      "id": "3076"
+    },
+    {
+      "facilityName": "Tetero HP",
+      "id": "2988"
+    },
+    {
+      "facilityName": "Tetero HP",
+      "id": "3267"
+    },
+    {
+      "facilityName": "Vigile Cabinet Medical",
+      "id": "1444"
+    }
+  ],
+  "musanze_muhoza": [
+    {
+      "facilityName": "ARBEF Musanze",
+      "id": "1535"
+    },
+    {
+      "facilityName": "Cyabararika HP",
+      "id": "1941"
+    },
+    {
+      "facilityName": "Gateway Clinic Musanze Ltd",
+      "id": "3144"
+    },
+    {
+      "facilityName": "Mont Nyamagumba CLIN",
+      "id": "1449"
+    },
+    {
+      "facilityName": "Mpenge HP",
+      "id": "2728"
+    },
+    {
+      "facilityName": "Mpore Liberte (Musanze) CLIN",
+      "id": "1441"
+    },
+    {
+      "facilityName": "Muhoza (Ruhengeri) CS",
+      "id": "316"
+    },
+    {
+      "facilityName": "Musanze Prison",
+      "id": "536"
+    },
+    {
+      "facilityName": "Polyclinic la Medicale de Musanze",
+      "id": "1364"
+    },
+    {
+      "facilityName": "Proomnibus Clinic",
+      "id": "1539"
+    },
+    {
+      "facilityName": "Ruhengeri L2TH",
+      "id": "317"
+    },
+    {
+      "facilityName": "Susa PS",
+      "id": "1629"
+    },
+    {
+      "facilityName": "United Dental Clinic",
+      "id": "3107"
+    }
+  ],
+  "rusizi_kamembe": [
+    {
+      "facilityName": "ARBEF Rusizi",
+      "id": "1537"
+    },
+    {
+      "facilityName": "Beta Clin",
+      "id": "2558"
+    },
+    {
+      "facilityName": "Dialysis Center_Gihundwe",
+      "id": "2164"
+    },
+    {
+      "facilityName": "Gihundwe CS",
+      "id": "240"
+    },
+    {
+      "facilityName": "Gihundwe DH",
+      "id": "241"
+    },
+    {
+      "facilityName": "La Fidelite CLIN_Rusizi",
+      "id": "1658"
+    },
+    {
+      "facilityName": "Mbagira HP",
+      "id": "3342"
+    },
+    {
+      "facilityName": "Mont Cyangugu CS",
+      "id": "1403"
+    },
+    {
+      "facilityName": "Murangi HP",
+      "id": "3343"
+    },
+    {
+      "facilityName": "Orion Clin",
+      "id": "2557"
+    },
+    {
+      "facilityName": "Rusizi Military Clinic",
+      "id": "1669"
+    },
+    {
+      "facilityName": "Rusizi Prison",
+      "id": "584"
+    },
+    {
+      "facilityName": "SAGI Clinic",
+      "id": "1530"
+    },
+    {
+      "facilityName": "Ste Elisabeth Clin",
+      "id": "2169"
+    }
+  ],
+  "karongi_rubengera": [
+    {
+      "facilityName": "ARBEF/Karongi Clinic",
+      "id": "1314"
+    },
+    {
+      "facilityName": "Bubazi CS",
+      "id": "156"
+    },
+    {
+      "facilityName": "Gitwa HP",
+      "id": "2591"
+    },
+    {
+      "facilityName": "Kibirizi HP",
+      "id": "1884"
+    },
+    {
+      "facilityName": "Kira Medical Care Clin",
+      "id": "3298"
+    },
+    {
+      "facilityName": "Mataba (Rubengera) HP",
+      "id": "2437"
+    },
+    {
+      "facilityName": "Nyarugenge (Rubengera) HP",
+      "id": "2152"
+    },
+    {
+      "facilityName": "Rubengera CS",
+      "id": "174"
+    },
+    {
+      "facilityName": "Ruragwe HP",
+      "id": "2592"
+    },
+    {
+      "facilityName": "SANTA MEDICAL CLIN",
+      "id": "3214"
+    }
+  ],
+  "nyabihu_bigogwe": [
+    {
+      "facilityName": "Arusha CS",
+      "id": "206"
+    },
+    {
+      "facilityName": "Basumba HP",
+      "id": "3118"
+    },
+    {
+      "facilityName": "Bigogwe MHC",
+      "id": "207"
+    },
+    {
+      "facilityName": "Kora CS",
+      "id": "214"
+    },
+    {
+      "facilityName": "Shalom Clin",
+      "id": "2834"
+    }
+  ],
+  "nyaruguru_muganza (nyaruguru district)": [
+    {
+      "facilityName": "ASFA Physiotherapy and Rehabilitation Center",
+      "id": "3326"
+    },
+    {
+      "facilityName": "Muganza CS",
+      "id": "72"
+    },
+    {
+      "facilityName": "RUKORE HP",
+      "id": "2067"
+    },
+    {
+      "facilityName": "UWACYIZA HP",
+      "id": "2840"
+    }
+  ],
+  "rwamagana_muhazi": [
+    {
+      "facilityName": "Avega Rwamagana CS",
+      "id": "547"
+    },
+    {
+      "facilityName": "Bwiza HP",
+      "id": "2460"
+    },
+    {
+      "facilityName": "Kitazigurwa (Muhazi) HP",
+      "id": "2134"
+    },
+    {
+      "facilityName": "Murambi (rwamagana) CS",
+      "id": "585"
+    },
+    {
+      "facilityName": "Nsinda HP",
+      "id": "2572"
+    },
+    {
+      "facilityName": "RCS Training School CS",
+      "id": "3385"
+    },
+    {
+      "facilityName": "Rwamagana Prison",
+      "id": "550"
+    },
+    {
+      "facilityName": "Sangwa HP",
+      "id": "3355"
+    }
+  ],
+  "kicukiro_masaka": [
+    {
+      "facilityName": "Ayabaraya HP",
+      "id": "2183"
+    },
+    {
+      "facilityName": "Dothan Clin",
+      "id": "1687"
+    },
+    {
+      "facilityName": "Kabuga (kicukiro) CS",
+      "id": "33"
+    },
+    {
+      "facilityName": "Masaka CS",
+      "id": "36"
+    },
+    {
+      "facilityName": "Masaka DH",
+      "id": "1234"
+    },
+    {
+      "facilityName": "Mbabe HP",
+      "id": "3296"
+    },
+    {
+      "facilityName": "Rusheshe HP",
+      "id": "1908"
+    },
+    {
+      "facilityName": "VIVA Clin",
+      "id": "3114"
+    }
+  ],
+  "rubavu_nyundo": [
+    {
+      "facilityName": "Bahimba HP",
+      "id": "2781"
+    },
+    {
+      "facilityName": "Gatovu(Nyundo) 2 HP",
+      "id": "3256"
+    },
+    {
+      "facilityName": "Kavomo HP",
+      "id": "3080"
+    },
+    {
+      "facilityName": "Nyundo (rubavu) CS",
+      "id": "204"
+    },
+    {
+      "facilityName": "Ryamukondo HP",
+      "id": "2079"
+    }
+  ],
+  "kamonyi_runda": [
+    {
+      "facilityName": "Baho Gitare HP",
+      "id": "2895"
+    },
+    {
+      "facilityName": "Gatagara (Runda) HP",
+      "id": "2952"
+    },
+    {
+      "facilityName": "Gihara CS",
+      "id": "143"
+    },
+    {
+      "facilityName": "Gihara HP",
+      "id": "1864"
+    },
+    {
+      "facilityName": "Kabagesera HP",
+      "id": "2543"
+    },
+    {
+      "facilityName": "Kagina HP",
+      "id": "2544"
+    },
+    {
+      "facilityName": "Kibaya(RUNDA) HP",
+      "id": "2970"
+    },
+    {
+      "facilityName": "Muganza (Runda) HP",
+      "id": "2542"
+    },
+    {
+      "facilityName": "Rapha (Kamonyi) Clinic",
+      "id": "1582"
+    },
+    {
+      "facilityName": "UBI Caritas Clinic",
+      "id": "3030"
+    },
+    {
+      "facilityName": "Ubuntu Medical Clin",
+      "id": "3173"
+    }
+  ],
+  "bugesera_juru": [
+    {
+      "facilityName": "Baho Juru HP",
+      "id": "2865"
+    },
+    {
+      "facilityName": "Juru CS",
+      "id": "603"
+    },
+    {
+      "facilityName": "Kabukuba HP",
+      "id": "1698"
+    },
+    {
+      "facilityName": "Mugororore HP",
+      "id": "1699"
+    },
+    {
+      "facilityName": "Musovu SGHP",
+      "id": "2414"
+    }
+  ],
+  "bugesera_ntarama": [
+    {
+      "facilityName": "Baho Kanzenze HP",
+      "id": "2872"
+    },
+    {
+      "facilityName": "Cyugaro HP",
+      "id": "1710"
+    },
+    {
+      "facilityName": "Kanzenze HP",
+      "id": "1711"
+    },
+    {
+      "facilityName": "Kibungo HP",
+      "id": "1712"
+    },
+    {
+      "facilityName": "Kinsley Blake Hanner HP",
+      "id": "2159"
+    },
+    {
+      "facilityName": "Ntarama CS",
+      "id": "1101"
+    },
+    {
+      "facilityName": "St Michel Clinic",
+      "id": "2172"
+    },
+    {
+      "facilityName": "The Kinsley Blake Hanner (Gasore Foundation)",
+      "id": "2873"
+    }
+  ],
+  "rwamagana_munyiginya": [
+    {
+      "facilityName": "Baho Nyarubuye-Munyiginya HP",
+      "id": "3001"
+    },
+    {
+      "facilityName": "Munyiginya CS",
+      "id": "2135"
+    }
+  ],
+  "bugesera_ruhuha": [
+    {
+      "facilityName": "Bahoneza Bihari HP",
+      "id": "2876"
+    },
+    {
+      "facilityName": "Clinique General Iwacu Ltd",
+      "id": "2814"
+    },
+    {
+      "facilityName": "Gatanga HP",
+      "id": "1719"
+    },
+    {
+      "facilityName": "Gikundamvura SGHP",
+      "id": "1720"
+    },
+    {
+      "facilityName": "IMPANO Dental Clinic",
+      "id": "3104"
+    },
+    {
+      "facilityName": "Kindama HP",
+      "id": "1721"
+    },
+    {
+      "facilityName": "Nyamigina (Ruhuha) HP",
+      "id": "3338"
+    },
+    {
+      "facilityName": "Ruhuha (RUHUHA) HP",
+      "id": "1722"
+    },
+    {
+      "facilityName": "Ruhuha CS",
+      "id": "458"
+    }
+  ],
+  "nyamagabe_gatare": [
+    {
+      "facilityName": "Bakopfu HP",
+      "id": "2465"
+    },
+    {
+      "facilityName": "Mukongoro HP",
+      "id": "2852"
+    },
+    {
+      "facilityName": "Rugege CS",
+      "id": "112"
+    },
+    {
+      "facilityName": "Shyeru HP",
+      "id": "3339"
+    }
+  ],
+  "ngororero_nyange": [
+    {
+      "facilityName": "Bambiro HP",
+      "id": "3253"
+    },
+    {
+      "facilityName": "Nyange B CS",
+      "id": "232"
+    },
+    {
+      "facilityName": "Vuganyana HP",
+      "id": "2682"
+    }
+  ],
+  "nyamasheke_rangiro": [
+    {
+      "facilityName": "BANDA HP",
+      "id": "2001"
+    },
+    {
+      "facilityName": "Gakenge(Rangiro) HP",
+      "id": "3071"
+    },
+    {
+      "facilityName": "JURWE HP",
+      "id": "2009"
+    },
+    {
+      "facilityName": "Rangiro CS",
+      "id": "268"
+    }
+  ],
+  "kirehe_kigina": [
+    {
+      "facilityName": "Baraka Medical Clin (Kirehe)",
+      "id": "2753"
+    },
+    {
+      "facilityName": "Gatarama (Kigina) HP",
+      "id": "3177"
+    },
+    {
+      "facilityName": "Kigina CS",
+      "id": "2555"
+    },
+    {
+      "facilityName": "Rugarama (KIGINA) HP",
+      "id": "1919"
+    }
+  ],
+  "nyamagabe_gasaka": [
+    {
+      "facilityName": "Baraka Medical Clin (Nyamagabe)",
+      "id": "2859"
+    },
+    {
+      "facilityName": "Gitantu HP",
+      "id": "2620"
+    },
+    {
+      "facilityName": "Inshuti Medical Clin",
+      "id": "1694"
+    },
+    {
+      "facilityName": "Kigeme CS",
+      "id": "102"
+    },
+    {
+      "facilityName": "Kigeme DH",
+      "id": "103"
+    },
+    {
+      "facilityName": "Kigeme Refugee Camp CS",
+      "id": "2371"
+    },
+    {
+      "facilityName": "Nyamagabe CS",
+      "id": "109"
+    },
+    {
+      "facilityName": "Nyamagabe Prison",
+      "id": "492"
+    },
+    {
+      "facilityName": "Remera (Kigeme) HP",
+      "id": "2847"
+    }
+  ],
+  "rubavu_rugerero": [
+    {
+      "facilityName": "Basa HP",
+      "id": "2779"
+    },
+    {
+      "facilityName": "GISA HP",
+      "id": "2075"
+    },
+    {
+      "facilityName": "Muhira HP",
+      "id": "3079"
+    },
+    {
+      "facilityName": "Nyarurembo (Rugerero)  HP",
+      "id": "2080"
+    },
+    {
+      "facilityName": "Rugerero CS",
+      "id": "2864"
+    },
+    {
+      "facilityName": "Rukingo HP",
+      "id": "3210"
+    },
+    {
+      "facilityName": "Rukukumbo HP",
+      "id": "3344"
+    }
+  ],
+  "bugesera_rweru": [
+    {
+      "facilityName": "Batima (Batima) HP",
+      "id": "1723"
+    },
+    {
+      "facilityName": "Batima (Mbuganzeli) SGHP",
+      "id": "2438"
+    },
+    {
+      "facilityName": "Mujwiri HP",
+      "id": "1725"
+    },
+    {
+      "facilityName": "Nemba HP",
+      "id": "1724"
+    },
+    {
+      "facilityName": "Nzangwa CS",
+      "id": "455"
+    },
+    {
+      "facilityName": "Rutete HP",
+      "id": "1726"
+    }
+  ],
+  "gisagara_mugombwa": [
+    {
+      "facilityName": "Baziro HP",
+      "id": "2474"
+    },
+    {
+      "facilityName": "Kibayi HP",
+      "id": "2477"
+    },
+    {
+      "facilityName": "Kibu HP",
+      "id": "2579"
+    },
+    {
+      "facilityName": "Mugombwa CS",
+      "id": "64"
+    },
+    {
+      "facilityName": "Mugombwa PS",
+      "id": "2536"
+    },
+    {
+      "facilityName": "Mugombwa Refugee Camp CS",
+      "id": "2626"
+    },
+    {
+      "facilityName": "Mukomacara HP",
+      "id": "1838"
+    }
+  ],
+  "kicukiro_nyarugunga": [
+    {
+      "facilityName": "Bella Vitae Medical Clin",
+      "id": "2365"
+    },
+    {
+      "facilityName": "Ijabo Clin",
+      "id": "2820"
+    },
+    {
+      "facilityName": "Legacy Clin",
+      "id": "1683"
+    },
+    {
+      "facilityName": "Nanuri Medical Centre Ltd Clin",
+      "id": "2606"
+    },
+    {
+      "facilityName": "Net Care HP",
+      "id": "3181"
+    },
+    {
+      "facilityName": "Nonko HP",
+      "id": "3392"
+    },
+    {
+      "facilityName": "Nyarugunga CS",
+      "id": "558"
+    },
+    {
+      "facilityName": "Rwanda Military Hospital",
+      "id": "34"
+    },
+    {
+      "facilityName": "Shema (Kicukiro) Clin",
+      "id": "1550"
+    }
+  ],
+  "bugesera_nyamata": [
+    {
+      "facilityName": "Benefactor David Clin",
+      "id": "1394"
+    },
+    {
+      "facilityName": "Divine grace medical Clinic",
+      "id": "3103"
+    },
+    {
+      "facilityName": "Gahembe HP",
+      "id": "2711"
+    },
+    {
+      "facilityName": "Hope (Nyamata) Clinic",
+      "id": "2800"
+    },
+    {
+      "facilityName": "Imanzi (Bugesera) Clin",
+      "id": "2355"
+    },
+    {
+      "facilityName": "Impinganzima HP",
+      "id": "2874"
+    },
+    {
+      "facilityName": "Kanazi HP",
+      "id": "1713"
+    },
+    {
+      "facilityName": "Kayumba HP",
+      "id": "1714"
+    },
+    {
+      "facilityName": "Murama (Nyamata) HP",
+      "id": "1715"
+    },
+    {
+      "facilityName": "Nyamata CS",
+      "id": "453"
+    },
+    {
+      "facilityName": "Nyamata L2TH",
+      "id": "454"
+    },
+    {
+      "facilityName": "Nyamata SGHP",
+      "id": "3306"
+    },
+    {
+      "facilityName": "Nyiramatuntu HP",
+      "id": "2717"
+    },
+    {
+      "facilityName": "Pasteur Clinic",
+      "id": "3393"
+    },
+    {
+      "facilityName": "Polyclinic El-Gadol",
+      "id": "3252"
+    },
+    {
+      "facilityName": "Stella Clin",
+      "id": "1672"
+    },
+    {
+      "facilityName": "Unity Clinic",
+      "id": "3034"
+    }
+  ],
+  "kicukiro_kanombe": [
+    {
+      "facilityName": "Bethanie Medical Clinic",
+      "id": "2171"
+    },
+    {
+      "facilityName": "Busanza CS",
+      "id": "30"
+    },
+    {
+      "facilityName": "Hope Medical Center(Polyclinic)",
+      "id": "3327"
+    },
+    {
+      "facilityName": "Horebu Medical Clinic Kabeza",
+      "id": "2861"
+    },
+    {
+      "facilityName": "Igisubizo Medical Clin",
+      "id": "1368"
+    },
+    {
+      "facilityName": "Kairos CS",
+      "id": "1647"
+    },
+    {
+      "facilityName": "Karama (Kanombe) HP",
+      "id": "3088"
+    },
+    {
+      "facilityName": "Masaka HP",
+      "id": "2446"
+    },
+    {
+      "facilityName": "St Moise CLIN",
+      "id": "1137"
+    },
+    {
+      "facilityName": "Umugisha Rubirizi HP",
+      "id": "3251"
+    },
+    {
+      "facilityName": "Women's Health and Fertility Clin",
+      "id": "3269"
+    }
+  ],
+  "kicukiro_kicukiro": [
+    {
+      "facilityName": "Bethsaida CS",
+      "id": "29"
+    },
+    {
+      "facilityName": "Carrefour CLIN",
+      "id": "657"
+    },
+    {
+      "facilityName": "Goodlife Ivuriro Clinic",
+      "id": "3382"
+    },
+    {
+      "facilityName": "La Pervenche",
+      "id": "2833"
+    },
+    {
+      "facilityName": "Ubumuntu Medical Clin",
+      "id": "2168"
+    }
+  ],
+  "gasabo_gikomero": [
+    {
+      "facilityName": "Bibare (Kimironko) HP",
+      "id": "3310"
+    },
+    {
+      "facilityName": "Gicaca HP",
+      "id": "1600"
+    },
+    {
+      "facilityName": "Gikomero II CS",
+      "id": "654"
+    },
+    {
+      "facilityName": "Kibara HP",
+      "id": "2431"
+    }
+  ],
+  "nyagatare_mimuri": [
+    {
+      "facilityName": "Bibare (Mimuri) HP",
+      "id": "2712"
+    },
+    {
+      "facilityName": "Hunga PS",
+      "id": "640"
+    },
+    {
+      "facilityName": "ISANGE_RUGARI HP",
+      "id": "2913"
+    },
+    {
+      "facilityName": "MAHORO HP",
+      "id": "2912"
+    },
+    {
+      "facilityName": "Mahwa HP",
+      "id": "2421"
+    },
+    {
+      "facilityName": "Mimuri CS",
+      "id": "374"
+    },
+    {
+      "facilityName": "Nyagahita CS",
+      "id": "378"
+    },
+    {
+      "facilityName": "Rugari (Mimuri) HP",
+      "id": "2502"
+    }
+  ],
+  "kamonyi_nyamiyaga": [
+    {
+      "facilityName": "Bibungo (Nyamiyaga) HP",
+      "id": "2686"
+    },
+    {
+      "facilityName": "Cubi KAYENZI HP",
+      "id": "2891"
+    },
+    {
+      "facilityName": "Kidahwe HP",
+      "id": "2622"
+    },
+    {
+      "facilityName": "Mbayaya HP",
+      "id": "2552"
+    },
+    {
+      "facilityName": "Ngoma Ubuzimabwiza HP",
+      "id": "1873"
+    },
+    {
+      "facilityName": "Nyamiyaga (Kamonyi) CS",
+      "id": "1342"
+    }
+  ],
+  "nyarugenge_kanyinya": [
+    {
+      "facilityName": "Bibungo HP",
+      "id": "2672"
+    },
+    {
+      "facilityName": "Itetero HP",
+      "id": "2815"
+    },
+    {
+      "facilityName": "Kanyinya MHC",
+      "id": "1337"
+    },
+    {
+      "facilityName": "Mucyo(Kanyinya)HP",
+      "id": "3152"
+    },
+    {
+      "facilityName": "NZOVE HP",
+      "id": "2051"
+    }
+  ],
+  "rwamagana_karenge": [
+    {
+      "facilityName": "BICACA HP",
+      "id": "2133"
+    },
+    {
+      "facilityName": "Kangamba HP",
+      "id": "2456"
+    },
+    {
+      "facilityName": "Karenge CS",
+      "id": "355"
+    }
+  ],
+  "rwamagana_mwulire": [
+    {
+      "facilityName": "Bicumbi HP",
+      "id": "2721"
+    },
+    {
+      "facilityName": "Iramiro HP",
+      "id": "3205"
+    },
+    {
+      "facilityName": "Mwulire CS",
+      "id": "3353"
+    },
+    {
+      "facilityName": "NTUNGA HP",
+      "id": "2137"
+    },
+    {
+      "facilityName": "Rebero (Mwulire) HP",
+      "id": "3345"
+    }
+  ],
+  "karongi_rwankuba": [
+    {
+      "facilityName": "Bigugu CS",
+      "id": "1662"
+    },
+    {
+      "facilityName": "Kiziba Camp CS",
+      "id": "462"
+    },
+    {
+      "facilityName": "Musango CS",
+      "id": "172"
+    },
+    {
+      "facilityName": "Rubazo HP",
+      "id": "1890"
+    },
+    {
+      "facilityName": "Rubumba A HP",
+      "id": "2736"
+    }
+  ],
+  "karongi_ruganda": [
+    {
+      "facilityName": "Biguhu CS",
+      "id": "154"
+    },
+    {
+      "facilityName": "Ngange (Rugande) HP",
+      "id": "2726"
+    },
+    {
+      "facilityName": "Nyamugwagwa HP",
+      "id": "3386"
+    }
+  ],
+  "bugesera_kamabuye": [
+    {
+      "facilityName": "Biharagu HP",
+      "id": "1700"
+    },
+    {
+      "facilityName": "Iganze HP",
+      "id": "1701"
+    },
+    {
+      "facilityName": "Kamabuye CS",
+      "id": "449"
+    },
+    {
+      "facilityName": "Tunda HP",
+      "id": "2866"
+    }
+  ],
+  "nyaruguru_ngoma (nyaruguru)": [
+    {
+      "facilityName": "BIHEMBE HP",
+      "id": "2838"
+    },
+    {
+      "facilityName": "Fugi HP",
+      "id": "2724"
+    },
+    {
+      "facilityName": "Ngoma CS",
+      "id": "591"
+    },
+    {
+      "facilityName": "NYAMIRAMA-NGOMA HP",
+      "id": "2063"
+    },
+    {
+      "facilityName": "Rubona (Ngoma) HP",
+      "id": "2430"
+    }
+  ],
+  "gicumbi_rutare": [
+    {
+      "facilityName": "Bikumba HP",
+      "id": "2831"
+    },
+    {
+      "facilityName": "Kigabiro HP",
+      "id": "3335"
+    },
+    {
+      "facilityName": "Munanira (Rutare) HP",
+      "id": "2514"
+    },
+    {
+      "facilityName": "Nkoto PS",
+      "id": "1616"
+    },
+    {
+      "facilityName": "Rutare (Gicumbi) MHC",
+      "id": "351"
+    }
+  ],
+  "gakenke_busengo": [
+    {
+      "facilityName": "Birambo Busengo HP",
+      "id": "2677"
+    },
+    {
+      "facilityName": "Busengo CS",
+      "id": "287"
+    },
+    {
+      "facilityName": "Butereri HP",
+      "id": "2533"
+    },
+    {
+      "facilityName": "Byibuhiro HP",
+      "id": "2531"
+    },
+    {
+      "facilityName": "Kamina HP",
+      "id": "1772"
+    }
+  ],
+  "karongi_gashari": [
+    {
+      "facilityName": "Birambo CS",
+      "id": "155"
+    },
+    {
+      "facilityName": "Musasa-Gashali HP",
+      "id": "3097"
+    },
+    {
+      "facilityName": "Mwendo (karongi) CS",
+      "id": "173"
+    },
+    {
+      "facilityName": "Mwendo B HP",
+      "id": "3102"
+    },
+    {
+      "facilityName": "Rugabano CS",
+      "id": "176"
+    }
+  ],
+  "muhanga_rongi": [
+    {
+      "facilityName": "Birehe HP",
+      "id": "1921"
+    },
+    {
+      "facilityName": "Gasagara (ex-birehe) CS",
+      "id": "127"
+    },
+    {
+      "facilityName": "Horezo HP",
+      "id": "2451"
+    },
+    {
+      "facilityName": "Ntarabana HP",
+      "id": "2822"
+    },
+    {
+      "facilityName": "Nyamirambo HP",
+      "id": "2823"
+    },
+    {
+      "facilityName": "Ruhango (RONGI) HP",
+      "id": "1938"
+    }
+  ],
+  "nyabihu_rambura": [
+    {
+      "facilityName": "Birembo CS",
+      "id": "208"
+    },
+    {
+      "facilityName": "Mutaho (nyabihu) HP",
+      "id": "638"
+    },
+    {
+      "facilityName": "Rambura CS",
+      "id": "218"
+    }
+  ],
+  "muhanga_cyeza": [
+    {
+      "facilityName": "Biringaga HP",
+      "id": "2401"
+    },
+    {
+      "facilityName": "Cyeza Notre Dame de Lourdes HP",
+      "id": "1923"
+    },
+    {
+      "facilityName": "Kivumu (muhanga) CS",
+      "id": "134"
+    },
+    {
+      "facilityName": "Makera HP",
+      "id": "1930"
+    },
+    {
+      "facilityName": "Rutobwe CS",
+      "id": "140"
+    },
+    {
+      "facilityName": "Sholi HP",
+      "id": "1940"
+    }
+  ],
+  "rutsiro_mushonyi": [
+    {
+      "facilityName": "Biruyi CS",
+      "id": "177"
+    },
+    {
+      "facilityName": "Gakeri HP",
+      "id": "2678"
+    },
+    {
+      "facilityName": "Magaba II Rutsiro Health Post Limited",
+      "id": "3073"
+    },
+    {
+      "facilityName": "MAZIBA HP",
+      "id": "2130"
+    }
+  ],
+  "burera_kinoni": [
+    {
+      "facilityName": "Birwa HP",
+      "id": "1727"
+    },
+    {
+      "facilityName": "Gafuka PS",
+      "id": "2568"
+    },
+    {
+      "facilityName": "Kinoni CS",
+      "id": "324"
+    },
+    {
+      "facilityName": "Nkenke HP",
+      "id": "1749"
+    },
+    {
+      "facilityName": "Nkumba HP",
+      "id": "1750"
+    },
+    {
+      "facilityName": "Ntaruka (kinoni Burera) CS",
+      "id": "329"
+    }
+  ],
+  "burera_rwerere": [
+    {
+      "facilityName": "Bisaga I HP",
+      "id": "3396"
+    },
+    {
+      "facilityName": "Rugali HP",
+      "id": "1755"
+    },
+    {
+      "facilityName": "Runconsho HP",
+      "id": "1759"
+    },
+    {
+      "facilityName": "Rwerere CS",
+      "id": "505"
+    }
+  ],
+  "musanze_kinigi": [
+    {
+      "facilityName": "Bisate CS",
+      "id": "308"
+    },
+    {
+      "facilityName": "Kinigi CS",
+      "id": "313"
+    },
+    {
+      "facilityName": "Nyabigoma HP",
+      "id": "1950"
+    },
+    {
+      "facilityName": "Nyonirima HP",
+      "id": "2605"
+    },
+    {
+      "facilityName": "Terimbere HP",
+      "id": "3361"
+    }
+  ],
+  "karongi_mubuga": [
+    {
+      "facilityName": "Bisesero (karongi) CS",
+      "id": "617"
+    },
+    {
+      "facilityName": "KAGABIRO HP",
+      "id": "2897"
+    },
+    {
+      "facilityName": "Karora CS",
+      "id": "160"
+    },
+    {
+      "facilityName": "Mubuga CS",
+      "id": "167"
+    },
+    {
+      "facilityName": "NYAGATOVU HP",
+      "id": "2898"
+    }
+  ],
+  "rubavu_nyakiriba": [
+    {
+      "facilityName": "Bisizi(Rubavu) HP",
+      "id": "3212"
+    },
+    {
+      "facilityName": "Clinic General de Mahoko Clin",
+      "id": "2632"
+    },
+    {
+      "facilityName": "KISANGANI HP",
+      "id": "2078"
+    },
+    {
+      "facilityName": "Nyakiriba CS",
+      "id": "1555"
+    },
+    {
+      "facilityName": "Nyarushamba HP",
+      "id": "3288"
+    },
+    {
+      "facilityName": "Sainte Immaculee Clin",
+      "id": "2652"
+    }
+  ],
+  "nyaruguru_ngera": [
+    {
+      "facilityName": "Bitare (Ngera) HP",
+      "id": "2054"
+    },
+    {
+      "facilityName": "LIBA HP",
+      "id": "2839"
+    },
+    {
+      "facilityName": "Ngera CS",
+      "id": "1230"
+    },
+    {
+      "facilityName": "NYAMIRAMA HP",
+      "id": "2062"
+    },
+    {
+      "facilityName": "NYANZA HP",
+      "id": "2065"
+    }
+  ],
+  "kamonyi_karama (kamonyi district)": [
+    {
+      "facilityName": "Bitare-Kinkeri HP",
+      "id": "1858"
+    },
+    {
+      "facilityName": "Bunyonga HP",
+      "id": "1860"
+    },
+    {
+      "facilityName": "Karama (Kamonyi) CS",
+      "id": "1666"
+    }
+  ],
+  "rutsiro_ruhango (rutsiro  district)": [
+    {
+      "facilityName": "Bitenga CS",
+      "id": "178"
+    },
+    {
+      "facilityName": "GATARE (RUHANGO) HP",
+      "id": "2126"
+    },
+    {
+      "facilityName": "Kayove CS",
+      "id": "183"
+    },
+    {
+      "facilityName": "Rundoyi HP",
+      "id": "3042"
+    }
+  ],
+  "ruhango_ruhango": [
+    {
+      "facilityName": "Blessed F H Ltd (Ruhango) CLIN",
+      "id": "1372"
+    },
+    {
+      "facilityName": "Buhoro (Ruhango) HP",
+      "id": "2613"
+    },
+    {
+      "facilityName": "BUNYOGOMBE HP",
+      "id": "2083"
+    },
+    {
+      "facilityName": "Gikoma HP",
+      "id": "3130"
+    },
+    {
+      "facilityName": "Ingenzi Medical Clinic",
+      "id": "2796"
+    },
+    {
+      "facilityName": "Kigoma CS",
+      "id": "118"
+    },
+    {
+      "facilityName": "La vie Saine Nyamagana HP",
+      "id": "2612"
+    },
+    {
+      "facilityName": "Musamo HP",
+      "id": "2384"
+    },
+    {
+      "facilityName": "Ruhango CS",
+      "id": "126"
+    },
+    {
+      "facilityName": "TAMBWE HP",
+      "id": "2097"
+    },
+    {
+      "facilityName": "Umufasha HP",
+      "id": "1420"
+    },
+    {
+      "facilityName": "Umurinzi Clin",
+      "id": "2792"
+    }
+  ],
+  "rulindo_murambi (rulindo)": [
+    {
+      "facilityName": "Bubangu CS",
+      "id": "1426"
+    },
+    {
+      "facilityName": "Murambi (Rutongo) CS",
+      "id": "276"
+    }
+  ],
+  "nyagatare_rwempasha": [
+    {
+      "facilityName": "Bubare (Rwempasha) HP",
+      "id": "1978"
+    },
+    {
+      "facilityName": "BUBARE HP",
+      "id": "2919"
+    },
+    {
+      "facilityName": "Cyenjonjo HP",
+      "id": "3033"
+    },
+    {
+      "facilityName": "Mishenyi HP",
+      "id": "1509"
+    },
+    {
+      "facilityName": "Nyendo (Nyagatare) PS",
+      "id": "644"
+    },
+    {
+      "facilityName": "Rutare Rwempasha Hp",
+      "id": "2505"
+    },
+    {
+      "facilityName": "Rwempasha CS",
+      "id": "384"
+    },
+    {
+      "facilityName": "Rwempasha HP",
+      "id": "2492"
+    }
+  ],
+  "rwamagana_musha (rwamagana  district)": [
+    {
+      "facilityName": "Budahanda SGHP",
+      "id": "2457"
+    },
+    {
+      "facilityName": "Kagarama HP",
+      "id": "2458"
+    },
+    {
+      "facilityName": "Musha (rwamagana) CS",
+      "id": "357"
+    },
+    {
+      "facilityName": "Nyabisindu HP",
+      "id": "2604"
+    }
+  ],
+  "rulindo_cyinzuzi": [
+    {
+      "facilityName": "Budakiranya HP",
+      "id": "2701"
+    },
+    {
+      "facilityName": "Cyinzuzi CS",
+      "id": "2980"
+    },
+    {
+      "facilityName": "Karambo Cyinzuzi HP",
+      "id": "3184"
+    },
+    {
+      "facilityName": "Rudogo HP",
+      "id": "2161"
+    }
+  ],
+  "muhanga_kiyumba": [
+    {
+      "facilityName": "Budende HP",
+      "id": "1922"
+    },
+    {
+      "facilityName": "Nyabikenke CS",
+      "id": "136"
+    },
+    {
+      "facilityName": "Nyabikenke DH",
+      "id": "2960"
+    },
+    {
+      "facilityName": "Remera (Kiyumba) HP",
+      "id": "2449"
+    }
+  ],
+  "nyagatare_mukama": [
+    {
+      "facilityName": "Bufunda HP",
+      "id": "2860"
+    },
+    {
+      "facilityName": "Gihengeri SGHP",
+      "id": "2472"
+    },
+    {
+      "facilityName": "Kisaro HP",
+      "id": "3145"
+    },
+    {
+      "facilityName": "Muhambo CS",
+      "id": "375"
+    }
+  ],
+  "burera_kinyababa": [
+    {
+      "facilityName": "Bugamba HP",
+      "id": "2730"
+    },
+    {
+      "facilityName": "Kaganda HP",
+      "id": "1740"
+    },
+    {
+      "facilityName": "Kinyababa CS",
+      "id": "325"
+    },
+    {
+      "facilityName": "Nyabizi HP",
+      "id": "2516"
+    },
+    {
+      "facilityName": "Rutovu HP",
+      "id": "1763"
+    }
+  ],
+  "kayonza_ruramira": [
+    {
+      "facilityName": "Bugambira PS",
+      "id": "1480"
+    },
+    {
+      "facilityName": "Nkamba HP",
+      "id": "3016"
+    },
+    {
+      "facilityName": "Ruramira CS",
+      "id": "414"
+    },
+    {
+      "facilityName": "Ruyonza HP",
+      "id": "3150"
+    }
+  ],
+  "nyagatare_rwimiyaga": [
+    {
+      "facilityName": "Bugaragara CS",
+      "id": "366"
+    },
+    {
+      "facilityName": "BUGARAGARA HP",
+      "id": "2920"
+    },
+    {
+      "facilityName": "Gakagati SGHP",
+      "id": "1979"
+    },
+    {
+      "facilityName": "Gatebe (Rwimiyaga) HP",
+      "id": "639"
+    },
+    {
+      "facilityName": "Kabeza (Rwimiyaga) HP",
+      "id": "2766"
+    },
+    {
+      "facilityName": "KANOMBE HP",
+      "id": "1981"
+    },
+    {
+      "facilityName": "KARUSHUNGA HP",
+      "id": "1982"
+    },
+    {
+      "facilityName": "NYAGATARE-KIREBE HP",
+      "id": "2921"
+    },
+    {
+      "facilityName": "Nyarupfubire HP",
+      "id": "2767"
+    },
+    {
+      "facilityName": "Rwimiyaga HP",
+      "id": "2507"
+    }
+  ],
+  "gatsibo_rugarama (gatsibo district)": [
+    {
+      "facilityName": "Bugarama (Rugarama) PS",
+      "id": "1609"
+    },
+    {
+      "facilityName": "Kanyangese Health Post",
+      "id": "1801"
+    },
+    {
+      "facilityName": "Matare HP",
+      "id": "2996"
+    },
+    {
+      "facilityName": "Matunguru HP",
+      "id": "2667"
+    },
+    {
+      "facilityName": "Nyagasiga (Rugarama ) HP",
+      "id": "2964"
+    },
+    {
+      "facilityName": "Rugarama (gatsibo) CS",
+      "id": "401"
+    }
+  ],
+  "rusizi_muganza (rusizi district)": [
+    {
+      "facilityName": "Bugarama (rusizi) CS",
+      "id": "237"
+    },
+    {
+      "facilityName": "Cyarukara HP",
+      "id": "3123"
+    }
+  ],
+  "nyamagabe_kibirizi (nyamagabe district)": [
+    {
+      "facilityName": "Bugarama Munazi HP",
+      "id": "3011"
+    },
+    {
+      "facilityName": "Bugarama PS",
+      "id": "495"
+    },
+    {
+      "facilityName": "Kaambo Gitwa HP",
+      "id": "3008"
+    },
+    {
+      "facilityName": "Kibirizi (Nyamagabe) CS",
+      "id": "1280"
+    },
+    {
+      "facilityName": "Ruhunga HP",
+      "id": "2619"
+    }
+  ],
+  "gatsibo_remera (gatsibo district)": [
+    {
+      "facilityName": "Bugarura CS",
+      "id": "386"
+    },
+    {
+      "facilityName": "Humure CS",
+      "id": "390"
+    },
+    {
+      "facilityName": "Nyagasozi (Remera Gatsibo) HP",
+      "id": "2146"
+    },
+    {
+      "facilityName": "Nyamugali(Remera Gatsibo) HP",
+      "id": "2965"
+    },
+    {
+      "facilityName": "Rwarenga HP",
+      "id": "3331"
+    }
+  ],
+  "rutsiro_boneza": [
+    {
+      "facilityName": "Bugarura HP",
+      "id": "2123"
+    },
+    {
+      "facilityName": "Iwawa CS",
+      "id": "1533"
+    },
+    {
+      "facilityName": "Kabihogo HP",
+      "id": "2404"
+    },
+    {
+      "facilityName": "Kinunu CS",
+      "id": "186"
+    },
+    {
+      "facilityName": "Nkira HP",
+      "id": "2805"
+    },
+    {
+      "facilityName": "Remera (Boneza) HP",
+      "id": "2804"
+    }
+  ],
+  "rusizi_nkombo": [
+    {
+      "facilityName": "Bugarura HP",
+      "id": "2948"
+    },
+    {
+      "facilityName": "ishywa HP",
+      "id": "2397"
+    },
+    {
+      "facilityName": "Kamagimbo HP",
+      "id": "2942"
+    },
+    {
+      "facilityName": "Nkombo CS",
+      "id": "248"
+    },
+    {
+      "facilityName": "Rwenje HP",
+      "id": "2943"
+    }
+  ],
+  "bugesera_rilima": [
+    {
+      "facilityName": "Bugesera Prison",
+      "id": "456"
+    },
+    {
+      "facilityName": "Kabeza (RIRIMA) HP",
+      "id": "1717"
+    },
+    {
+      "facilityName": "Nyabagendwa HP",
+      "id": "1718"
+    },
+    {
+      "facilityName": "Rilima CS",
+      "id": "457"
+    },
+    {
+      "facilityName": "Rilima Orthopedic Center",
+      "id": "1359"
+    }
+  ],
+  "rubavu_bugeshi": [
+    {
+      "facilityName": "Bugeshi CS",
+      "id": "1232"
+    },
+    {
+      "facilityName": "BURINGO HP",
+      "id": "2071"
+    },
+    {
+      "facilityName": "Kabumba HP",
+      "id": "2801"
+    },
+    {
+      "facilityName": "Rusiza HP",
+      "id": "3227"
+    }
+  ],
+  "kamonyi_rukoma": [
+    {
+      "facilityName": "Bugoba HP",
+      "id": "1859"
+    },
+    {
+      "facilityName": "Buguli HP",
+      "id": "2540"
+    },
+    {
+      "facilityName": "Murehe Rukoma HP",
+      "id": "3374"
+    },
+    {
+      "facilityName": "Mwirute HP",
+      "id": "3299"
+    },
+    {
+      "facilityName": "Remera Rukoma CS",
+      "id": "152"
+    },
+    {
+      "facilityName": "Remera Rukoma DH",
+      "id": "153"
+    }
+  ],
+  "kayonza_murundi (kayonza district)": [
+    {
+      "facilityName": "Buhabwa CS",
+      "id": "496"
+    },
+    {
+      "facilityName": "Gakoma HP",
+      "id": "1894"
+    },
+    {
+      "facilityName": "Kigobe HP",
+      "id": "3019"
+    },
+    {
+      "facilityName": "Mucucu HP",
+      "id": "1999"
+    },
+    {
+      "facilityName": "Ryamanyoni CS",
+      "id": "418"
+    }
+  ],
+  "ruhango_bweramana": [
+    {
+      "facilityName": "Buhanda HP",
+      "id": "3050"
+    },
+    {
+      "facilityName": "Gitwe CS",
+      "id": "115"
+    },
+    {
+      "facilityName": "Gitwe DH",
+      "id": "116"
+    },
+    {
+      "facilityName": "RUBONA (BWERAMANA) HP",
+      "id": "2094"
+    },
+    {
+      "facilityName": "RWINYANA HP",
+      "id": "2096"
+    }
+  ],
+  "gakenke_gakenke": [
+    {
+      "facilityName": "Buheta HP",
+      "id": "1766"
+    },
+    {
+      "facilityName": "Kagoma HP",
+      "id": "3233"
+    },
+    {
+      "facilityName": "Nganzo CS",
+      "id": "1650"
+    },
+    {
+      "facilityName": "Peace (Gakenke) Clin",
+      "id": "2372"
+    },
+    {
+      "facilityName": "Rusagara (Gakenke) HP",
+      "id": "3300"
+    }
+  ],
+  "rutsiro_kivumu": [
+    {
+      "facilityName": "BUHOKO HP",
+      "id": "2124"
+    },
+    {
+      "facilityName": "Bunyoni HP",
+      "id": "2742"
+    },
+    {
+      "facilityName": "Kabere (Kivumu) HP",
+      "id": "2743"
+    },
+    {
+      "facilityName": "Kivumu (rutsiro) CS",
+      "id": "187"
+    },
+    {
+      "facilityName": "RWINYONI HP",
+      "id": "3045"
+    }
+  ],
+  "nyamagabe_tare": [
+    {
+      "facilityName": "BUHORO (Nyamagabe) HP",
+      "id": "1989"
+    },
+    {
+      "facilityName": "Mbuga CS",
+      "id": "105"
+    },
+    {
+      "facilityName": "Nsinduka HP",
+      "id": "2774"
+    }
+  ],
+  "huye_karama (huye)": [
+    {
+      "facilityName": "BUHORO KARAMA Health Post",
+      "id": "3388"
+    },
+    {
+      "facilityName": "Ineza NR KIBINGO Health Post",
+      "id": "3387"
+    },
+    {
+      "facilityName": "Karama (huye) CS",
+      "id": "86"
+    },
+    {
+      "facilityName": "Muhembe HP",
+      "id": "3129"
+    }
+  ],
+  "gakenke_kivuruga": [
+    {
+      "facilityName": "Buhuga HP",
+      "id": "2618"
+    },
+    {
+      "facilityName": "Bushoka CS",
+      "id": "288"
+    },
+    {
+      "facilityName": "Kamomo HP",
+      "id": "3054"
+    },
+    {
+      "facilityName": "Karuhunge HP",
+      "id": "2617"
+    },
+    {
+      "facilityName": "Rugimbu (Karuhunge) HP",
+      "id": "2877"
+    },
+    {
+      "facilityName": "Ruhinga (Kivuruga) HP",
+      "id": "504"
+    },
+    {
+      "facilityName": "Sereri HP",
+      "id": "522"
+    }
+  ],
+  "rutsiro_nyabirasi": [
+    {
+      "facilityName": "BUKANDA HP",
+      "id": "2125"
+    },
+    {
+      "facilityName": "Busuku HP",
+      "id": "3348"
+    },
+    {
+      "facilityName": "Kinyamavuta HP",
+      "id": "3215"
+    },
+    {
+      "facilityName": "Nyabirasi CS",
+      "id": "193"
+    },
+    {
+      "facilityName": "Nyabirasi HP",
+      "id": "2741"
+    }
+  ],
+  "kirehe_nyamugari": [
+    {
+      "facilityName": "Bukora CS",
+      "id": "419"
+    },
+    {
+      "facilityName": "Kagasa (Nyamugari) HP",
+      "id": "2768"
+    },
+    {
+      "facilityName": "Kazizi HP",
+      "id": "2762"
+    },
+    {
+      "facilityName": "Kiyanzi HP",
+      "id": "1913"
+    },
+    {
+      "facilityName": "Munini (Nyamugari ) HP",
+      "id": "3333"
+    },
+    {
+      "facilityName": "Rusumo CS",
+      "id": "432"
+    }
+  ],
+  "burera_kivuye": [
+    {
+      "facilityName": "Bukwashuri HP",
+      "id": "2570"
+    },
+    {
+      "facilityName": "Gashanje HP",
+      "id": "1732"
+    },
+    {
+      "facilityName": "Kivuye CS",
+      "id": "327"
+    },
+    {
+      "facilityName": "Mushunga HP",
+      "id": "2862"
+    },
+    {
+      "facilityName": "Rusasa CS",
+      "id": "332"
+    }
+  ],
+  "gicumbi_nyamiyaga (gicumbi  district)": [
+    {
+      "facilityName": "Bulimbi HP",
+      "id": "3293"
+    },
+    {
+      "facilityName": "Kabuga(Nyamiyaga)HP",
+      "id": "3218"
+    },
+    {
+      "facilityName": "Kagamba Franchise HP",
+      "id": "1500"
+    },
+    {
+      "facilityName": "Karambo (Nyamiyaga) HP",
+      "id": "2638"
+    },
+    {
+      "facilityName": "Nyamiyaga (Gicumbi) CS",
+      "id": "1824"
+    }
+  ],
+  "gakenke_muyongwe": [
+    {
+      "facilityName": "Bumba HP",
+      "id": "1767"
+    },
+    {
+      "facilityName": "Muyongwe CS",
+      "id": "1534"
+    },
+    {
+      "facilityName": "Nganzo (Gakenke) HP",
+      "id": "2844"
+    },
+    {
+      "facilityName": "Nganzo HP",
+      "id": "2881"
+    }
+  ],
+  "gasabo_bumbogo": [
+    {
+      "facilityName": "Bumbogo (ex-Gikomero I) CS",
+      "id": "552"
+    },
+    {
+      "facilityName": "Bumbogo PS",
+      "id": "1599"
+    },
+    {
+      "facilityName": "Espoir Medical Clinic",
+      "id": "3147"
+    },
+    {
+      "facilityName": "Masizi HP",
+      "id": "2854"
+    },
+    {
+      "facilityName": "Musave HP",
+      "id": "1795"
+    },
+    {
+      "facilityName": "Mvuzo HP",
+      "id": "3052"
+    },
+    {
+      "facilityName": "Ngara HP",
+      "id": "1512"
+    },
+    {
+      "facilityName": "Nkuzuzu HP",
+      "id": "2551"
+    },
+    {
+      "facilityName": "Nyabikenke HP",
+      "id": "1799"
+    },
+    {
+      "facilityName": "Primo Clin",
+      "id": "2157"
+    }
+  ],
+  "nyaruguru_rusenge": [
+    {
+      "facilityName": "Bunge HP",
+      "id": "2938"
+    },
+    {
+      "facilityName": "Cyuna HP",
+      "id": "2432"
+    },
+    {
+      "facilityName": "Kabilizi CS",
+      "id": "69"
+    },
+    {
+      "facilityName": "RUSENGE HP",
+      "id": "2069"
+    }
+  ],
+  "burera_bungwe": [
+    {
+      "facilityName": "Bungwe (burera) CS",
+      "id": "320"
+    },
+    {
+      "facilityName": "Bushenya HP",
+      "id": "1729"
+    },
+    {
+      "facilityName": "Bushenya II SGHP",
+      "id": "3037"
+    },
+    {
+      "facilityName": "Mudugari HP",
+      "id": "3012"
+    },
+    {
+      "facilityName": "Tumba HP",
+      "id": "3038"
+    }
+  ],
+  "ngororero_bwira": [
+    {
+      "facilityName": "Bungwe (ngororero) Fosacom",
+      "id": "629"
+    },
+    {
+      "facilityName": "Gashubi CS",
+      "id": "223"
+    }
+  ],
+  "kayonza_murama": [
+    {
+      "facilityName": "Bunyetongo HP",
+      "id": "3276"
+    },
+    {
+      "facilityName": "Karama (kayonza) CS",
+      "id": "408"
+    },
+    {
+      "facilityName": "Nyakanazi HP",
+      "id": "1897"
+    },
+    {
+      "facilityName": "Rurenge ( Murama) HP",
+      "id": "3319"
+    },
+    {
+      "facilityName": "Rusave PS",
+      "id": "1620"
+    }
+  ],
+  "burera_gahunga": [
+    {
+      "facilityName": "Buramba (Burera) HP",
+      "id": "3290"
+    },
+    {
+      "facilityName": "Gahunga CS",
+      "id": "586"
+    },
+    {
+      "facilityName": "Gisizi HP",
+      "id": "1736"
+    },
+    {
+      "facilityName": "Kanyirarebe HP",
+      "id": "3336"
+    },
+    {
+      "facilityName": "Kidakama HP",
+      "id": "1744"
+    },
+    {
+      "facilityName": "Nyangwe HP",
+      "id": "1754"
+    }
+  ],
+  "muhanga_kabacuzi": [
+    {
+      "facilityName": "Buramba CS",
+      "id": "128"
+    },
+    {
+      "facilityName": "Kabuye (Kabacuzi) HP",
+      "id": "2422"
+    },
+    {
+      "facilityName": "Kavumu HP",
+      "id": "2794"
+    },
+    {
+      "facilityName": "Kibyimba HP",
+      "id": "1928"
+    },
+    {
+      "facilityName": "Ngoma (KABACUZI) HP",
+      "id": "1936"
+    },
+    {
+      "facilityName": "Rutongo HP",
+      "id": "1939"
+    }
+  ],
+  "musanze_kimonyi": [
+    {
+      "facilityName": "Buramira HP",
+      "id": "2528"
+    },
+    {
+      "facilityName": "Kimonyi CS",
+      "id": "622"
+    },
+    {
+      "facilityName": "Kivumu Muregeya HP",
+      "id": "2690"
+    }
+  ],
+  "gakenke_nemba (gakenke)": [
+    {
+      "facilityName": "Buranga HP",
+      "id": "2731"
+    },
+    {
+      "facilityName": "Burangava HP",
+      "id": "2882"
+    },
+    {
+      "facilityName": "Gisozi HP",
+      "id": "3151"
+    },
+    {
+      "facilityName": "Nemba CS",
+      "id": "296"
+    },
+    {
+      "facilityName": "Nemba DH",
+      "id": "297"
+    }
+  ],
+  "rulindo_burega": [
+    {
+      "facilityName": "Burega CS",
+      "id": "1425"
+    }
+  ],
+  "huye_maraba": [
+    {
+      "facilityName": "Buremera (Maraba) HP",
+      "id": "3083"
+    },
+    {
+      "facilityName": "Gasumba HP",
+      "id": "2580"
+    },
+    {
+      "facilityName": "Gisagara Maraba HP",
+      "id": "3125"
+    },
+    {
+      "facilityName": "Maraba (huye) CS",
+      "id": "616"
+    },
+    {
+      "facilityName": "Shyembe (Maraba) HP",
+      "id": "2581"
+    }
+  ],
+  "rubavu_rubavu": [
+    {
+      "facilityName": "Burinda HP",
+      "id": "2778"
+    },
+    {
+      "facilityName": "Byahi (rubavu) CS",
+      "id": "196"
+    },
+    {
+      "facilityName": "Kigarama Rubavu HP",
+      "id": "3183"
+    },
+    {
+      "facilityName": "Murara CS",
+      "id": "203"
+    },
+    {
+      "facilityName": "Ndengera CLIN",
+      "id": "1406"
+    }
+  ],
+  "musanze_cyuve": [
+    {
+      "facilityName": "Buruba (Cyuve)HP",
+      "id": "2521"
+    },
+    {
+      "facilityName": "Cyanya HP",
+      "id": "2527"
+    },
+    {
+      "facilityName": "Gakoromurora HP",
+      "id": "2750"
+    },
+    {
+      "facilityName": "Gasiza (musanze) CS",
+      "id": "310"
+    },
+    {
+      "facilityName": "Kabeza (Kivuye) HP",
+      "id": "2567"
+    },
+    {
+      "facilityName": "Kabirizi(Cyuve) HP",
+      "id": "2520"
+    },
+    {
+      "facilityName": "Karwasa CS",
+      "id": "312"
+    },
+    {
+      "facilityName": "MERE DU VERBE CLIN",
+      "id": "3368"
+    },
+    {
+      "facilityName": "Ramba Community Clinic Ltd",
+      "id": "3200"
+    },
+    {
+      "facilityName": "Rwebeya HP",
+      "id": "3156"
+    }
+  ],
+  "nyamagabe_buruhukiro": [
+    {
+      "facilityName": "Buruhukiro CS",
+      "id": "1343"
+    },
+    {
+      "facilityName": "KIZIMYAMURIRO HP",
+      "id": "1993"
+    }
+  ],
+  "karongi_bwishyura": [
+    {
+      "facilityName": "Burunga SGHP",
+      "id": "3350"
+    },
+    {
+      "facilityName": "Gitarama (Bwishyura) SGHP",
+      "id": "2590"
+    },
+    {
+      "facilityName": "Kibuye CS",
+      "id": "161"
+    },
+    {
+      "facilityName": "Kibuye RH",
+      "id": "162"
+    },
+    {
+      "facilityName": "Medicale Sainte Famille Clin",
+      "id": "2173"
+    },
+    {
+      "facilityName": "Nyarusazi HP",
+      "id": "3070"
+    }
+  ],
+  "rubavu_busasamana (rubavu district)": [
+    {
+      "facilityName": "Busasamana CS",
+      "id": "195"
+    },
+    {
+      "facilityName": "Gahanda (Busasamana) HP",
+      "id": "2043"
+    },
+    {
+      "facilityName": "Kageshi HP",
+      "id": "3238"
+    },
+    {
+      "facilityName": "Nyacyonga (Rubavu) HP",
+      "id": "2777"
+    },
+    {
+      "facilityName": "Nyarurembo Nyacyonga HP",
+      "id": "3308"
+    },
+    {
+      "facilityName": "Rusura (Busasamana) SGHP",
+      "id": "3211"
+    },
+    {
+      "facilityName": "Rusura HP",
+      "id": "3237"
+    }
+  ],
+  "kayonza_rwinkwavu": [
+    {
+      "facilityName": "Busasamana Mukoyoyo HP",
+      "id": "3275"
+    },
+    {
+      "facilityName": "Isangano (Rwinkwavu) HP",
+      "id": "2707"
+    },
+    {
+      "facilityName": "Matinza HP",
+      "id": "2706"
+    },
+    {
+      "facilityName": "Rwinkwavu CS",
+      "id": "416"
+    },
+    {
+      "facilityName": "Rwinkwavu DH",
+      "id": "417"
+    }
+  ],
+  "gatsibo_kageyo (gatsibo district)": [
+    {
+      "facilityName": "Busetsa HP",
+      "id": "2608"
+    },
+    {
+      "facilityName": "Gituza (Kageyo) HP",
+      "id": "2563"
+    },
+    {
+      "facilityName": "Gituza CS",
+      "id": "389"
+    },
+    {
+      "facilityName": "Kageyo (gatsibo) CS",
+      "id": "392"
+    },
+    {
+      "facilityName": "Kintu HP",
+      "id": "2562"
+    }
+  ],
+  "gicumbi_shangasha": [
+    {
+      "facilityName": "Bushara CS",
+      "id": "333"
+    },
+    {
+      "facilityName": "Kitazigurwa HP",
+      "id": "2515"
+    }
+  ],
+  "nyagatare_karama (nyagatare)": [
+    {
+      "facilityName": "Bushara HP",
+      "id": "2489"
+    },
+    {
+      "facilityName": "Gikagati 3 HP",
+      "id": "2491"
+    },
+    {
+      "facilityName": "Gikagati HP",
+      "id": "3292"
+    },
+    {
+      "facilityName": "Kabuga (karama Nyagatare) CS",
+      "id": "369"
+    },
+    {
+      "facilityName": "Kabuga HP",
+      "id": "2494"
+    },
+    {
+      "facilityName": "Ndego SGHP",
+      "id": "2497"
+    },
+    {
+      "facilityName": "Nyakiga HP",
+      "id": "2901"
+    },
+    {
+      "facilityName": "Urugwirolife HP",
+      "id": "2793"
+    }
+  ],
+  "nyamasheke_bushekeri": [
+    {
+      "facilityName": "Bushekeri HP",
+      "id": "2738"
+    },
+    {
+      "facilityName": "Buvungira HP",
+      "id": "3240"
+    },
+    {
+      "facilityName": "Gisakura CS",
+      "id": "255"
+    },
+    {
+      "facilityName": "KAGARAMA HP",
+      "id": "2012"
+    },
+    {
+      "facilityName": "KININI HP",
+      "id": "2013"
+    },
+    {
+      "facilityName": "MPUMBU HP",
+      "id": "2016"
+    }
+  ],
+  "nyamasheke_bushenge": [
+    {
+      "facilityName": "Bushenge CS",
+      "id": "252"
+    },
+    {
+      "facilityName": "Bushenge PH",
+      "id": "253"
+    },
+    {
+      "facilityName": "gasheke HP",
+      "id": "3069"
+    },
+    {
+      "facilityName": "Impala HP",
+      "id": "3187"
+    },
+    {
+      "facilityName": "Mwito SGHP",
+      "id": "2020"
+    }
+  ],
+  "bugesera_mareba": [
+    {
+      "facilityName": "Bushenyi HP",
+      "id": "2765"
+    },
+    {
+      "facilityName": "Gakomeye HP",
+      "id": "2464"
+    },
+    {
+      "facilityName": "Mareba CS",
+      "id": "450"
+    },
+    {
+      "facilityName": "Nyamigina HP",
+      "id": "1702"
+    },
+    {
+      "facilityName": "Rango HP",
+      "id": "1703"
+    }
+  ],
+  "nyagatare_nyagatare": [
+    {
+      "facilityName": "Bushoga HP",
+      "id": "3058"
+    },
+    {
+      "facilityName": "Cyabayaga CS",
+      "id": "367"
+    },
+    {
+      "facilityName": "Cyabayaga HP",
+      "id": "2490"
+    },
+    {
+      "facilityName": "Kamagiri PS",
+      "id": "1501"
+    },
+    {
+      "facilityName": "Nsheke HP",
+      "id": "1514"
+    },
+    {
+      "facilityName": "Nyagatare CS",
+      "id": "379"
+    },
+    {
+      "facilityName": "Nyagatare DH",
+      "id": "380"
+    },
+    {
+      "facilityName": "NYAGATARE HP",
+      "id": "2915"
+    },
+    {
+      "facilityName": "Nyagatare Prison",
+      "id": "595"
+    },
+    {
+      "facilityName": "NYAGATARE-PRISON",
+      "id": "2916"
+    },
+    {
+      "facilityName": "Rapha (Nyagatare) Clin",
+      "id": "2357"
+    },
+    {
+      "facilityName": "RAPHA CLINIC",
+      "id": "2917"
+    },
+    {
+      "facilityName": "Rutaraka HP",
+      "id": "1523"
+    },
+    {
+      "facilityName": "Smile Care Clin",
+      "id": "3364"
+    },
+    {
+      "facilityName": "UR Nyagatare Clinic",
+      "id": "3178"
+    },
+    {
+      "facilityName": "Yahshua Medical Clinic",
+      "id": "3174"
+    }
+  ],
+  "gakenke_rusasa": [
+    {
+      "facilityName": "Bushoka HP",
+      "id": "2769"
+    },
+    {
+      "facilityName": "Gataba (Rusasa) HP",
+      "id": "3206"
+    },
+    {
+      "facilityName": "Kamonyi (Rusasa) HP",
+      "id": "2770"
+    },
+    {
+      "facilityName": "Nyundo (gakenke) CS",
+      "id": "299"
+    },
+    {
+      "facilityName": "Rurembo (Rusasa) HP",
+      "id": "2951"
+    }
+  ],
+  "rubavu_cyanzarwe": [
+    {
+      "facilityName": "Busigari CS",
+      "id": "1656"
+    },
+    {
+      "facilityName": "CYANZARWE HP",
+      "id": "2072"
+    },
+    {
+      "facilityName": "Gora SGHP",
+      "id": "3209"
+    },
+    {
+      "facilityName": "KINYANZOVU HP",
+      "id": "2077"
+    }
+  ],
+  "musanze_busogo": [
+    {
+      "facilityName": "Busogo CS",
+      "id": "309"
+    },
+    {
+      "facilityName": "Gatovu HP",
+      "id": "2522"
+    },
+    {
+      "facilityName": "Iwacu Byangabo Ltd Clin",
+      "id": "3062"
+    },
+    {
+      "facilityName": "Kavumu (BUSOGO) HP",
+      "id": "1947"
+    },
+    {
+      "facilityName": "Nyagisozi HP",
+      "id": "1630"
+    },
+    {
+      "facilityName": "Rungu Gatovu HP",
+      "id": "3360"
+    }
+  ],
+  "nyanza_busoro": [
+    {
+      "facilityName": "Busoro CS",
+      "id": "37"
+    },
+    {
+      "facilityName": "GASAMBU RUKINGIRO HP",
+      "id": "2926"
+    },
+    {
+      "facilityName": "Gitovu (Busoro) HP",
+      "id": "2423"
+    },
+    {
+      "facilityName": "Kimirama HP",
+      "id": "2038"
+    },
+    {
+      "facilityName": "KINKANGA SHYIRA HP",
+      "id": "2927"
+    },
+    {
+      "facilityName": "Rukingiro (Busoro) HP",
+      "id": "2425"
+    },
+    {
+      "facilityName": "Shyira (Busoro) HP",
+      "id": "2424"
+    }
+  ],
+  "kamonyi_kayumbu": [
+    {
+      "facilityName": "Busoro HP",
+      "id": "1861"
+    },
+    {
+      "facilityName": "Giko HP",
+      "id": "2976"
+    },
+    {
+      "facilityName": "Kayumbu CS",
+      "id": "2845"
+    },
+    {
+      "facilityName": "Kayumbu-Gaseke HP",
+      "id": "2894"
+    },
+    {
+      "facilityName": "Marembo HP",
+      "id": "2889"
+    },
+    {
+      "facilityName": "Muyange (KAYUMBU) HP",
+      "id": "1872"
+    }
+  ],
+  "huye_gishamvu": [
+    {
+      "facilityName": "Busoro-gishamvu CS",
+      "id": "81"
+    },
+    {
+      "facilityName": "Kiduha HP",
+      "id": "1850"
+    },
+    {
+      "facilityName": "Nyakibanda HP",
+      "id": "3090"
+    },
+    {
+      "facilityName": "Ryakibogo HP",
+      "id": "3127"
+    }
+  ],
+  "nyabihu_karago": [
+    {
+      "facilityName": "Busoro-Karago HP",
+      "id": "3117"
+    },
+    {
+      "facilityName": "GATAGARA (KARAGO) HP",
+      "id": "1970"
+    },
+    {
+      "facilityName": "Mwana HP",
+      "id": "2718"
+    },
+    {
+      "facilityName": "Mwiyanike CS",
+      "id": "215"
+    }
+  ],
+  "nyarugenge_mageragere": [
+    {
+      "facilityName": "Butamwa CS",
+      "id": "2"
+    },
+    {
+      "facilityName": "Mataba HP",
+      "id": "3317"
+    },
+    {
+      "facilityName": "Nyarugenge Prison",
+      "id": "10"
+    },
+    {
+      "facilityName": "Nyarurenzi HP",
+      "id": "2695"
+    },
+    {
+      "facilityName": "Nyarurenzi MHC",
+      "id": "1328"
+    },
+    {
+      "facilityName": "Rehoboth HP",
+      "id": "3318"
+    },
+    {
+      "facilityName": "Rugendabari (Mageragere) HP",
+      "id": "3390"
+    },
+    {
+      "facilityName": "Runzenze HP",
+      "id": "2990"
+    },
+    {
+      "facilityName": "Umubano HP",
+      "id": "2992"
+    }
+  ],
+  "rusizi_butare": [
+    {
+      "facilityName": "Butanda HP",
+      "id": "2939"
+    },
+    {
+      "facilityName": "GASUMO HP",
+      "id": "2105"
+    },
+    {
+      "facilityName": "Nyabitimbo MHC",
+      "id": "250"
+    },
+    {
+      "facilityName": "Nyamihanda HP",
+      "id": "2940"
+    }
+  ],
+  "nyanza_kigoma": [
+    {
+      "facilityName": "BUTANSINDA HP",
+      "id": "2029"
+    },
+    {
+      "facilityName": "BUTARA HP",
+      "id": "2030"
+    },
+    {
+      "facilityName": "Gahombo CS",
+      "id": "600"
+    },
+    {
+      "facilityName": "Gasoro HP",
+      "id": "2405"
+    },
+    {
+      "facilityName": "Mulinja (Kigoma) HP",
+      "id": "2406"
+    }
+  ],
+  "gasabo_nduba": [
+    {
+      "facilityName": "Butare (Nduba) HP",
+      "id": "3148"
+    },
+    {
+      "facilityName": "Gasanze HP",
+      "id": "1788"
+    },
+    {
+      "facilityName": "Girubuzima Gasura HP",
+      "id": "3369"
+    },
+    {
+      "facilityName": "Mercy Medical Clinic",
+      "id": "3258"
+    },
+    {
+      "facilityName": "Nduba CS",
+      "id": "551"
+    },
+    {
+      "facilityName": "SERENITY HEALTH POST",
+      "id": "2855"
+    },
+    {
+      "facilityName": "Sha PS",
+      "id": "1606"
+    },
+    {
+      "facilityName": "Shango II HP",
+      "id": "2963"
+    },
+    {
+      "facilityName": "Shango PS",
+      "id": "1527"
+    }
+  ],
+  "gicumbi_nyankenke": [
+    {
+      "facilityName": "Butare (Nyankenke) HP",
+      "id": "2646"
+    },
+    {
+      "facilityName": "Kigogo CS",
+      "id": "339"
+    },
+    {
+      "facilityName": "Kinishya HP",
+      "id": "2640"
+    },
+    {
+      "facilityName": "Rusasa HP",
+      "id": "2808"
+    },
+    {
+      "facilityName": "Rutete (Nyankenke) HP",
+      "id": "2809"
+    },
+    {
+      "facilityName": "Rwagihura HP",
+      "id": "1829"
+    },
+    {
+      "facilityName": "Yaramba HP",
+      "id": "1831"
+    }
+  ],
+  "nyamasheke_gihombo": [
+    {
+      "facilityName": "Butare Gihombo HP",
+      "id": "3188"
+    },
+    {
+      "facilityName": "Butembo HP",
+      "id": "2825"
+    },
+    {
+      "facilityName": "GITWA (GIHOMBO) HP",
+      "id": "2007"
+    },
+    {
+      "facilityName": "JARAMA HP",
+      "id": "2008"
+    },
+    {
+      "facilityName": "Kibingo (nyamasheke) CS",
+      "id": "260"
+    }
+  ],
+  "gakenke_muzo": [
+    {
+      "facilityName": "Butare Muzo HP",
+      "id": "1768"
+    },
+    {
+      "facilityName": "Muzo HP",
+      "id": "3154"
+    },
+    {
+      "facilityName": "Rusoro CS",
+      "id": "304"
+    },
+    {
+      "facilityName": "Rwa HP",
+      "id": "2697"
+    }
+  ],
+  "burera_butaro": [
+    {
+      "facilityName": "Butaro CS",
+      "id": "321"
+    },
+    {
+      "facilityName": "Butaro L2TH",
+      "id": "322"
+    },
+    {
+      "facilityName": "Gacyamo HP",
+      "id": "2975"
+    },
+    {
+      "facilityName": "Gatsibo HP",
+      "id": "1735"
+    },
+    {
+      "facilityName": "Muhotora HP",
+      "id": "1746"
+    },
+    {
+      "facilityName": "Nyamicucu HP",
+      "id": "1752"
+    }
+  ],
+  "nyamagabe_mushubi": [
+    {
+      "facilityName": "BUTETERI HP",
+      "id": "1990"
+    },
+    {
+      "facilityName": "Mushubi CS",
+      "id": "107"
+    }
+  ],
+  "kirehe_gahara": [
+    {
+      "facilityName": "Butezi HP",
+      "id": "2748"
+    },
+    {
+      "facilityName": "Gahara CS",
+      "id": "420"
+    },
+    {
+      "facilityName": "Gashongora CS",
+      "id": "421"
+    },
+    {
+      "facilityName": "Kijumbura HP",
+      "id": "3254"
+    }
+  ],
+  "huye_mukura": [
+    {
+      "facilityName": "Buvumu HP",
+      "id": "3231"
+    },
+    {
+      "facilityName": "Icyeru HP",
+      "id": "2752"
+    },
+    {
+      "facilityName": "Mukura (Huye) CS",
+      "id": "1557"
+    }
+  ],
+  "gakenke_mataba": [
+    {
+      "facilityName": "Buyange HP",
+      "id": "2448"
+    },
+    {
+      "facilityName": "Gikombe HP",
+      "id": "1769"
+    },
+    {
+      "facilityName": "Mataba CS",
+      "id": "294"
+    }
+  ],
+  "rulindo_buyoga": [
+    {
+      "facilityName": "Buyoga CS",
+      "id": "271"
+    },
+    {
+      "facilityName": "Gipfundo HP",
+      "id": "2790"
+    },
+    {
+      "facilityName": "Gitumba HP",
+      "id": "3106"
+    },
+    {
+      "facilityName": "Muyanza CS",
+      "id": "277"
+    }
+  ],
+  "gakenke_muhondo": [
+    {
+      "facilityName": "Bwenda  HP",
+      "id": "2879"
+    },
+    {
+      "facilityName": "Bwenda (Gakenke)HP",
+      "id": "2850"
+    },
+    {
+      "facilityName": "Gihinga HP",
+      "id": "2352"
+    },
+    {
+      "facilityName": "Huro HP",
+      "id": "1770"
+    },
+    {
+      "facilityName": "Muhondo (gakenke) CS",
+      "id": "295"
+    },
+    {
+      "facilityName": "Musagara HP",
+      "id": "1775"
+    },
+    {
+      "facilityName": "Musenyi HP",
+      "id": "2880"
+    }
+  ],
+  "nyamagabe_kibumbwe": [
+    {
+      "facilityName": "Bwenda HP",
+      "id": "2466"
+    },
+    {
+      "facilityName": "Kibumbwe CS",
+      "id": "545"
+    }
+  ],
+  "gasabo_jabana": [
+    {
+      "facilityName": "Bweramvura HP",
+      "id": "1783"
+    },
+    {
+      "facilityName": "Kabuye CS",
+      "id": "17"
+    },
+    {
+      "facilityName": "Kidashya HP",
+      "id": "1792"
+    },
+    {
+      "facilityName": "Ngiryi HP",
+      "id": "1798"
+    },
+    {
+      "facilityName": "Nyacyonga CS",
+      "id": "26"
+    },
+    {
+      "facilityName": "Tharhon Medical Clin",
+      "id": "3208"
+    },
+    {
+      "facilityName": "Trinita Medical Clinic",
+      "id": "2846"
+    }
+  ],
+  "kicukiro_gikondo": [
+    {
+      "facilityName": "Bwerankori HP",
+      "id": "3294"
+    },
+    {
+      "facilityName": "Gikondo CS",
+      "id": "32"
+    },
+    {
+      "facilityName": "HVP Gatagara_Gikondo",
+      "id": "1653"
+    },
+    {
+      "facilityName": "Igwe Clinic LTD",
+      "id": "2670"
+    },
+    {
+      "facilityName": "Inkuru Nziza Orthopedic Hosp",
+      "id": "1578"
+    },
+    {
+      "facilityName": "Kagunga (Gikondo) HP",
+      "id": "3085"
+    },
+    {
+      "facilityName": "Kinunga (Gikondo) HP",
+      "id": "3086"
+    },
+    {
+      "facilityName": "Sion specilized Clinic",
+      "id": "3305"
+    }
+  ],
+  "rulindo_masoro": [
+    {
+      "facilityName": "Bweranyange HP",
+      "id": "3157"
+    },
+    {
+      "facilityName": "Cyivugiza(Masoro) HP",
+      "id": "3161"
+    },
+    {
+      "facilityName": "Masoro CS",
+      "id": "275"
+    }
+  ],
+  "gisagara_ndora": [
+    {
+      "facilityName": "Bweya HP",
+      "id": "2408"
+    },
+    {
+      "facilityName": "Cyamukuza HP",
+      "id": "2407"
+    },
+    {
+      "facilityName": "Dahwe HP",
+      "id": "2574"
+    },
+    {
+      "facilityName": "Gisagara CS",
+      "id": "57"
+    },
+    {
+      "facilityName": "Nkinda HP",
+      "id": "2575"
+    },
+    {
+      "facilityName": "Vurwa Ltd Clin",
+      "id": "3286"
+    }
+  ],
+  "rusizi_bweyeye": [
+    {
+      "facilityName": "Bweyeye MHC",
+      "id": "238"
+    },
+    {
+      "facilityName": "Murwa (Bweyeye) HP",
+      "id": "2950"
+    },
+    {
+      "facilityName": "NYAMUZI HP",
+      "id": "2118"
+    },
+    {
+      "facilityName": "Rasano HP",
+      "id": "2119"
+    }
+  ],
+  "gicumbi_bwisige": [
+    {
+      "facilityName": "Bwisige CS",
+      "id": "334"
+    },
+    {
+      "facilityName": "Mukono CS",
+      "id": "344"
+    },
+    {
+      "facilityName": "Nyamugari HP",
+      "id": "3221"
+    }
+  ],
+  "kirehe_mpanga": [
+    {
+      "facilityName": "Bwiyorere HP",
+      "id": "3280"
+    },
+    {
+      "facilityName": "Kabuye (kirehe) CS",
+      "id": "422"
+    },
+    {
+      "facilityName": "Kankobwa(Manga) HP",
+      "id": "2997"
+    },
+    {
+      "facilityName": "Mpanga Rubaya HP",
+      "id": "3322"
+    },
+    {
+      "facilityName": "Mushongi Second Generation Health Post",
+      "id": "3316"
+    },
+    {
+      "facilityName": "Nasho CS",
+      "id": "428"
+    },
+    {
+      "facilityName": "Nasho SGHP",
+      "id": "3303"
+    },
+    {
+      "facilityName": "Nyakabungo (Mpanga) HP",
+      "id": "1916"
+    }
+  ],
+  "kayonza_mukarange (kayonza district)": [
+    {
+      "facilityName": "Bwiza (Mukarange) SGHP",
+      "id": "3162"
+    },
+    {
+      "facilityName": "Clinic Shalom",
+      "id": "3020"
+    },
+    {
+      "facilityName": "Humura HP",
+      "id": "3021"
+    },
+    {
+      "facilityName": "Mukarange CS",
+      "id": "409"
+    },
+    {
+      "facilityName": "Narada Medical Clin",
+      "id": "1490"
+    },
+    {
+      "facilityName": "Rutare (kayonza) CS",
+      "id": "415"
+    }
+  ],
+  "ruhango_byimana": [
+    {
+      "facilityName": "Byimana CS",
+      "id": "113"
+    },
+    {
+      "facilityName": "KAVUMU (BYIMANA) HP",
+      "id": "2088"
+    },
+    {
+      "facilityName": "MPANDA HP",
+      "id": "2092"
+    },
+    {
+      "facilityName": "Ntenyo HP",
+      "id": "3210"
+    },
+    {
+      "facilityName": "Nyakabuye( Byimana) HP",
+      "id": "3207"
+    }
+  ],
+  "gasabo_gisozi": [
+    {
+      "facilityName": "Byimanamusezero HP",
+      "id": "2853"
+    },
+    {
+      "facilityName": "Humanius CLIN",
+      "id": "1294"
+    },
+    {
+      "facilityName": "Kigali Hill side Clin",
+      "id": "2360"
+    },
+    {
+      "facilityName": "Medilabs Gisozi Clin",
+      "id": "2166"
+    },
+    {
+      "facilityName": "Narine care Medical Centre",
+      "id": "1548"
+    },
+    {
+      "facilityName": "Ruhango (Gisozi) PS",
+      "id": "1601"
+    },
+    {
+      "facilityName": "Ruhango Ineza HP",
+      "id": "3245"
+    },
+    {
+      "facilityName": "Silowamu Medical Clin",
+      "id": "1503"
+    },
+    {
+      "facilityName": "St Rita CLIN",
+      "id": "1138"
+    }
+  ],
+  "huye_kinazi": [
+    {
+      "facilityName": "Byinza Kinazi HP",
+      "id": "3143"
+    },
+    {
+      "facilityName": "Gitovu (kinazi) HP",
+      "id": "615"
+    },
+    {
+      "facilityName": "Gitovu CS",
+      "id": "3193"
+    },
+    {
+      "facilityName": "Sazange HP",
+      "id": "2585"
+    }
+  ],
+  "gisagara_muganza": [
+    {
+      "facilityName": "Byiza HP",
+      "id": "1837"
+    },
+    {
+      "facilityName": "Igihozo(Muganza)HP",
+      "id": "3169"
+    },
+    {
+      "facilityName": "Kirarambogo CS",
+      "id": "63"
+    },
+    {
+      "facilityName": "Odette HP",
+      "id": "3101"
+    },
+    {
+      "facilityName": "Remera (Muganza)HP",
+      "id": "2582"
+    },
+    {
+      "facilityName": "Rwamiko HP",
+      "id": "2486"
+    },
+    {
+      "facilityName": "Saga HP",
+      "id": "2398"
+    },
+    {
+      "facilityName": "Urisanga Poste de Sante ltd HP",
+      "id": "2480"
+    }
+  ],
+  "karongi_mutuntu": [
+    {
+      "facilityName": "Byogo HP",
+      "id": "2636"
+    },
+    {
+      "facilityName": "Gisayura HP",
+      "id": "2637"
+    },
+    {
+      "facilityName": "Manji HP",
+      "id": "1886"
+    },
+    {
+      "facilityName": "Mukungu CS",
+      "id": "170"
+    },
+    {
+      "facilityName": "Rwufi B HP",
+      "id": "3134"
+    }
+  ],
+  "gicumbi_byumba": [
+    {
+      "facilityName": "Byumba CS",
+      "id": "335"
+    },
+    {
+      "facilityName": "Byumba L2TH",
+      "id": "336"
+    },
+    {
+      "facilityName": "Gicumbi Cabinet Medical",
+      "id": "1445"
+    },
+    {
+      "facilityName": "Ihumure Medical CLIN",
+      "id": "1129"
+    },
+    {
+      "facilityName": "Iramiro (Byumba) Clin",
+      "id": "1546"
+    },
+    {
+      "facilityName": "Kivugiza (Byumba) HP",
+      "id": "2810"
+    },
+    {
+      "facilityName": "Ngondore HP",
+      "id": "3219"
+    },
+    {
+      "facilityName": "Nyiragasuruba HP",
+      "id": "1825"
+    },
+    {
+      "facilityName": "Ruhenda CS",
+      "id": "349"
+    },
+    {
+      "facilityName": "Trust healthcare clinic",
+      "id": "2806"
+    }
+  ],
+  "gicumbi_kageyo (gicumbi)": [
+    {
+      "facilityName": "Camp Gihembe CS",
+      "id": "461"
+    },
+    {
+      "facilityName": "Kabuga (Kageyo) HP",
+      "id": "2513"
+    },
+    {
+      "facilityName": "Muhondo (kageyo) CS",
+      "id": "342"
+    }
+  ],
+  "gatsibo_gatsibo": [
+    {
+      "facilityName": "Camp Nyabiheke CS",
+      "id": "463"
+    },
+    {
+      "facilityName": "Gatsibo CS",
+      "id": "606"
+    },
+    {
+      "facilityName": "Nyabicwamba HP",
+      "id": "1807"
+    },
+    {
+      "facilityName": "Nyagahanga CS",
+      "id": "399"
+    }
+  ],
+  "gasabo_ndera": [
+    {
+      "facilityName": "Caraes Ndera Hnr",
+      "id": "14"
+    },
+    {
+      "facilityName": "CM Imirasire Youth Clinic",
+      "id": "3321"
+    },
+    {
+      "facilityName": "Gasogi PS",
+      "id": "1605"
+    },
+    {
+      "facilityName": "Kinyaga HP",
+      "id": "2812"
+    },
+    {
+      "facilityName": "Masoro HP",
+      "id": "2813"
+    },
+    {
+      "facilityName": "Mukuyu HP",
+      "id": "1794"
+    },
+    {
+      "facilityName": "Ndera HP",
+      "id": "1796"
+    },
+    {
+      "facilityName": "Nora Dental Clinic",
+      "id": "2856"
+    },
+    {
+      "facilityName": "Rubungo CS",
+      "id": "28"
+    },
+    {
+      "facilityName": "Rudashya HP",
+      "id": "3357"
+    },
+    {
+      "facilityName": "Umurage (Ndera )HP",
+      "id": "3166"
+    }
+  ],
+  "nyarugenge_rwezamenyo": [
+    {
+      "facilityName": "Centre MÃ©dical Chinois",
+      "id": "1112"
+    },
+    {
+      "facilityName": "Don de Dieu (Nyarugenge) Clin",
+      "id": "1152"
+    },
+    {
+      "facilityName": "Girubuzima Rwezamenyo HP",
+      "id": "2044"
+    },
+    {
+      "facilityName": "Umuhoza HP",
+      "id": "2816"
+    },
+    {
+      "facilityName": "Urumuri (Nyarugenge) HP",
+      "id": "3133"
+    },
+    {
+      "facilityName": "Urumuri (Rwezamenyo) II HP",
+      "id": "2985"
+    },
+    {
+      "facilityName": "Wiringiri dentaire CLIN",
+      "id": "1118"
+    }
+  ],
+  "gasabo_kacyiru": [
+    {
+      "facilityName": "Centre MÃ©dical SOS",
+      "id": "1114"
+    },
+    {
+      "facilityName": "Gasabo Medical Clinic",
+      "id": "2773"
+    },
+    {
+      "facilityName": "Izere (Gasabo) HP",
+      "id": "3014"
+    },
+    {
+      "facilityName": "Kacyiru CS",
+      "id": "18"
+    },
+    {
+      "facilityName": "Kacyiru DH",
+      "id": "19"
+    },
+    {
+      "facilityName": "Kamutwa HP",
+      "id": "2959"
+    },
+    {
+      "facilityName": "Kigali Adventist Dental Clinic (Gasabo)",
+      "id": "1215"
+    },
+    {
+      "facilityName": "King Faisal Hospital HNR",
+      "id": "24"
+    },
+    {
+      "facilityName": "KIVU Specialist Clinic",
+      "id": "2795"
+    },
+    {
+      "facilityName": "La FraternitÃ© (Kacyiru) Medical CLIN",
+      "id": "1130"
+    },
+    {
+      "facilityName": "Solid Minds Counseling Clinic",
+      "id": "2629"
+    }
+  ],
+  "huye_tumba (huye)": [
+    {
+      "facilityName": "City Medhub Clinic",
+      "id": "2154"
+    },
+    {
+      "facilityName": "Cyarwa HP",
+      "id": "3015"
+    },
+    {
+      "facilityName": "Mpare HP",
+      "id": "1852"
+    },
+    {
+      "facilityName": "Mukoni HP",
+      "id": "2849"
+    },
+    {
+      "facilityName": "Rango CS",
+      "id": "91"
+    }
+  ],
+  "gatsibo_ngarama": [
+    {
+      "facilityName": "CityClinic",
+      "id": "3391"
+    },
+    {
+      "facilityName": "Karambi (NGARAMA) HP",
+      "id": "1802"
+    },
+    {
+      "facilityName": "Kigasha HP",
+      "id": "1803"
+    },
+    {
+      "facilityName": "Mayange HP",
+      "id": "2445"
+    },
+    {
+      "facilityName": "Ngarama CS",
+      "id": "397"
+    },
+    {
+      "facilityName": "Ngarama DH",
+      "id": "398"
+    },
+    {
+      "facilityName": "Nyarubungo HP",
+      "id": "2444"
+    }
+  ],
+  "nyarugenge_kimisagara": [
+    {
+      "facilityName": "Clinic Imagerie",
+      "id": "1473"
+    },
+    {
+      "facilityName": "Cor-unum CS",
+      "id": "4"
+    },
+    {
+      "facilityName": "Kamuhoza HP",
+      "id": "2045"
+    },
+    {
+      "facilityName": "Katabaro HP",
+      "id": "2989"
+    },
+    {
+      "facilityName": "Kimisagara HP",
+      "id": "2991"
+    },
+    {
+      "facilityName": "MILO CLINIC LTD",
+      "id": "3089"
+    }
+  ],
+  "gatsibo_kabarore": [
+    {
+      "facilityName": "Clinic Psycho-Medical la charite LTD",
+      "id": "3077"
+    },
+    {
+      "facilityName": "Hope (Kabarore) Clinic",
+      "id": "2799"
+    },
+    {
+      "facilityName": "Kabarore CS",
+      "id": "391"
+    },
+    {
+      "facilityName": "Kabeza-Imena Health Post",
+      "id": "1607"
+    },
+    {
+      "facilityName": "Kibondo CS",
+      "id": "393"
+    },
+    {
+      "facilityName": "Nyabikiri Gatsibo HP",
+      "id": "2144"
+    },
+    {
+      "facilityName": "Ruhuha HP",
+      "id": "1520"
+    },
+    {
+      "facilityName": "Rwagatare HP",
+      "id": "3182"
+    }
+  ],
+  "nyanza_busasamana": [
+    {
+      "facilityName": "Cliniques des Grands Lacs Clin",
+      "id": "2710"
+    },
+    {
+      "facilityName": "GAHANDA HP",
+      "id": "2925"
+    },
+    {
+      "facilityName": "GAHONDO HP",
+      "id": "2033"
+    },
+    {
+      "facilityName": "Hanika I (NYANZA) CS",
+      "id": "40"
+    },
+    {
+      "facilityName": "Igihozo Medical Clin",
+      "id": "1387"
+    },
+    {
+      "facilityName": "Isezerano Medical Clin",
+      "id": "1693"
+    },
+    {
+      "facilityName": "Kiberinka Gahondo HP",
+      "id": "3100"
+    },
+    {
+      "facilityName": "Kibinja HP",
+      "id": "2413"
+    },
+    {
+      "facilityName": "Nyanza CS",
+      "id": "48"
+    },
+    {
+      "facilityName": "Nyanza DH",
+      "id": "49"
+    }
+  ],
+  "kayonza_kabarondo": [
+    {
+      "facilityName": "Clique de la Grace Clin",
+      "id": "2835"
+    },
+    {
+      "facilityName": "Kabarondo (kayonza) CS",
+      "id": "407"
+    },
+    {
+      "facilityName": "Rusesa HP",
+      "id": "3105"
+    }
+  ],
+  "gakenke_coko": [
+    {
+      "facilityName": "Coko (ruli) CS",
+      "id": "289"
+    },
+    {
+      "facilityName": "Kiruku HP",
+      "id": "2851"
+    },
+    {
+      "facilityName": "Mbilima HP",
+      "id": "2353"
+    },
+    {
+      "facilityName": "Nyange (ruli) CS",
+      "id": "298"
+    }
+  ],
+  "nyaruguru_cyahinda": [
+    {
+      "facilityName": "Coko CS",
+      "id": "67"
+    },
+    {
+      "facilityName": "Cyahinda CS",
+      "id": "68"
+    },
+    {
+      "facilityName": "Muhambara SGHP",
+      "id": "2469"
+    },
+    {
+      "facilityName": "Ndago (Kibeho) HP",
+      "id": "2973"
+    },
+    {
+      "facilityName": "Rutobwe HP",
+      "id": "2788"
+    }
+  ],
+  "rutsiro_gihango": [
+    {
+      "facilityName": "Crete Congo Nil CS",
+      "id": "179"
+    },
+    {
+      "facilityName": "Kibingo (rutsiro) CS",
+      "id": "184"
+    },
+    {
+      "facilityName": "MATABA (GIHANGO) HP",
+      "id": "2129"
+    },
+    {
+      "facilityName": "NYAGAHINGA HP",
+      "id": "3044"
+    },
+    {
+      "facilityName": "Shyembe (Gihango) HP",
+      "id": "2824"
+    }
+  ],
+  "kamonyi_kayenzi": [
+    {
+      "facilityName": "Cubi HP",
+      "id": "1862"
+    },
+    {
+      "facilityName": "KABUGA II Unity HP",
+      "id": "3358"
+    },
+    {
+      "facilityName": "Kayenzi CS",
+      "id": "147"
+    },
+    {
+      "facilityName": "Kayenzi-Kirwa HP",
+      "id": "3242"
+    },
+    {
+      "facilityName": "Kirwa HP",
+      "id": "2887"
+    },
+    {
+      "facilityName": "Marenga Kibuye HP",
+      "id": "2886"
+    },
+    {
+      "facilityName": "Mataba (Kayenzi) HP",
+      "id": "2953"
+    },
+    {
+      "facilityName": "Urugwiro Gihinga HP",
+      "id": "2888"
+    }
+  ],
+  "gicumbi_manyagiro": [
+    {
+      "facilityName": "Cumi nikenda (Manyagiro) HP",
+      "id": "1611"
+    },
+    {
+      "facilityName": "Kabuga (Manyagiro) HP",
+      "id": "2947"
+    },
+    {
+      "facilityName": "Mafurebo HP",
+      "id": "1822"
+    },
+    {
+      "facilityName": "Mafurebo HP",
+      "id": "2641"
+    },
+    {
+      "facilityName": "Manyagiro CS",
+      "id": "340"
+    },
+    {
+      "facilityName": "Remera (Manyagiro) HP",
+      "id": "3039"
+    }
+  ],
+  "kirehe_gatore": [
+    {
+      "facilityName": "Curazo HP",
+      "id": "2727"
+    },
+    {
+      "facilityName": "Cyunuzi HP",
+      "id": "3163"
+    },
+    {
+      "facilityName": "Gatore HP",
+      "id": "1911"
+    },
+    {
+      "facilityName": "Rwabutazi HP",
+      "id": "2749"
+    },
+    {
+      "facilityName": "Rwantonde CS",
+      "id": "1325"
+    }
+  ],
+  "gakenke_cyabingo": [
+    {
+      "facilityName": "Cyabingo CS",
+      "id": "290"
+    },
+    {
+      "facilityName": "Muhaza HP",
+      "id": "2685"
+    },
+    {
+      "facilityName": "Muhororo HP",
+      "id": "3153"
+    },
+    {
+      "facilityName": "Mutanda HP",
+      "id": "2684"
+    }
+  ],
+  "gatsibo_gitoki": [
+    {
+      "facilityName": "Cyabusheshe HP",
+      "id": "1804"
+    },
+    {
+      "facilityName": "Cyoto HP",
+      "id": "3332"
+    },
+    {
+      "facilityName": "Gitoki CS",
+      "id": "561"
+    },
+    {
+      "facilityName": "Karubungo HP",
+      "id": "1499"
+    },
+    {
+      "facilityName": "Mpondwa HP",
+      "id": "2621"
+    }
+  ],
+  "nyagatare_gatunda": [
+    {
+      "facilityName": "Cyagaju HP",
+      "id": "2723"
+    },
+    {
+      "facilityName": "Gatunda DH",
+      "id": "2716"
+    },
+    {
+      "facilityName": "Gitenga (Gatunda) HP",
+      "id": "2771"
+    },
+    {
+      "facilityName": "Kabeza Heza (Gatunda) HP",
+      "id": "2493"
+    },
+    {
+      "facilityName": "Kira Rwensheke HP",
+      "id": "2715"
+    },
+    {
+      "facilityName": "Nyamikamba HP",
+      "id": "3349"
+    },
+    {
+      "facilityName": "Nyamirembe HP",
+      "id": "2828"
+    },
+    {
+      "facilityName": "Nyangara HP",
+      "id": "2535"
+    },
+    {
+      "facilityName": "Nyarurema CS",
+      "id": "381"
+    }
+  ],
+  "burera_rugarama": [
+    {
+      "facilityName": "Cyahi HP",
+      "id": "3289"
+    },
+    {
+      "facilityName": "Rugarama (RUGARAMA) HP",
+      "id": "1756"
+    },
+    {
+      "facilityName": "Rugarama CS",
+      "id": "1641"
+    },
+    {
+      "facilityName": "Rurembo HP",
+      "id": "1761"
+    }
+  ],
+  "kirehe_nasho": [
+    {
+      "facilityName": "Cyambwe (Nasho) HP",
+      "id": "2599"
+    },
+    {
+      "facilityName": "Kagese HP",
+      "id": "1912"
+    },
+    {
+      "facilityName": "Mulindi (kirehe) CS",
+      "id": "425"
+    },
+    {
+      "facilityName": "Ntaruka (nasho Kirehe) CS",
+      "id": "429"
+    },
+    {
+      "facilityName": "Rugarama (Nasho) HP",
+      "id": "2603"
+    }
+  ],
+  "kirehe_mushikiri": [
+    {
+      "facilityName": "Cyamigurwa HP",
+      "id": "1909"
+    },
+    {
+      "facilityName": "Mushikiri CS",
+      "id": "427"
+    },
+    {
+      "facilityName": "Rwanyamuhanga HP",
+      "id": "1920"
+    }
+  ],
+  "gicumbi_mukarange": [
+    {
+      "facilityName": "Cyamuganga HP",
+      "id": "3040"
+    },
+    {
+      "facilityName": "Gatenga PS",
+      "id": "1612"
+    },
+    {
+      "facilityName": "Kiruhura HP",
+      "id": "1821"
+    },
+    {
+      "facilityName": "Mukarange (Gicumbi) CS",
+      "id": "1655"
+    },
+    {
+      "facilityName": "Rugerero HP",
+      "id": "2519"
+    }
+  ],
+  "gicumbi_muko (gicumbi  district)": [
+    {
+      "facilityName": "Cyamuhinda PS",
+      "id": "1613"
+    },
+    {
+      "facilityName": "Kigoma(MUKO) HP",
+      "id": "3078"
+    },
+    {
+      "facilityName": "Muko CS",
+      "id": "343"
+    },
+    {
+      "facilityName": "Mwendo PS",
+      "id": "1614"
+    },
+    {
+      "facilityName": "Ngange (Muko) HP",
+      "id": "2639"
+    }
+  ],
+  "gicumbi_ruvune": [
+    {
+      "facilityName": "Cyandaro HP",
+      "id": "1617"
+    },
+    {
+      "facilityName": "Gasambya HP",
+      "id": "2511"
+    },
+    {
+      "facilityName": "Gashirira HP",
+      "id": "2512"
+    },
+    {
+      "facilityName": "Ruvune CS",
+      "id": "1345"
+    }
+  ],
+  "burera_cyanika (burera  district)": [
+    {
+      "facilityName": "Cyanika (burera) CS",
+      "id": "605"
+    },
+    {
+      "facilityName": "Gasiza (CYANIKA) HP",
+      "id": "1733"
+    },
+    {
+      "facilityName": "Gisovu HP",
+      "id": "2956"
+    },
+    {
+      "facilityName": "Kagitega HP",
+      "id": "1741"
+    },
+    {
+      "facilityName": "Kamanyana HP",
+      "id": "1742"
+    },
+    {
+      "facilityName": "Nyagahinga HP",
+      "id": "1751"
+    },
+    {
+      "facilityName": "Ryabiteyi HP",
+      "id": "2955"
+    }
+  ],
+  "nyamagabe_cyanika": [
+    {
+      "facilityName": "Cyanika (nyamagabe) CS",
+      "id": "98"
+    },
+    {
+      "facilityName": "Kabuga Gitega HP",
+      "id": "2564"
+    },
+    {
+      "facilityName": "KIYUMBA HP",
+      "id": "1992"
+    },
+    {
+      "facilityName": "Nyanzoga HP",
+      "id": "2836"
+    }
+  ],
+  "nyabihu_rurembo": [
+    {
+      "facilityName": "CYANIKA HP",
+      "id": "1968"
+    },
+    {
+      "facilityName": "Gahondo HP",
+      "id": "2429"
+    },
+    {
+      "facilityName": "Rurembo CS",
+      "id": "219"
+    },
+    {
+      "facilityName": "RWAZA HP",
+      "id": "1977"
+    }
+  ],
+  "kirehe_kigarama (kirehe  district)": [
+    {
+      "facilityName": "Cyanya 2nd GHP",
+      "id": "2602"
+    },
+    {
+      "facilityName": "Kigarama (Kirehe) HP",
+      "id": "2720"
+    },
+    {
+      "facilityName": "Kigarama CS",
+      "id": "1460"
+    },
+    {
+      "facilityName": "Kiremera HP",
+      "id": "2601"
+    },
+    {
+      "facilityName": "Nyankurazo HP",
+      "id": "1918"
+    }
+  ],
+  "karongi_gishyita": [
+    {
+      "facilityName": "Cyanya HP",
+      "id": "1881"
+    },
+    {
+      "facilityName": "Cyanya PS",
+      "id": "2153"
+    },
+    {
+      "facilityName": "Gisiza PS",
+      "id": "2149"
+    },
+    {
+      "facilityName": "KABWENGE HP",
+      "id": "2896"
+    },
+    {
+      "facilityName": "Kigarama (Gishyita) HP",
+      "id": "1888"
+    },
+    {
+      "facilityName": "Mpembe CS",
+      "id": "166"
+    },
+    {
+      "facilityName": "Mugonero CS",
+      "id": "168"
+    },
+    {
+      "facilityName": "Mugonero DH",
+      "id": "169"
+    },
+    {
+      "facilityName": "Munanira PS",
+      "id": "2150"
+    }
+  ],
+  "rwamagana_kigabiro": [
+    {
+      "facilityName": "Cyanya HP",
+      "id": "2547"
+    },
+    {
+      "facilityName": "Lumiere Dental Technical CLIN",
+      "id": "1401"
+    },
+    {
+      "facilityName": "Rwamagana CS",
+      "id": "364"
+    },
+    {
+      "facilityName": "Rwamagana L2TH",
+      "id": "365"
+    },
+    {
+      "facilityName": "Saint Simon Medical Clin",
+      "id": "1170"
+    },
+    {
+      "facilityName": "Saint Therese (Rwamagana) Clin",
+      "id": "2978"
+    },
+    {
+      "facilityName": "Sovu(Rwamagana)HP",
+      "id": "3137"
+    }
+  ],
+  "nyaruguru_kivu": [
+    {
+      "facilityName": "Cyanyirankora HP",
+      "id": "2971"
+    },
+    {
+      "facilityName": "Gahurizo HP",
+      "id": "2699"
+    },
+    {
+      "facilityName": "Kivu CS",
+      "id": "592"
+    },
+    {
+      "facilityName": "RUSUZUMIRO HP",
+      "id": "2070"
+    }
+  ],
+  "ruhango_mbuye": [
+    {
+      "facilityName": "CYANZA HP",
+      "id": "2084"
+    },
+    {
+      "facilityName": "GISANGA HP",
+      "id": "2087"
+    },
+    {
+      "facilityName": "Kabuga (rugango) HP",
+      "id": "648"
+    },
+    {
+      "facilityName": "Kizibere CS",
+      "id": "120"
+    },
+    {
+      "facilityName": "Mbuye CS",
+      "id": "121"
+    },
+    {
+      "facilityName": "VUNGA HP",
+      "id": "2098"
+    }
+  ],
+  "nyanza_rwabicuma": [
+    {
+      "facilityName": "Cyaratsi CS",
+      "id": "38"
+    },
+    {
+      "facilityName": "MUSHIRARUNGU HP",
+      "id": "2039"
+    },
+    {
+      "facilityName": "Nyarusange (nyanza) CS",
+      "id": "593"
+    },
+    {
+      "facilityName": "Nyarusange (Nyanza) HP",
+      "id": "2417"
+    }
+  ],
+  "kayonza_kabare": [
+    {
+      "facilityName": "Cyarubare CS",
+      "id": "404"
+    },
+    {
+      "facilityName": "Gitara HP",
+      "id": "3330"
+    },
+    {
+      "facilityName": "Kabare PS",
+      "id": "1498"
+    },
+    {
+      "facilityName": "Rubimba HP",
+      "id": "3017"
+    },
+    {
+      "facilityName": "Rushenyi HP",
+      "id": "1522"
+    },
+    {
+      "facilityName": "Umuyenzi HP",
+      "id": "1900"
+    }
+  ],
+  "nyanza_muyira": [
+    {
+      "facilityName": "CYEGERA HP",
+      "id": "2928"
+    },
+    {
+      "facilityName": "Gati HP",
+      "id": "2426"
+    },
+    {
+      "facilityName": "Nyamiyaga (Nyanza) CS",
+      "id": "46"
+    },
+    {
+      "facilityName": "Nyamure CS",
+      "id": "47"
+    },
+    {
+      "facilityName": "Nyamure HP",
+      "id": "2471"
+    }
+  ],
+  "nyagatare_kiyombe": [
+    {
+      "facilityName": "CYEMIYAGA HP",
+      "id": "2906"
+    },
+    {
+      "facilityName": "Cyondo CS",
+      "id": "368"
+    },
+    {
+      "facilityName": "Gataba (Kiyombe) HP",
+      "id": "2610"
+    },
+    {
+      "facilityName": "GITENGA HP",
+      "id": "2907"
+    },
+    {
+      "facilityName": "Karambo (Kiyombe) SGHP",
+      "id": "2496"
+    },
+    {
+      "facilityName": "KARUJUMBA HP",
+      "id": "2908"
+    },
+    {
+      "facilityName": "Tovu HP",
+      "id": "2508"
+    }
+  ],
+  "nyanza_mukingo": [
+    {
+      "facilityName": "CYEREZO HP",
+      "id": "2031"
+    },
+    {
+      "facilityName": "Gatagara (Nyanza) CS",
+      "id": "39"
+    },
+    {
+      "facilityName": "Gatagara -Nyamuko HP",
+      "id": "3325"
+    },
+    {
+      "facilityName": "Gatagara HP",
+      "id": "2415"
+    },
+    {
+      "facilityName": "HVP Gatagara",
+      "id": "1355"
+    },
+    {
+      "facilityName": "Mpanga HP",
+      "id": "2416"
+    },
+    {
+      "facilityName": "NKOMERO HP",
+      "id": "2040"
+    },
+    {
+      "facilityName": "Nyanza Prison",
+      "id": "50"
+    }
+  ],
+  "kamonyi_mugina": [
+    {
+      "facilityName": "Cyeru CS",
+      "id": "142"
+    },
+    {
+      "facilityName": "Jenda HP",
+      "id": "1866"
+    },
+    {
+      "facilityName": "Mugina CS",
+      "id": "149"
+    },
+    {
+      "facilityName": "Mugina HP",
+      "id": "2537"
+    },
+    {
+      "facilityName": "Nteko (Mugina) HP",
+      "id": "1874"
+    }
+  ],
+  "gicumbi_rwamiko": [
+    {
+      "facilityName": "Cyeru HP",
+      "id": "2509"
+    },
+    {
+      "facilityName": "Kigabiro HP",
+      "id": "2642"
+    },
+    {
+      "facilityName": "Rwesero CS",
+      "id": "352"
+    }
+  ],
+  "gicumbi_rukomo (gicumbi)": [
+    {
+      "facilityName": "Cyeya HP",
+      "id": "2510"
+    },
+    {
+      "facilityName": "Gisiza CS",
+      "id": "337"
+    },
+    {
+      "facilityName": "Mabare (Rukomo) HP",
+      "id": "2969"
+    },
+    {
+      "facilityName": "Munyinya CS",
+      "id": "346"
+    },
+    {
+      "facilityName": "Rukomo HP",
+      "id": "1826"
+    }
+  ],
+  "rusizi_nkanka": [
+    {
+      "facilityName": "CYIBUMBA HP",
+      "id": "2103"
+    },
+    {
+      "facilityName": "Nkanka CS",
+      "id": "247"
+    },
+    {
+      "facilityName": "Rweya HP",
+      "id": "3229"
+    }
+  ],
+  "rutsiro_kigeyo": [
+    {
+      "facilityName": "Cyimbili CS",
+      "id": "180"
+    },
+    {
+      "facilityName": "Kinihira (rutsiro) CS",
+      "id": "185"
+    }
+  ],
+  "nyamasheke_karambi": [
+    {
+      "facilityName": "Cyimpindu HP",
+      "id": "2746"
+    },
+    {
+      "facilityName": "Cyivugiza (Nyamasheke) CS",
+      "id": "1393"
+    },
+    {
+      "facilityName": "KABUGA (KARAMBI) HP",
+      "id": "2010"
+    },
+    {
+      "facilityName": "Karambi (nyamasheke) CS",
+      "id": "258"
+    },
+    {
+      "facilityName": "Ngange CS",
+      "id": "573"
+    }
+  ],
+  "nyamasheke_kirimbi": [
+    {
+      "facilityName": "Cyimpindu HP",
+      "id": "3334"
+    },
+    {
+      "facilityName": "KABURIRO HP",
+      "id": "2011"
+    },
+    {
+      "facilityName": "Karengera CS",
+      "id": "259"
+    },
+    {
+      "facilityName": "Muhororo (Kirimbi) HP",
+      "id": "2761"
+    },
+    {
+      "facilityName": "Mushungo HP",
+      "id": "3185"
+    },
+    {
+      "facilityName": "Nyarusange (Kibogora) HP",
+      "id": "2022"
+    }
+  ],
+  "rusizi_gitambi": [
+    {
+      "facilityName": "CYINGWA HP",
+      "id": "2104"
+    },
+    {
+      "facilityName": "Cyingwa-Kabugarama HP",
+      "id": "3265"
+    },
+    {
+      "facilityName": "KAMUKOBE HP",
+      "id": "2107"
+    },
+    {
+      "facilityName": "Mashesha CS",
+      "id": "243"
+    }
+  ],
+  "musanze_muko": [
+    {
+      "facilityName": "Cyivugiza HP",
+      "id": "1942"
+    },
+    {
+      "facilityName": "Kabere CS",
+      "id": "311"
+    },
+    {
+      "facilityName": "Mburabuturo HP",
+      "id": "2569"
+    },
+    {
+      "facilityName": "Songa HP",
+      "id": "1952"
+    }
+  ],
+  "gasabo_jali": [
+    {
+      "facilityName": "Cyuga HP",
+      "id": "1785"
+    },
+    {
+      "facilityName": "Gihogwe CS",
+      "id": "513"
+    },
+    {
+      "facilityName": "Jali CS",
+      "id": "16"
+    },
+    {
+      "facilityName": "Jali HP",
+      "id": "3172"
+    },
+    {
+      "facilityName": "Kajevuba HP",
+      "id": "1791"
+    }
+  ],
+  "gicumbi_cyumba": [
+    {
+      "facilityName": "Cyumba CS",
+      "id": "1346"
+    },
+    {
+      "facilityName": "Nyakabungo (Cyumba) HP",
+      "id": "2688"
+    },
+    {
+      "facilityName": "Nyaruka HP",
+      "id": "2643"
+    }
+  ],
+  "kicukiro_gatenga": [
+    {
+      "facilityName": "Dream Medical Center Hospital",
+      "id": "2367"
+    },
+    {
+      "facilityName": "Gatenga MHC",
+      "id": "1306"
+    },
+    {
+      "facilityName": "Nyanza (Gatenga) HP",
+      "id": "2184"
+    },
+    {
+      "facilityName": "Nyarurama (Gatenga) HP",
+      "id": "1907"
+    },
+    {
+      "facilityName": "Saint Therese (Gatenga) Clin",
+      "id": "1677"
+    },
+    {
+      "facilityName": "Trinity Medical Clinique",
+      "id": "3122"
+    }
+  ],
+  "kicukiro_kigarama": [
+    {
+      "facilityName": "Dutabarane Clin",
+      "id": "1158"
+    },
+    {
+      "facilityName": "Kigarama (KIGARAMA) HP",
+      "id": "1903"
+    },
+    {
+      "facilityName": "Kigarama Umucyo HP",
+      "id": "2745"
+    },
+    {
+      "facilityName": "Nyinawajambo HP",
+      "id": "3084"
+    },
+    {
+      "facilityName": "PolyClin Du Bon Berger",
+      "id": "1221"
+    },
+    {
+      "facilityName": "Rebero Adventist Polyclinic",
+      "id": "2759"
+    },
+    {
+      "facilityName": "St Ange Medical CLIN",
+      "id": "1131"
+    }
+  ],
+  "gisagara_kibirizi": [
+    {
+      "facilityName": "Duwane HP",
+      "id": "1833"
+    },
+    {
+      "facilityName": "Kibilizi (gisagara) CS",
+      "id": "60"
+    },
+    {
+      "facilityName": "Kibilizi DH",
+      "id": "61"
+    },
+    {
+      "facilityName": "Muyira HP",
+      "id": "2481"
+    },
+    {
+      "facilityName": "Muzenga HP",
+      "id": "1841"
+    }
+  ],
+  "muhanga_nyamabuye": [
+    {
+      "facilityName": "Ebenezer Stone Dental Clin",
+      "id": "3109"
+    },
+    {
+      "facilityName": "Gahogo HP",
+      "id": "1924"
+    },
+    {
+      "facilityName": "Gasharu (Nyamabuye) HP",
+      "id": "2791"
+    },
+    {
+      "facilityName": "Gifumba HP",
+      "id": "3370"
+    },
+    {
+      "facilityName": "Ineza Polyclinic LTD",
+      "id": "1624"
+    },
+    {
+      "facilityName": "Kabgayi CS",
+      "id": "132"
+    },
+    {
+      "facilityName": "Kabgayi L2TH",
+      "id": "133"
+    },
+    {
+      "facilityName": "La Benediction CLIN",
+      "id": "1446"
+    },
+    {
+      "facilityName": "La Providence CLIN",
+      "id": "1448"
+    },
+    {
+      "facilityName": "Peace (Nyamabuye) Clin",
+      "id": "1447"
+    },
+    {
+      "facilityName": "Sanus Medical Clinic",
+      "id": "2837"
+    },
+    {
+      "facilityName": "Umurage Medical Clin",
+      "id": "1642"
+    }
+  ],
+  "rwamagana_fumbwe": [
+    {
+      "facilityName": "Fumbwe PS",
+      "id": "652"
+    },
+    {
+      "facilityName": "Janjagiro HP",
+      "id": "1390"
+    },
+    {
+      "facilityName": "Nyagasambu CS",
+      "id": "359"
+    },
+    {
+      "facilityName": "Nyagasambu HP",
+      "id": "2999"
+    },
+    {
+      "facilityName": "Nyamirama ( Fumbwe) HP",
+      "id": "3000"
+    },
+    {
+      "facilityName": "Nyarubuye (Fumbwe) HP",
+      "id": "3346"
+    },
+    {
+      "facilityName": "st vincent de paul janjagiro hp",
+      "id": "3003"
+    }
+  ],
+  "nyamasheke_mahembe": [
+    {
+      "facilityName": "GABIRO HP",
+      "id": "2002"
+    },
+    {
+      "facilityName": "GISOKE HP",
+      "id": "2006"
+    },
+    {
+      "facilityName": "KAGARAMA(Gabiro) SG HP",
+      "id": "3247"
+    },
+    {
+      "facilityName": "Mahembe CS",
+      "id": "546"
+    },
+    {
+      "facilityName": "NYARUSIZA HP",
+      "id": "2023"
+    }
+  ],
+  "musanze_gacaca": [
+    {
+      "facilityName": "Gacaca CS",
+      "id": "3216"
+    },
+    {
+      "facilityName": "Gakoro HP",
+      "id": "1943"
+    },
+    {
+      "facilityName": "Gasakuza PS",
+      "id": "621"
+    },
+    {
+      "facilityName": "Kabirizi Mata HP",
+      "id": "3140"
+    }
+  ],
+  "huye_rusatira": [
+    {
+      "facilityName": "Gafumba HP",
+      "id": "2369"
+    },
+    {
+      "facilityName": "Kimirehe HP",
+      "id": "2848"
+    },
+    {
+      "facilityName": "Rubona (huye) CS",
+      "id": "92"
+    },
+    {
+      "facilityName": "Rusatira-kinazi CS",
+      "id": "94"
+    }
+  ],
+  "ruhango_mwendo": [
+    {
+      "facilityName": "Gafunzo HP",
+      "id": "2708"
+    },
+    {
+      "facilityName": "Gishweru CS",
+      "id": "114"
+    },
+    {
+      "facilityName": "KIGARAMA (MWENDO) HP",
+      "id": "2090"
+    },
+    {
+      "facilityName": "Kubutare(Mwendo) HP",
+      "id": "3341"
+    },
+    {
+      "facilityName": "Mwendo (Gitwe) CS",
+      "id": "1319"
+    },
+    {
+      "facilityName": "Mwendo (ruhango) PS",
+      "id": "650"
+    }
+  ],
+  "kicukiro_gahanga": [
+    {
+      "facilityName": "Gahanga CS",
+      "id": "31"
+    },
+    {
+      "facilityName": "Karembure HP",
+      "id": "2691"
+    },
+    {
+      "facilityName": "Kiyanja HP",
+      "id": "2744"
+    },
+    {
+      "facilityName": "Mulinja (Gahanga) HP",
+      "id": "2747"
+    },
+    {
+      "facilityName": "Nunga HP",
+      "id": "2900"
+    },
+    {
+      "facilityName": "Rwabutenge HP",
+      "id": "3180"
+    }
+  ],
+  "musanze_nkotsi": [
+    {
+      "facilityName": "Gahanga Rugeshi HP",
+      "id": "1951"
+    },
+    {
+      "facilityName": "Kamusheshe Nkotsi HP",
+      "id": "3362"
+    },
+    {
+      "facilityName": "Nyakinama CS",
+      "id": "315"
+    },
+    {
+      "facilityName": "Ruyumba ( Nkotsi) HP",
+      "id": "2783"
+    }
+  ],
+  "rubavu_kanzenze": [
+    {
+      "facilityName": "Gahenerezo HP",
+      "id": "2780"
+    },
+    {
+      "facilityName": "Kabari (Rubavu) CS",
+      "id": "647"
+    },
+    {
+      "facilityName": "Karagarago HP",
+      "id": "3222"
+    }
+  ],
+  "rwamagana_gahengeri": [
+    {
+      "facilityName": "Gahengeri CS",
+      "id": "497"
+    },
+    {
+      "facilityName": "Kagezi HP",
+      "id": "2797"
+    },
+    {
+      "facilityName": "Mutamwa HP",
+      "id": "2439"
+    },
+    {
+      "facilityName": "Runyinya (Gahengeri) HP",
+      "id": "1969"
+    },
+    {
+      "facilityName": "Rweri HP",
+      "id": "1524"
+    }
+  ],
+  "kayonza_gahini": [
+    {
+      "facilityName": "Gahini CS",
+      "id": "405"
+    },
+    {
+      "facilityName": "Gahini DH",
+      "id": "406"
+    },
+    {
+      "facilityName": "Gitara HP",
+      "id": "3283"
+    },
+    {
+      "facilityName": "Juru (Gahini) PS",
+      "id": "1618"
+    },
+    {
+      "facilityName": "Kahi HP",
+      "id": "3328"
+    },
+    {
+      "facilityName": "Kiyenzi Gahini HP",
+      "id": "3284"
+    }
+  ],
+  "nyabihu_muringa": [
+    {
+      "facilityName": "Gakamba CS",
+      "id": "209"
+    },
+    {
+      "facilityName": "MURINGA HP",
+      "id": "1975"
+    },
+    {
+      "facilityName": "NYAMASHEKE HP",
+      "id": "1976"
+    }
+  ],
+  "bugesera_mayange": [
+    {
+      "facilityName": "Gakamba HP",
+      "id": "1704"
+    },
+    {
+      "facilityName": "Humura Medical Centre",
+      "id": "3263"
+    },
+    {
+      "facilityName": "Kagenge HP",
+      "id": "2868"
+    },
+    {
+      "facilityName": "Kibenga HP",
+      "id": "1705"
+    },
+    {
+      "facilityName": "Mayange (bugesera) CS",
+      "id": "451"
+    },
+    {
+      "facilityName": "Mbyo SGHP",
+      "id": "2681"
+    }
+  ],
+  "gatsibo_kiramuruzi": [
+    {
+      "facilityName": "Gakenke CS",
+      "id": "387"
+    },
+    {
+      "facilityName": "GAKONI-KIRAMURUZI PS",
+      "id": "1608"
+    },
+    {
+      "facilityName": "Nyabisindu (SGHP) PS",
+      "id": "611"
+    }
+  ],
+  "ruhango_ntongwe": [
+    {
+      "facilityName": "GAKO (NTONGWE) HP",
+      "id": "2085"
+    },
+    {
+      "facilityName": "KAYENZI (NTONGWE) HP",
+      "id": "2089"
+    },
+    {
+      "facilityName": "NYAGISOZI (NTONGWE) HP",
+      "id": "2093"
+    },
+    {
+      "facilityName": "Nyakabungo( NTONGWE) HP",
+      "id": "3035"
+    },
+    {
+      "facilityName": "Nyarurama CS",
+      "id": "125"
+    }
+  ],
+  "nyamasheke_kagano": [
+    {
+      "facilityName": "Gako HP",
+      "id": "2141"
+    },
+    {
+      "facilityName": "Gitaba HP",
+      "id": "3186"
+    },
+    {
+      "facilityName": "Ihirwe Medical Clin",
+      "id": "2364"
+    },
+    {
+      "facilityName": "Makoko Kagano HP",
+      "id": "3376"
+    },
+    {
+      "facilityName": "Nyamasheke CS",
+      "id": "267"
+    },
+    {
+      "facilityName": "Shara HP",
+      "id": "2140"
+    }
+  ],
+  "gisagara_mamba": [
+    {
+      "facilityName": "Gakoma CS",
+      "id": "53"
+    },
+    {
+      "facilityName": "Gakoma DH",
+      "id": "54"
+    },
+    {
+      "facilityName": "Gakoma New Life HP",
+      "id": "2443"
+    },
+    {
+      "facilityName": "Hitayezu EM SGHP",
+      "id": "3337"
+    },
+    {
+      "facilityName": "Kabumbwe HP",
+      "id": "2597"
+    },
+    {
+      "facilityName": "Muyaga HP",
+      "id": "1840"
+    },
+    {
+      "facilityName": "Ramba  HP",
+      "id": "2484"
+    }
+  ],
+  "gatsibo_muhura": [
+    {
+      "facilityName": "Gakorokombe HP",
+      "id": "2534"
+    },
+    {
+      "facilityName": "Mamfu HP",
+      "id": "1506"
+    },
+    {
+      "facilityName": "Muhura CS",
+      "id": "396"
+    }
+  ],
+  "bugesera_musenyi": [
+    {
+      "facilityName": "Gakurazo CS",
+      "id": "446"
+    },
+    {
+      "facilityName": "Gitagata Rehabilitation Center",
+      "id": "2867"
+    },
+    {
+      "facilityName": "Kayumbo HP",
+      "id": "2869"
+    },
+    {
+      "facilityName": "Njyewenawe HP",
+      "id": "2870"
+    },
+    {
+      "facilityName": "Nyagihunika HP",
+      "id": "1706"
+    },
+    {
+      "facilityName": "Rulindo (Musenyi) SGHP",
+      "id": "2679"
+    }
+  ],
+  "musanze_musanze": [
+    {
+      "facilityName": "Garuka HP",
+      "id": "2648"
+    },
+    {
+      "facilityName": "Garuro_Musanze HP",
+      "id": "2529"
+    },
+    {
+      "facilityName": "Kabazungu HP",
+      "id": "1944"
+    },
+    {
+      "facilityName": "Kamumba HP",
+      "id": "3126"
+    },
+    {
+      "facilityName": "Musanze CS",
+      "id": "1475"
+    },
+    {
+      "facilityName": "Nyarubuye (musanze) PS",
+      "id": "624"
+    },
+    {
+      "facilityName": "Travailler Ensemble Medical Clinic",
+      "id": "3307"
+    }
+  ],
+  "gasabo_rutunga": [
+    {
+      "facilityName": "Gasabo HP",
+      "id": "1786"
+    },
+    {
+      "facilityName": "Indatemwa(Gasabo)HP",
+      "id": "3250"
+    },
+    {
+      "facilityName": "Kayanga CS",
+      "id": "21"
+    },
+    {
+      "facilityName": "Kigabiro Rutunga HP",
+      "id": "3249"
+    }
+  ],
+  "gisagara_gikonko": [
+    {
+      "facilityName": "Gasagara (Gikonko) HP",
+      "id": "2595"
+    },
+    {
+      "facilityName": "Gikonko (Gisagara) MHC",
+      "id": "55"
+    },
+    {
+      "facilityName": "Mbogo HP",
+      "id": "2479"
+    },
+    {
+      "facilityName": "Sanzu Cyiri HP",
+      "id": "2594"
+    }
+  ],
+  "gatsibo_gasange": [
+    {
+      "facilityName": "Gasange CS",
+      "id": "388"
+    },
+    {
+      "facilityName": "Viro HP",
+      "id": "2545"
+    }
+  ],
+  "kayonza_mwiri": [
+    {
+      "facilityName": "Gasarabwayi (Mwiri) HP",
+      "id": "2459"
+    },
+    {
+      "facilityName": "Kageyo I (Kayonza Gahini) CS",
+      "id": "594"
+    },
+    {
+      "facilityName": "Migera Mwili HP",
+      "id": "3285"
+    },
+    {
+      "facilityName": "Nyakabungo CS",
+      "id": "411"
+    }
+  ],
+  "kirehe_musaza": [
+    {
+      "facilityName": "Gasarabwayi HP",
+      "id": "1910"
+    },
+    {
+      "facilityName": "Kabuga (Musaza) HP",
+      "id": "2676"
+    },
+    {
+      "facilityName": "Mubuga (Musaza) HP",
+      "id": "1914"
+    },
+    {
+      "facilityName": "Musaza CS",
+      "id": "426"
+    },
+    {
+      "facilityName": "Nganda HP",
+      "id": "2705"
+    }
+  ],
+  "nyamagabe_musange": [
+    {
+      "facilityName": "GASAVE (MUSANGE) HP",
+      "id": "1991"
+    },
+    {
+      "facilityName": "Jenda (nyamagabe) CS",
+      "id": "99"
+    },
+    {
+      "facilityName": "Masangano (Nyamagabe) HP",
+      "id": "2571"
+    }
+  ],
+  "muhanga_rugendabari": [
+    {
+      "facilityName": "Gasave (RUGENDABARI) HP",
+      "id": "1925"
+    },
+    {
+      "facilityName": "Gasovu CS",
+      "id": "129"
+    },
+    {
+      "facilityName": "Mpinga (Rugendabari) HP",
+      "id": "2450"
+    },
+    {
+      "facilityName": "Rugendabali CS",
+      "id": "1321"
+    }
+  ],
+  "nyamasheke_karengera": [
+    {
+      "facilityName": "GASAYO HP",
+      "id": "2004"
+    },
+    {
+      "facilityName": "GASHASHI HP",
+      "id": "2005"
+    },
+    {
+      "facilityName": "Higiro HP",
+      "id": "3375"
+    },
+    {
+      "facilityName": "Miko HP",
+      "id": "3403"
+    },
+    {
+      "facilityName": "Mwezi CS",
+      "id": "266"
+    }
+  ],
+  "gicumbi_mutete": [
+    {
+      "facilityName": "Gaseke (MUTETE) HP",
+      "id": "1812"
+    },
+    {
+      "facilityName": "HP Kabeza (Mutete) HP",
+      "id": "2757"
+    },
+    {
+      "facilityName": "Merezo HP",
+      "id": "2758"
+    },
+    {
+      "facilityName": "Musenyi (gicumbi) CS",
+      "id": "347"
+    },
+    {
+      "facilityName": "Mutandi HP",
+      "id": "2463"
+    },
+    {
+      "facilityName": "Nyarubuye (Mutete) HP",
+      "id": "2644"
+    },
+    {
+      "facilityName": "Rusumo HP",
+      "id": "1828"
+    }
+  ],
+  "burera_ruhunde": [
+    {
+      "facilityName": "Gaseke (RUHUNDE) HP",
+      "id": "1731"
+    },
+    {
+      "facilityName": "Gitovu HP",
+      "id": "1737"
+    },
+    {
+      "facilityName": "Ruhunde CS",
+      "id": "331"
+    }
+  ],
+  "rusizi_nyakabuye": [
+    {
+      "facilityName": "Gaseke HP",
+      "id": "2116"
+    },
+    {
+      "facilityName": "Gaseke/Nyakabuye HP",
+      "id": "3266"
+    },
+    {
+      "facilityName": "Mashyuza HP",
+      "id": "3378"
+    },
+    {
+      "facilityName": "Nyakabuye CS",
+      "id": "1665"
+    }
+  ],
+  "kamonyi_nyarubaka": [
+    {
+      "facilityName": "Gaserege HP",
+      "id": "2892"
+    },
+    {
+      "facilityName": "Gatagara (NYARUBAKA) HP",
+      "id": "1863"
+    },
+    {
+      "facilityName": "Gitare HP",
+      "id": "2532"
+    },
+    {
+      "facilityName": "Muyange HP",
+      "id": "2893"
+    },
+    {
+      "facilityName": "Nyagihamba CS",
+      "id": "151"
+    },
+    {
+      "facilityName": "Nyagishubi HP",
+      "id": "1875"
+    },
+    {
+      "facilityName": "Nyarubaka HP",
+      "id": "1876"
+    }
+  ],
+  "ngoma_remera (ngoma  district)": [
+    {
+      "facilityName": "Gasetsa CS",
+      "id": "625"
+    },
+    {
+      "facilityName": "Remera (Ngoma) CS",
+      "id": "440"
+    }
+  ],
+  "musanze_gashaki": [
+    {
+      "facilityName": "Gashaki CS",
+      "id": "602"
+    },
+    {
+      "facilityName": "Mbwe PS",
+      "id": "1625"
+    }
+  ],
+  "ngoma_gashanda": [
+    {
+      "facilityName": "Gashanda CS",
+      "id": "1660"
+    },
+    {
+      "facilityName": "Mutsindo HP",
+      "id": "1282"
+    }
+  ],
+  "ngororero_matyazo": [
+    {
+      "facilityName": "Gashonyi CS",
+      "id": "472"
+    },
+    {
+      "facilityName": "Kunturo HP",
+      "id": "3226"
+    }
+  ],
+  "bugesera_gashora": [
+    {
+      "facilityName": "Gashora CS",
+      "id": "447"
+    },
+    {
+      "facilityName": "Kabuye (Gashora) HP",
+      "id": "2470"
+    },
+    {
+      "facilityName": "Kagasa HP",
+      "id": "2607"
+    },
+    {
+      "facilityName": "Kagomasi HP",
+      "id": "2181"
+    },
+    {
+      "facilityName": "Mwendo (GASHORA) HP",
+      "id": "1696"
+    },
+    {
+      "facilityName": "POSTE DE SANTE ISANGE DE MWENDO Ltd",
+      "id": "3311"
+    },
+    {
+      "facilityName": "Ramiro SGHP",
+      "id": "1697"
+    }
+  ],
+  "muhanga_nyabinoni": [
+    {
+      "facilityName": "Gashorera HP",
+      "id": "1926"
+    },
+    {
+      "facilityName": "Masangano (Nyabinoni) HP",
+      "id": "1931"
+    },
+    {
+      "facilityName": "Muvumba HP",
+      "id": "3313"
+    },
+    {
+      "facilityName": "Nyabinoni CS",
+      "id": "137"
+    }
+  ],
+  "rulindo_bushoki": [
+    {
+      "facilityName": "GASIZA (BUSHOKI) HP",
+      "id": "2099"
+    },
+    {
+      "facilityName": "Kayenzi HP",
+      "id": "3224"
+    },
+    {
+      "facilityName": "Lifeline Clinic",
+      "id": "2714"
+    },
+    {
+      "facilityName": "Tare CS",
+      "id": "285"
+    }
+  ],
+  "nyabihu_jomba": [
+    {
+      "facilityName": "Gasiza (Jomba) HP",
+      "id": "2775"
+    },
+    {
+      "facilityName": "Gasura (Jomba) HP",
+      "id": "2687"
+    },
+    {
+      "facilityName": "Guriro CS",
+      "id": "3273"
+    },
+    {
+      "facilityName": "Jomba CS",
+      "id": "210"
+    },
+    {
+      "facilityName": "Jomba HP",
+      "id": "1972"
+    },
+    {
+      "facilityName": "KAVUMU (JOMBA) HP",
+      "id": "1973"
+    }
+  ],
+  "nyabihu_mukamira": [
+    {
+      "facilityName": "Gasizi HP",
+      "id": "2427"
+    },
+    {
+      "facilityName": "Gateway medical Clinic",
+      "id": "2784"
+    },
+    {
+      "facilityName": "Jaba HP",
+      "id": "2586"
+    },
+    {
+      "facilityName": "Rukoma (Mukamira) HP",
+      "id": "2696"
+    },
+    {
+      "facilityName": "Rwankeri CS",
+      "id": "220"
+    }
+  ],
+  "kayonza_nyamirama": [
+    {
+      "facilityName": "Gasura Gikaya HP",
+      "id": "3356"
+    },
+    {
+      "facilityName": "Kabura PS",
+      "id": "1621"
+    },
+    {
+      "facilityName": "Musumba HP",
+      "id": "3018"
+    },
+    {
+      "facilityName": "Nyamirama CS",
+      "id": "412"
+    },
+    {
+      "facilityName": "Shyogo HP",
+      "id": "3282"
+    },
+    {
+      "facilityName": "SOS (Kayonza) CLIN",
+      "id": "1414"
+    }
+  ],
+  "musanze_gataraga": [
+    {
+      "facilityName": "Gataraga (MUSANZE) CS",
+      "id": "1103"
+    },
+    {
+      "facilityName": "Mudakama HP",
+      "id": "3121"
+    },
+    {
+      "facilityName": "Murago HP",
+      "id": "2653"
+    }
+  ],
+  "nyamasheke_macuba": [
+    {
+      "facilityName": "Gatare (macuba) CS",
+      "id": "254"
+    },
+    {
+      "facilityName": "Hanika (nyamasheke) CS",
+      "id": "256"
+    },
+    {
+      "facilityName": "KIREHE HP",
+      "id": "2014"
+    },
+    {
+      "facilityName": "Mataba (MACUBA) HP",
+      "id": "2015"
+    },
+    {
+      "facilityName": "Mutongo HP",
+      "id": "2826"
+    },
+    {
+      "facilityName": "VUGANGOMA HP",
+      "id": "2027"
+    }
+  ],
+  "burera_rugengabari": [
+    {
+      "facilityName": "Gatare (RUGENGABALI) HP",
+      "id": "1734"
+    },
+    {
+      "facilityName": "Kiribata HP",
+      "id": "1745"
+    },
+    {
+      "facilityName": "Mucaca CS",
+      "id": "328"
+    },
+    {
+      "facilityName": "Rugengabali HP",
+      "id": "1757"
+    }
+  ],
+  "karongi_twumba": [
+    {
+      "facilityName": "Gatare (twumba) CS",
+      "id": "157"
+    },
+    {
+      "facilityName": "Gisovu CS",
+      "id": "158"
+    },
+    {
+      "facilityName": "Kavumu (TWUMBA) HP",
+      "id": "1883"
+    },
+    {
+      "facilityName": "Kibuhuro HP",
+      "id": "1885"
+    }
+  ],
+  "rusizi_nkungu": [
+    {
+      "facilityName": "GATARE HP",
+      "id": "3194"
+    },
+    {
+      "facilityName": "KIZIGURO (NKUNGU) HP",
+      "id": "2110"
+    },
+    {
+      "facilityName": "Nkungu CS",
+      "id": "249"
+    },
+    {
+      "facilityName": "RYAMUHIRWA HP",
+      "id": "2120"
+    }
+  ],
+  "nyamasheke_kanjongo": [
+    {
+      "facilityName": "Gatebe (Kanjongo) HP",
+      "id": "2566"
+    },
+    {
+      "facilityName": "Kibogora CS",
+      "id": "261"
+    },
+    {
+      "facilityName": "Kibogora L2TH",
+      "id": "262"
+    },
+    {
+      "facilityName": "Kigarama (Kanjongo) HP",
+      "id": "2961"
+    },
+    {
+      "facilityName": "La Medical de Nyamasheke clin",
+      "id": "3301"
+    },
+    {
+      "facilityName": "Right Kigoya HP",
+      "id": "2962"
+    },
+    {
+      "facilityName": "Ruheru (kanjongo Nyamasheke) CS",
+      "id": "269"
+    }
+  ],
+  "burera_gatebe": [
+    {
+      "facilityName": "Gatebe CS",
+      "id": "1560"
+    },
+    {
+      "facilityName": "Musenda HP",
+      "id": "1747"
+    },
+    {
+      "facilityName": "Rwasa HP",
+      "id": "1765"
+    }
+  ],
+  "rubavu_nyamyumba": [
+    {
+      "facilityName": "Gateko HP",
+      "id": "3223"
+    },
+    {
+      "facilityName": "Gatyazo HP",
+      "id": "2074"
+    },
+    {
+      "facilityName": "Kigufi CS",
+      "id": "201"
+    },
+    {
+      "facilityName": "RUBONA (NYAMYUMBA) HP",
+      "id": "2082"
+    },
+    {
+      "facilityName": "Tagaza HP",
+      "id": "3255"
+    }
+  ],
+  "gicumbi_giti": [
+    {
+      "facilityName": "Gatobotobo II HP",
+      "id": "1610"
+    },
+    {
+      "facilityName": "Kagogo HP",
+      "id": "1818"
+    },
+    {
+      "facilityName": "Tanda CS",
+      "id": "353"
+    }
+  ],
+  "gicumbi_kaniga": [
+    {
+      "facilityName": "Gatoma HP",
+      "id": "1813"
+    },
+    {
+      "facilityName": "Kaniga HP",
+      "id": "1819"
+    },
+    {
+      "facilityName": "Mulindi (gicumbi) CS",
+      "id": "345"
+    },
+    {
+      "facilityName": "Nyarwambu HP",
+      "id": "2611"
+    },
+    {
+      "facilityName": "Rukizi HP",
+      "id": "2957"
+    },
+    {
+      "facilityName": "Rukurura HP",
+      "id": "2958"
+    }
+  ],
+  "gakenke_mugunga": [
+    {
+      "facilityName": "Gatonde CS",
+      "id": "291"
+    },
+    {
+      "facilityName": "Gatonde DH",
+      "id": "2755"
+    },
+    {
+      "facilityName": "Mugunga HP",
+      "id": "520"
+    },
+    {
+      "facilityName": "Mugunga HP",
+      "id": "2878"
+    },
+    {
+      "facilityName": "Munyana HP",
+      "id": "3248"
+    },
+    {
+      "facilityName": "Mutego HP",
+      "id": "1776"
+    }
+  ],
+  "huye_ruhashya": [
+    {
+      "facilityName": "Gatovu(Ruhashya)HP",
+      "id": "3136"
+    },
+    {
+      "facilityName": "Mara HP",
+      "id": "3049"
+    },
+    {
+      "facilityName": "Muhororo (Ruhashya) HP",
+      "id": "1853"
+    },
+    {
+      "facilityName": "Ruhashya CS",
+      "id": "93"
+    }
+  ],
+  "gasabo_gatsata": [
+    {
+      "facilityName": "Gatsata 1 HP",
+      "id": "1789"
+    },
+    {
+      "facilityName": "Gatsata 2 HP",
+      "id": "1790"
+    },
+    {
+      "facilityName": "Gatsata CS",
+      "id": "2351"
+    },
+    {
+      "facilityName": "Ivuriro Isangano Clinic",
+      "id": "1295"
+    },
+    {
+      "facilityName": "Kanyonyomba Nyamugari (Gatsata) HP",
+      "id": "2863"
+    },
+    {
+      "facilityName": "Karuruma HP",
+      "id": "3383"
+    },
+    {
+      "facilityName": "Nyamabuye (Gatsata) HP",
+      "id": "3013"
+    }
+  ],
+  "rusizi_gihundwe": [
+    {
+      "facilityName": "Gatsiro HP",
+      "id": "1521"
+    },
+    {
+      "facilityName": "GIHAYA HP",
+      "id": "2106"
+    },
+    {
+      "facilityName": "Kagara HP",
+      "id": "3047"
+    },
+    {
+      "facilityName": "Karushaririza HP",
+      "id": "3230"
+    },
+    {
+      "facilityName": "MUHARI HP",
+      "id": "2113"
+    },
+    {
+      "facilityName": "Shagasha CS",
+      "id": "2802"
+    }
+  ],
+  "gicumbi_rubaya": [
+    {
+      "facilityName": "Gatuna SGHP",
+      "id": "1814"
+    },
+    {
+      "facilityName": "Gishambashayo HP",
+      "id": "1815"
+    },
+    {
+      "facilityName": "Kabeza (RUBAYA) HP",
+      "id": "1816"
+    },
+    {
+      "facilityName": "Nyamiyaga HP",
+      "id": "2883"
+    },
+    {
+      "facilityName": "Rubaya (gicumbi) CS",
+      "id": "348"
+    }
+  ],
+  "gicumbi_miyove": [
+    {
+      "facilityName": "Gicumbi Prison",
+      "id": "1102"
+    },
+    {
+      "facilityName": "Miyove CS",
+      "id": "341"
+    },
+    {
+      "facilityName": "Mukaka B(Miyove)HP",
+      "id": "3220"
+    },
+    {
+      "facilityName": "Mukaka HP",
+      "id": "1823"
+    }
+  ],
+  "rusizi_giheke": [
+    {
+      "facilityName": "Giheke CS",
+      "id": "651"
+    },
+    {
+      "facilityName": "Kamashangi HP",
+      "id": "3202"
+    },
+    {
+      "facilityName": "NTURA HP",
+      "id": "2115"
+    },
+    {
+      "facilityName": "Turambi HP",
+      "id": "3203"
+    }
+  ],
+  "bugesera_ngeruka": [
+    {
+      "facilityName": "Gihembe Izere HP",
+      "id": "3131"
+    },
+    {
+      "facilityName": "Kagano HP",
+      "id": "2399"
+    },
+    {
+      "facilityName": "Mukoma HP",
+      "id": "1708"
+    },
+    {
+      "facilityName": "Murama (Ngeruka) SGHP",
+      "id": "2647"
+    },
+    {
+      "facilityName": "Ngeruka HP",
+      "id": "1709"
+    },
+    {
+      "facilityName": "Ngeruka MHC",
+      "id": "604"
+    },
+    {
+      "facilityName": "Twimpala HP",
+      "id": "2400"
+    }
+  ],
+  "nyaruguru_nyabimata": [
+    {
+      "facilityName": "Gihemvu HP",
+      "id": "2709"
+    },
+    {
+      "facilityName": "Kabere (Nyabimata) HP",
+      "id": "2057"
+    },
+    {
+      "facilityName": "Mishungero HP",
+      "id": "2936"
+    },
+    {
+      "facilityName": "Nyabimata CS",
+      "id": "75"
+    },
+    {
+      "facilityName": "Ruhinga (Nyabimata) HP",
+      "id": "2972"
+    }
+  ],
+  "bugesera_shyara": [
+    {
+      "facilityName": "Gihinga CS",
+      "id": "448"
+    },
+    {
+      "facilityName": "Kabagugu HP",
+      "id": "3072"
+    }
+  ],
+  "bugesera_nyarugenge (bugesera district)": [
+    {
+      "facilityName": "Gihinga HP",
+      "id": "3167"
+    },
+    {
+      "facilityName": "Halleluya HP",
+      "id": "3175"
+    },
+    {
+      "facilityName": "Impore (Gihinga) HP",
+      "id": "3264"
+    },
+    {
+      "facilityName": "Ngenda HP",
+      "id": "1716"
+    },
+    {
+      "facilityName": "Ngenda SGHP",
+      "id": "3351"
+    },
+    {
+      "facilityName": "Nyarugenge CS",
+      "id": "1323"
+    }
+  ],
+  "kamonyi_gacurabwenge": [
+    {
+      "facilityName": "GIHIRA HP",
+      "id": "3279"
+    },
+    {
+      "facilityName": "Kamonyi (gacurabwenge) CS",
+      "id": "145"
+    },
+    {
+      "facilityName": "Kamonyi HP",
+      "id": "2719"
+    },
+    {
+      "facilityName": "LUOS HP",
+      "id": "525"
+    },
+    {
+      "facilityName": "Muganza HP",
+      "id": "2885"
+    }
+  ],
+  "nyabihu_kabatwa": [
+    {
+      "facilityName": "Gihorwe HP",
+      "id": "1971"
+    },
+    {
+      "facilityName": "Kabatwa CS",
+      "id": "212"
+    },
+    {
+      "facilityName": "Ngando HP",
+      "id": "3120"
+    }
+  ],
+  "gatsibo_rwimbogo (gatsibo district)": [
+    {
+      "facilityName": "Gikobwa HP",
+      "id": "1800"
+    },
+    {
+      "facilityName": "Kabeza (Rwimboho) HP",
+      "id": "2145"
+    },
+    {
+      "facilityName": "Kabusunzu HP",
+      "id": "3051"
+    },
+    {
+      "facilityName": "Kiburara HP",
+      "id": "2556"
+    },
+    {
+      "facilityName": "Nyamatete HP",
+      "id": "1810"
+    },
+    {
+      "facilityName": "Rwikiniro HP",
+      "id": "2403"
+    },
+    {
+      "facilityName": "Rwimbogo CS",
+      "id": "402"
+    }
+  ],
+  "muhanga_nyarusange": [
+    {
+      "facilityName": "Gikomero (Kabgayi) CS",
+      "id": "1322"
+    },
+    {
+      "facilityName": "Musongati HP",
+      "id": "1934"
+    },
+    {
+      "facilityName": "Ngaru HP",
+      "id": "1935"
+    },
+    {
+      "facilityName": "Nyarusange (muhanga) CS",
+      "id": "138"
+    }
+  ],
+  "rusizi_gikundamvura": [
+    {
+      "facilityName": "Gikundamvura CS",
+      "id": "1340"
+    },
+    {
+      "facilityName": "Kizura HP",
+      "id": "1395"
+    },
+    {
+      "facilityName": "NYAMIGINA HP",
+      "id": "2117"
+    }
+  ],
+  "rusizi_nzahaha": [
+    {
+      "facilityName": "Gira ubuzima HP/Kabuhanda HP",
+      "id": "2945"
+    },
+    {
+      "facilityName": "Kacyiru-Nzahaha HP",
+      "id": "2109"
+    },
+    {
+      "facilityName": "Nyenji HP",
+      "id": "2946"
+    },
+    {
+      "facilityName": "Rwinzuki CS",
+      "id": "1341"
+    }
+  ],
+  "nyagatare_rukomo (nyagatare)": [
+    {
+      "facilityName": "Girubuzima Gahurura 2 HP",
+      "id": "1562"
+    },
+    {
+      "facilityName": "NUMERIMWE HP",
+      "id": "2918"
+    },
+    {
+      "facilityName": "Rukomo CS",
+      "id": "382"
+    },
+    {
+      "facilityName": "Rukomo II HP",
+      "id": "2504"
+    },
+    {
+      "facilityName": "Rurenge CS",
+      "id": "383"
+    },
+    {
+      "facilityName": "Rurenge HP",
+      "id": "1986"
+    }
+  ],
+  "nyagatare_karangazi": [
+    {
+      "facilityName": "Girubuzima Karama HP",
+      "id": "2669"
+    },
+    {
+      "facilityName": "KAMATE HP",
+      "id": "1980"
+    },
+    {
+      "facilityName": "Karangazi CS",
+      "id": "371"
+    },
+    {
+      "facilityName": "Kizirakome HP",
+      "id": "2756"
+    },
+    {
+      "facilityName": "MBALE HP",
+      "id": "1985"
+    },
+    {
+      "facilityName": "MBARE HP",
+      "id": "2904"
+    },
+    {
+      "facilityName": "Musenyi (Nyagatare) HP",
+      "id": "641"
+    },
+    {
+      "facilityName": "MUSENYI HP",
+      "id": "2902"
+    },
+    {
+      "facilityName": "Ndama (nyagatare) CS",
+      "id": "642"
+    },
+    {
+      "facilityName": "Ndama HP",
+      "id": "3031"
+    },
+    {
+      "facilityName": "Nyagashanga HP",
+      "id": "1517"
+    },
+    {
+      "facilityName": "Nyamirama (Ndama) HP",
+      "id": "1518"
+    },
+    {
+      "facilityName": "Rubagabaga HP",
+      "id": "2501"
+    },
+    {
+      "facilityName": "Rwinyemera HP",
+      "id": "2829"
+    },
+    {
+      "facilityName": "Rwisirabo HP",
+      "id": "2729"
+    }
+  ],
+  "huye_simbi": [
+    {
+      "facilityName": "Gisakura HP",
+      "id": "1846"
+    },
+    {
+      "facilityName": "Kabusanza HP",
+      "id": "1857"
+    },
+    {
+      "facilityName": "Simbi CS",
+      "id": "96"
+    }
+  ],
+  "ruhango_kinazi (ruhango  district)": [
+    {
+      "facilityName": "GISALI HP",
+      "id": "2086"
+    },
+    {
+      "facilityName": "Kinazi CS",
+      "id": "119"
+    },
+    {
+      "facilityName": "Kinazi HP",
+      "id": "3036"
+    },
+    {
+      "facilityName": "Mukoma (ruhango) CS",
+      "id": "122"
+    },
+    {
+      "facilityName": "Rubona (Kinazi) HP",
+      "id": "2614"
+    },
+    {
+      "facilityName": "Ruhango PH",
+      "id": "1277"
+    }
+  ],
+  "nyaruguru_ruheru": [
+    {
+      "facilityName": "Gisanze HP",
+      "id": "2937"
+    },
+    {
+      "facilityName": "Gitita HP",
+      "id": "3111"
+    },
+    {
+      "facilityName": "Remera (Ruheru) HP",
+      "id": "2433"
+    },
+    {
+      "facilityName": "Ruheru CS",
+      "id": "78"
+    },
+    {
+      "facilityName": "UWUMUSEBEYA Second Generation Health Post",
+      "id": "3379"
+    },
+    {
+      "facilityName": "Yanza HP",
+      "id": "2055"
+    }
+  ],
+  "rwamagana_gishali": [
+    {
+      "facilityName": "Gishari(Police) CS",
+      "id": "354"
+    },
+    {
+      "facilityName": "Irakiza HP",
+      "id": "2428"
+    },
+    {
+      "facilityName": "Ruhunda CS",
+      "id": "363"
+    }
+  ],
+  "muhanga_kibangu": [
+    {
+      "facilityName": "Gisharu HP",
+      "id": "1927"
+    },
+    {
+      "facilityName": "Gitega (kibangu) CS",
+      "id": "131"
+    }
+  ],
+  "gatsibo_nyagihanga": [
+    {
+      "facilityName": "Gishikiri HP",
+      "id": "2447"
+    },
+    {
+      "facilityName": "Mayange (Gatsibo) HP",
+      "id": "2158"
+    },
+    {
+      "facilityName": "Mayange (gatsibo) PS",
+      "id": "607"
+    },
+    {
+      "facilityName": "Nyagihanga CS",
+      "id": "400"
+    },
+    {
+      "facilityName": "Nyagitabire HP",
+      "id": "1809"
+    },
+    {
+      "facilityName": "Nyamirama HP",
+      "id": "2573"
+    }
+  ],
+  "gisagara_gishubi": [
+    {
+      "facilityName": "Gishubi CS",
+      "id": "612"
+    },
+    {
+      "facilityName": "Hemba HP",
+      "id": "2593"
+    },
+    {
+      "facilityName": "Kabisindu HP",
+      "id": "3155"
+    },
+    {
+      "facilityName": "Muyinza HP",
+      "id": "2441"
+    },
+    {
+      "facilityName": "Nyakibungo HP",
+      "id": "1842"
+    },
+    {
+      "facilityName": "Prize HP",
+      "id": "3295"
+    },
+    {
+      "facilityName": "Rugogwe HP",
+      "id": "2442"
+    }
+  ],
+  "nyagatare_tabagwe": [
+    {
+      "facilityName": "Gishuro HP",
+      "id": "2922"
+    },
+    {
+      "facilityName": "Gishuro IDP HP",
+      "id": "2923"
+    },
+    {
+      "facilityName": "Gishuro model village HP",
+      "id": "2924"
+    },
+    {
+      "facilityName": "Gitengure HP",
+      "id": "2785"
+    },
+    {
+      "facilityName": "Nkoma HP",
+      "id": "1513"
+    },
+    {
+      "facilityName": "Nyabitekeri (Tabagwe) HP",
+      "id": "1516"
+    },
+    {
+      "facilityName": "Nyagatoma HP",
+      "id": "2500"
+    },
+    {
+      "facilityName": "SHONGA HP",
+      "id": "1988"
+    },
+    {
+      "facilityName": "Tabagwe CS",
+      "id": "385"
+    }
+  ],
+  "rutsiro_musasa": [
+    {
+      "facilityName": "Gisiza HP",
+      "id": "2739"
+    },
+    {
+      "facilityName": "Musasa CS",
+      "id": "191"
+    },
+    {
+      "facilityName": "Rwumba HP",
+      "id": "3041"
+    }
+  ],
+  "rulindo_mbogo": [
+    {
+      "facilityName": "Gitabage HP",
+      "id": "3024"
+    },
+    {
+      "facilityName": "Mushari HP",
+      "id": "2160"
+    },
+    {
+      "facilityName": "Rulindo CS",
+      "id": "280"
+    },
+    {
+      "facilityName": "Rurenge (Mbogo) HP",
+      "id": "2703"
+    }
+  ],
+  "rulindo_rusiga": [
+    {
+      "facilityName": "Gitanda HP",
+      "id": "3159"
+    },
+    {
+      "facilityName": "Kinini CS",
+      "id": "1231"
+    },
+    {
+      "facilityName": "Nkanga (Rusiga) HP",
+      "id": "3124"
+    }
+  ],
+  "ngoma_murama (ngoma  district)": [
+    {
+      "facilityName": "Gitaraga HP",
+      "id": "1536"
+    },
+    {
+      "facilityName": "Rukira CS",
+      "id": "441"
+    },
+    {
+      "facilityName": "Rurenge (Murama Kibungo) HP",
+      "id": "3394"
+    },
+    {
+      "facilityName": "Sakara HP",
+      "id": "1966"
+    }
+  ],
+  "muhanga_shyogwe": [
+    {
+      "facilityName": "Gitarama CS",
+      "id": "130"
+    },
+    {
+      "facilityName": "Medical St Paul Clin",
+      "id": "2176"
+    },
+    {
+      "facilityName": "Muhanga Prison",
+      "id": "139"
+    },
+    {
+      "facilityName": "Shyogwe CS",
+      "id": "141"
+    },
+    {
+      "facilityName": "Umurinzi Petros Medical Center Clin",
+      "id": "3372"
+    }
+  ],
+  "burera_kagogo": [
+    {
+      "facilityName": "Gitare CS",
+      "id": "323"
+    },
+    {
+      "facilityName": "Kabaya HP",
+      "id": "1738"
+    },
+    {
+      "facilityName": "Karinga HP",
+      "id": "2548"
+    },
+    {
+      "facilityName": "Kayenzi (KAGOGO) HP",
+      "id": "1743"
+    }
+  ],
+  "rulindo_kisaro": [
+    {
+      "facilityName": "Gitatsa HP",
+      "id": "2409"
+    },
+    {
+      "facilityName": "Kamushenyi HP",
+      "id": "2410"
+    },
+    {
+      "facilityName": "Kisaro CS",
+      "id": "516"
+    },
+    {
+      "facilityName": "Mubuga (Rulindo) HP",
+      "id": "2411"
+    },
+    {
+      "facilityName": "SAYO HP",
+      "id": "2102"
+    }
+  ],
+  "rutsiro_mushubati": [
+    {
+      "facilityName": "Gitega (Mushubi) HP",
+      "id": "2182"
+    },
+    {
+      "facilityName": "Gitwa (Mushubati) HP",
+      "id": "2127"
+    },
+    {
+      "facilityName": "MAGERAGERE-KOMEZA HP",
+      "id": "3043"
+    },
+    {
+      "facilityName": "Mushubati CS",
+      "id": "192"
+    },
+    {
+      "facilityName": "Sure HP",
+      "id": "2453"
+    }
+  ],
+  "karongi_rugabano": [
+    {
+      "facilityName": "Gitega (Rugabano) HP",
+      "id": "2151"
+    },
+    {
+      "facilityName": "Karongi (gisunzu) Police CS",
+      "id": "159"
+    },
+    {
+      "facilityName": "NKOTO HP",
+      "id": "2899"
+    },
+    {
+      "facilityName": "Rufungo CS",
+      "id": "175"
+    },
+    {
+      "facilityName": "Rwungo HP",
+      "id": "2751"
+    }
+  ],
+  "gicumbi_bukure": [
+    {
+      "facilityName": "Giti CS",
+      "id": "338"
+    },
+    {
+      "facilityName": "Karagali HP",
+      "id": "2517"
+    },
+    {
+      "facilityName": "Karambo (BUKURE) HP",
+      "id": "1820"
+    }
+  ],
+  "kirehe_nyarubuye": [
+    {
+      "facilityName": "Gitika HP",
+      "id": "2798"
+    },
+    {
+      "facilityName": "Mareba HP",
+      "id": "3241"
+    },
+    {
+      "facilityName": "Nyabitare (kirehe) CS",
+      "id": "430"
+    },
+    {
+      "facilityName": "Nyamateke HP",
+      "id": "1917"
+    },
+    {
+      "facilityName": "Nyarubuye (kirehe) CS",
+      "id": "431"
+    },
+    {
+      "facilityName": "Nyarubuye (Kirehe) PS",
+      "id": "1623"
+    }
+  ],
+  "gakenke_ruli": [
+    {
+      "facilityName": "Gitonde HP",
+      "id": "1779"
+    },
+    {
+      "facilityName": "Ruli CS",
+      "id": "301"
+    },
+    {
+      "facilityName": "Ruli DH",
+      "id": "302"
+    }
+  ],
+  "ngoma_rukira": [
+    {
+      "facilityName": "Gituku CS",
+      "id": "433"
+    },
+    {
+      "facilityName": "Nyaruvumu HP",
+      "id": "1962"
+    },
+    {
+      "facilityName": "Nyinya HP",
+      "id": "1963"
+    }
+  ],
+  "ngoma_rukumberi": [
+    {
+      "facilityName": "Gituza (Rukumberi) HP",
+      "id": "2524"
+    },
+    {
+      "facilityName": "Ntovi HP",
+      "id": "1961"
+    },
+    {
+      "facilityName": "Rukumberi CS",
+      "id": "443"
+    }
+  ],
+  "ngororero_kavumu": [
+    {
+      "facilityName": "Gitwa (Kavumu) HP",
+      "id": "3381"
+    },
+    {
+      "facilityName": "Ramba CS",
+      "id": "233"
+    }
+  ],
+  "nyaruguru_mata": [
+    {
+      "facilityName": "GORWE HP",
+      "id": "2056"
+    },
+    {
+      "facilityName": "Nyamyumba CS",
+      "id": "76"
+    },
+    {
+      "facilityName": "Ramba (Nyaruguru) HP",
+      "id": "2473"
+    }
+  ],
+  "rutsiro_manihira": [
+    {
+      "facilityName": "HANIRO HP",
+      "id": "2128"
+    },
+    {
+      "facilityName": "Rutsiro CS",
+      "id": "194"
+    }
+  ],
+  "nyagatare_katabagemu": [
+    {
+      "facilityName": "Health Africa Rubira HP",
+      "id": "2609"
+    },
+    {
+      "facilityName": "Kanyeganyege HP",
+      "id": "2787"
+    },
+    {
+      "facilityName": "Katabagemu CS",
+      "id": "372"
+    },
+    {
+      "facilityName": "KIGARAMA (KATABAGEMU) HP",
+      "id": "1983"
+    },
+    {
+      "facilityName": "KIGARAMA HP",
+      "id": "2905"
+    },
+    {
+      "facilityName": "Nyakigando (Nyagatare) CS",
+      "id": "643"
+    },
+    {
+      "facilityName": "Nyakigando HP",
+      "id": "3061"
+    },
+    {
+      "facilityName": "Rugazi HP",
+      "id": "2503"
+    }
+  ],
+  "kicukiro_kagarama": [
+    {
+      "facilityName": "Heritage Medical Park Clin",
+      "id": "1654"
+    },
+    {
+      "facilityName": "Muyange (KAGARAMA) HP",
+      "id": "1905"
+    }
+  ],
+  "ngororero_hindiro": [
+    {
+      "facilityName": "Hindiro FOSACOM",
+      "id": "474"
+    },
+    {
+      "facilityName": "Kajinge HP",
+      "id": "1967"
+    },
+    {
+      "facilityName": "Muramba CS",
+      "id": "228"
+    }
+  ],
+  "ngoma_jarama": [
+    {
+      "facilityName": "Ihanika HP",
+      "id": "1955"
+    },
+    {
+      "facilityName": "Jarama CS",
+      "id": "434"
+    },
+    {
+      "facilityName": "Karenge HP",
+      "id": "3371"
+    },
+    {
+      "facilityName": "Kigoma (Jarama) HP",
+      "id": "2523"
+    }
+  ],
+  "nyamasheke_ruharambuga": [
+    {
+      "facilityName": "Ihumure(Ntendezi) HP",
+      "id": "3270"
+    },
+    {
+      "facilityName": "Kamonyi (ruharambuga) CS",
+      "id": "257"
+    },
+    {
+      "facilityName": "Kanazi Baho HP",
+      "id": "2827"
+    },
+    {
+      "facilityName": "SAVE HP",
+      "id": "2024"
+    },
+    {
+      "facilityName": "WIMANA HP",
+      "id": "2028"
+    }
+  ],
+  "kamonyi_musambira": [
+    {
+      "facilityName": "INEZA BUHORO HP",
+      "id": "3197"
+    },
+    {
+      "facilityName": "KAMONYI MPUSHI II HP",
+      "id": "3278"
+    },
+    {
+      "facilityName": "Kivumu (Musambira) HP",
+      "id": "2994"
+    },
+    {
+      "facilityName": "Mpushi HP",
+      "id": "1871"
+    },
+    {
+      "facilityName": "Musambira CS",
+      "id": "150"
+    },
+    {
+      "facilityName": "Rukambura HP",
+      "id": "1879"
+    }
+  ],
+  "nyarugenge_nyakabanda": [
+    {
+      "facilityName": "Ingobyi HP",
+      "id": "2983"
+    },
+    {
+      "facilityName": "Kabusunzu CS",
+      "id": "6"
+    },
+    {
+      "facilityName": "Kokobe (Nyakabanda) HP",
+      "id": "2050"
+    },
+    {
+      "facilityName": "Nyakabanda II HP",
+      "id": "2807"
+    },
+    {
+      "facilityName": "Nyakabanda2 HP",
+      "id": "2934"
+    }
+  ],
+  "kamonyi_rugarika": [
+    {
+      "facilityName": "Ireme HP",
+      "id": "3354"
+    },
+    {
+      "facilityName": "Ituze HP",
+      "id": "3093"
+    },
+    {
+      "facilityName": "Kigarama (Rugarika) HP",
+      "id": "1869"
+    },
+    {
+      "facilityName": "Kigese CS",
+      "id": "148"
+    },
+    {
+      "facilityName": "Masaka (Rugarika) HP",
+      "id": "2554"
+    },
+    {
+      "facilityName": "New Nyarubuye Samuduha HP",
+      "id": "3373"
+    },
+    {
+      "facilityName": "Nyarubuye (Kaboga) HP",
+      "id": "1878"
+    },
+    {
+      "facilityName": "Nyarubuye (Rugarika) HP",
+      "id": "3217"
+    },
+    {
+      "facilityName": "Nyarubuye (samuduha) HP",
+      "id": "2553"
+    },
+    {
+      "facilityName": "Rwabayanga Rugalika HP",
+      "id": "3092"
+    }
+  ],
+  "kayonza_ndego": [
+    {
+      "facilityName": "Isangano (Ndego) HP",
+      "id": "1895"
+    },
+    {
+      "facilityName": "Ndego CS",
+      "id": "410"
+    }
+  ],
+  "rubavu_mudende": [
+    {
+      "facilityName": "Isange Rwanyakayaga HP",
+      "id": "3302"
+    },
+    {
+      "facilityName": "Mudende CS",
+      "id": "202"
+    }
+  ],
+  "nyarugenge_nyamirambo": [
+    {
+      "facilityName": "Isango Medical CLIN",
+      "id": "1128"
+    },
+    {
+      "facilityName": "Kabeho HP",
+      "id": "2452"
+    },
+    {
+      "facilityName": "MAGNIFICAT HP",
+      "id": "2047"
+    },
+    {
+      "facilityName": "Mumena HP",
+      "id": "3132"
+    },
+    {
+      "facilityName": "Nyarugenge DH",
+      "id": "2732"
+    },
+    {
+      "facilityName": "Polyclin 3 ages",
+      "id": "1296"
+    },
+    {
+      "facilityName": "Polyclin Saint Jean CLIN",
+      "id": "1361"
+    },
+    {
+      "facilityName": "Rugarama (nyarugenge) CS",
+      "id": "11"
+    },
+    {
+      "facilityName": "Rwintare HP",
+      "id": "2048"
+    },
+    {
+      "facilityName": "SAINT JACQUES HP",
+      "id": "3094"
+    }
+  ],
+  "rusizi_bugarama": [
+    {
+      "facilityName": "Islamic (Bugarama) CS",
+      "id": "242"
+    },
+    {
+      "facilityName": "KIBANGIRA HP",
+      "id": "2108"
+    },
+    {
+      "facilityName": "Pera HP",
+      "id": "3056"
+    },
+    {
+      "facilityName": "Sano Bugarama LTD Clin",
+      "id": "3064"
+    }
+  ],
+  "gakenke_janja": [
+    {
+      "facilityName": "Janja CS",
+      "id": "292"
+    },
+    {
+      "facilityName": "Rutake CS",
+      "id": "305"
+    }
+  ],
+  "nyabihu_jenda": [
+    {
+      "facilityName": "Jenda (nyabihu) HP",
+      "id": "636"
+    },
+    {
+      "facilityName": "Kareba CS",
+      "id": "213"
+    }
+  ],
+  "ngororero_kabaya": [
+    {
+      "facilityName": "Kabaya CS",
+      "id": "224"
+    },
+    {
+      "facilityName": "Kabaya DH",
+      "id": "225"
+    },
+    {
+      "facilityName": "Mwendo HP",
+      "id": "3380"
+    }
+  ],
+  "rulindo_base": [
+    {
+      "facilityName": "Kabeza (Base) HP",
+      "id": "3191"
+    },
+    {
+      "facilityName": "Mushongi CS",
+      "id": "518"
+    },
+    {
+      "facilityName": "Tubusigasire HP",
+      "id": "3160"
+    }
+  ],
+  "nyanza_nyagisozi": [
+    {
+      "facilityName": "Kabirizi HP",
+      "id": "1515"
+    },
+    {
+      "facilityName": "KABUGA (NYAGISOZI) HP",
+      "id": "2035"
+    },
+    {
+      "facilityName": "Kirambi CS",
+      "id": "42"
+    },
+    {
+      "facilityName": "Mweya CS",
+      "id": "44"
+    },
+    {
+      "facilityName": "RURANGAZI HP",
+      "id": "2931"
+    }
+  ],
+  "gicumbi_rushaki": [
+    {
+      "facilityName": "Kabo (RUSHAKI) HP",
+      "id": "1817"
+    },
+    {
+      "facilityName": "Kabo HP",
+      "id": "1615"
+    },
+    {
+      "facilityName": "Kamutoma HP",
+      "id": "2884"
+    },
+    {
+      "facilityName": "Kamutora HP",
+      "id": "2645"
+    },
+    {
+      "facilityName": "Rushaki CS",
+      "id": "350"
+    }
+  ],
+  "rutsiro_rusebeya": [
+    {
+      "facilityName": "Kabona CS",
+      "id": "181"
+    },
+    {
+      "facilityName": "Remera (Rusebeya) HP",
+      "id": "2132"
+    }
+  ],
+  "burera_rusarabuye": [
+    {
+      "facilityName": "Kabona HP",
+      "id": "1739"
+    },
+    {
+      "facilityName": "Kirambo (burera) CS",
+      "id": "326"
+    },
+    {
+      "facilityName": "Ndago (Rusarabuye) HP",
+      "id": "1748"
+    },
+    {
+      "facilityName": "Ruhanga HP",
+      "id": "1758"
+    }
+  ],
+  "rutsiro_mukura (rutsiro  district)": [
+    {
+      "facilityName": "Kabuga (Mukura) HP",
+      "id": "2740"
+    },
+    {
+      "facilityName": "Mataba (Mukura) HP",
+      "id": "2434"
+    },
+    {
+      "facilityName": "Mukura (Rutsiro) CS",
+      "id": "188"
+    },
+    {
+      "facilityName": "Murambi (Mukura) HP",
+      "id": "2131"
+    }
+  ],
+  "kamonyi_ngamba": [
+    {
+      "facilityName": "Kabuga (NGAMBA) HP",
+      "id": "1867"
+    },
+    {
+      "facilityName": "Kabuga (ntamba Kamonyi) CS",
+      "id": "144"
+    },
+    {
+      "facilityName": "Karangara CS",
+      "id": "146"
+    },
+    {
+      "facilityName": "Marembo (Nyabitare) HP",
+      "id": "1870"
+    },
+    {
+      "facilityName": "Nyarubuye HP",
+      "id": "2890"
+    }
+  ],
+  "rulindo_ngoma (rulindo)": [
+    {
+      "facilityName": "Kabuga (Rulindo) HP",
+      "id": "2702"
+    },
+    {
+      "facilityName": "NYABUKO HP",
+      "id": "2101"
+    },
+    {
+      "facilityName": "Nyaruvumu (Ngoma) HP",
+      "id": "3377"
+    },
+    {
+      "facilityName": "Remera-mbogo CS",
+      "id": "278"
+    },
+    {
+      "facilityName": "Rutongo DH",
+      "id": "282"
+    }
+  ],
+  "rusizi_nyakarenzo": [
+    {
+      "facilityName": "Kabuye HP",
+      "id": "2944"
+    },
+    {
+      "facilityName": "NJAMBWE MURAMBI HP",
+      "id": "3312"
+    },
+    {
+      "facilityName": "Nyakarenzo CS",
+      "id": "1233"
+    }
+  ],
+  "nyanza_cyabakamyi": [
+    {
+      "facilityName": "Kadaho HP",
+      "id": "2036"
+    },
+    {
+      "facilityName": "Mucubira CS",
+      "id": "43"
+    },
+    {
+      "facilityName": "Nyabinyenga CS",
+      "id": "2041"
+    },
+    {
+      "facilityName": "Nyarurama (Nyanza) HP",
+      "id": "2419"
+    },
+    {
+      "facilityName": "Rubona (Nyanza) HP",
+      "id": "2418"
+    }
+  ],
+  "nyamagabe_kaduha": [
+    {
+      "facilityName": "Kaduha CS",
+      "id": "100"
+    },
+    {
+      "facilityName": "Kaduha DH",
+      "id": "101"
+    },
+    {
+      "facilityName": "MUSENYI HP",
+      "id": "1995"
+    }
+  ],
+  "rusizi_mururu": [
+    {
+      "facilityName": "Kagarama (Mururu) HP",
+      "id": "2949"
+    },
+    {
+      "facilityName": "MIKO HP",
+      "id": "2112"
+    },
+    {
+      "facilityName": "St. Francois Rusizi CS",
+      "id": "251"
+    },
+    {
+      "facilityName": "TARA HP",
+      "id": "2121"
+    }
+  ],
+  "bugesera_mwogo": [
+    {
+      "facilityName": "Kagasa (Mwogo) SGHP",
+      "id": "2680"
+    },
+    {
+      "facilityName": "Kagerero HP",
+      "id": "2871"
+    },
+    {
+      "facilityName": "Mwogo CS",
+      "id": "452"
+    },
+    {
+      "facilityName": "Rugunga HP",
+      "id": "1707"
+    },
+    {
+      "facilityName": "Rurenge (Mwogo) HP",
+      "id": "3046"
+    }
+  ],
+  "ngororero_kageyo (ngororero)": [
+    {
+      "facilityName": "Kageyo (Ngororero) CS",
+      "id": "1538"
+    }
+  ],
+  "nyagatare_matimba": [
+    {
+      "facilityName": "Kagitumba CS",
+      "id": "370"
+    },
+    {
+      "facilityName": "Kagitumba HP",
+      "id": "2495"
+    },
+    {
+      "facilityName": "KAGITUMBA HP",
+      "id": "2909"
+    },
+    {
+      "facilityName": "Kanyonza HP",
+      "id": "3032"
+    },
+    {
+      "facilityName": "Matimba CS",
+      "id": "373"
+    },
+    {
+      "facilityName": "MATIMBA HP",
+      "id": "2911"
+    },
+    {
+      "facilityName": "Nyabwishongwezi HP",
+      "id": "2498"
+    },
+    {
+      "facilityName": "Rwentanga HP",
+      "id": "2506"
+    },
+    {
+      "facilityName": "RWENTANGA HP",
+      "id": "2910"
+    },
+    {
+      "facilityName": "Rwimiyaga Nyendo HP",
+      "id": "3059"
+    }
+  ],
+  "nyanza_ntyazo": [
+    {
+      "facilityName": "Kagunga HP",
+      "id": "1507"
+    },
+    {
+      "facilityName": "KARAMA HP",
+      "id": "2037"
+    },
+    {
+      "facilityName": "KARAMA SHARI HP",
+      "id": "2929"
+    },
+    {
+      "facilityName": "Katarara HP",
+      "id": "2440"
+    },
+    {
+      "facilityName": "MUHERO NTYAZO HP",
+      "id": "2930"
+    },
+    {
+      "facilityName": "Ntyazo CS",
+      "id": "45"
+    },
+    {
+      "facilityName": "Ruyenzi CS",
+      "id": "52"
+    }
+  ],
+  "rulindo_ntarabana": [
+    {
+      "facilityName": "Kajevuba CS",
+      "id": "272"
+    },
+    {
+      "facilityName": "Kiyanza CS",
+      "id": "274"
+    },
+    {
+      "facilityName": "Mahaza HP",
+      "id": "2665"
+    }
+  ],
+  "nyaruguru_munini": [
+    {
+      "facilityName": "Kamana HP",
+      "id": "2468"
+    },
+    {
+      "facilityName": "KAMANA MUNINI HP",
+      "id": "2842"
+    },
+    {
+      "facilityName": "Munini (nyaruguru) CS",
+      "id": "73"
+    },
+    {
+      "facilityName": "Munini DH",
+      "id": "74"
+    }
+  ],
+  "burera_cyeru": [
+    {
+      "facilityName": "Kamata HP",
+      "id": "2561"
+    },
+    {
+      "facilityName": "Ndongozi CS",
+      "id": "1278"
+    },
+    {
+      "facilityName": "Ruyange HP",
+      "id": "1764"
+    }
+  ],
+  "karongi_murundi": [
+    {
+      "facilityName": "Kamina-Murundi-Nyakarambi HP",
+      "id": "3098"
+    },
+    {
+      "facilityName": "Munzanga CS",
+      "id": "171"
+    },
+    {
+      "facilityName": "Nyamushishi-Ngoma HP",
+      "id": "3099"
+    },
+    {
+      "facilityName": "Nzaratsi HP",
+      "id": "1889"
+    }
+  ],
+  "musanze_remera (musanze  district)": [
+    {
+      "facilityName": "Kamisave HP",
+      "id": "1945"
+    },
+    {
+      "facilityName": "Murandi CS",
+      "id": "314"
+    },
+    {
+      "facilityName": "Murwa (Remera Musanze) HP",
+      "id": "2789"
+    }
+  ],
+  "gakenke_kamubuga": [
+    {
+      "facilityName": "Kamubuga CS",
+      "id": "483"
+    },
+    {
+      "facilityName": "Kidomo PS",
+      "id": "519"
+    },
+    {
+      "facilityName": "Mbatabata HP",
+      "id": "2546"
+    },
+    {
+      "facilityName": "Rukore (Gakenke) HP",
+      "id": "3232"
+    }
+  ],
+  "rusizi_gashonga": [
+    {
+      "facilityName": "Kamurehe HP",
+      "id": "3142"
+    },
+    {
+      "facilityName": "Mibilizi CS",
+      "id": "244"
+    },
+    {
+      "facilityName": "Mibilizi DH",
+      "id": "245"
+    },
+    {
+      "facilityName": "Muti HP",
+      "id": "2941"
+    },
+    {
+      "facilityName": "Vubiro HP",
+      "id": "2122"
+    }
+  ],
+  "huye_rwaniro": [
+    {
+      "facilityName": "Kamwambi HP",
+      "id": "2584"
+    },
+    {
+      "facilityName": "Mwendo (RWANIRO) HP",
+      "id": "1854"
+    },
+    {
+      "facilityName": "Rwaniro CS",
+      "id": "95"
+    }
+  ],
+  "karongi_gitesi": [
+    {
+      "facilityName": "Kanunga HP",
+      "id": "2589"
+    },
+    {
+      "facilityName": "Kirambo (gitesi) CS",
+      "id": "163"
+    }
+  ],
+  "ngororero_ngororero": [
+    {
+      "facilityName": "Kanyenyeri HP",
+      "id": "2635"
+    },
+    {
+      "facilityName": "Mugano (Ngororero) HP",
+      "id": "2633"
+    },
+    {
+      "facilityName": "Ngororero CLIN",
+      "id": "1407"
+    },
+    {
+      "facilityName": "Nyange A CS",
+      "id": "231"
+    },
+    {
+      "facilityName": "Nyarubingo(Ngororero) HP",
+      "id": "3192"
+    },
+    {
+      "facilityName": "Ruhunga HP",
+      "id": "2634"
+    },
+    {
+      "facilityName": "Ruhunga( Torero) HP",
+      "id": "3168"
+    },
+    {
+      "facilityName": "Rususa CS",
+      "id": "236"
+    }
+  ],
+  "ngoma_kibungo": [
+    {
+      "facilityName": "Karama (KIbungo) HP",
+      "id": "2525"
+    },
+    {
+      "facilityName": "Kibungo CS",
+      "id": "435"
+    },
+    {
+      "facilityName": "Kibungo L2TH",
+      "id": "436"
+    },
+    {
+      "facilityName": "Kibungo Medical Center Clin",
+      "id": "1442"
+    },
+    {
+      "facilityName": "Ngoma Prison",
+      "id": "596"
+    },
+    {
+      "facilityName": "Rubona (ngoma) CS",
+      "id": "628"
+    }
+  ],
+  "huye_kigoma (huye district)": [
+    {
+      "facilityName": "Karambi (KIGOMA) HP",
+      "id": "1849"
+    },
+    {
+      "facilityName": "Kinyamakara CS",
+      "id": "87"
+    },
+    {
+      "facilityName": "Rugarama-Kigoma HP",
+      "id": "3128"
+    },
+    {
+      "facilityName": "SHANGA(KIGOMA) HP",
+      "id": "3139"
+    }
+  ],
+  "ruhango_kabagali": [
+    {
+      "facilityName": "Karambi (ruhango) CS",
+      "id": "117"
+    },
+    {
+      "facilityName": "Munanira CS",
+      "id": "1310"
+    },
+    {
+      "facilityName": "Remera (ruhango) HP",
+      "id": "2616"
+    },
+    {
+      "facilityName": "RWESERO (KABAGALI) HP",
+      "id": "2095"
+    }
+  ],
+  "gakenke_karambo": [
+    {
+      "facilityName": "Karambo (gakenke) CS",
+      "id": "293"
+    },
+    {
+      "facilityName": "Kirebe HP",
+      "id": "1773"
+    }
+  ],
+  "rubavu_kanama": [
+    {
+      "facilityName": "KARAMBO (KARAMA) HP",
+      "id": "2076"
+    },
+    {
+      "facilityName": "Karambo (rubavu) CS",
+      "id": "200"
+    },
+    {
+      "facilityName": "Nkomane HP",
+      "id": "3257"
+    }
+  ],
+  "ngoma_karembo": [
+    {
+      "facilityName": "Karembo CS",
+      "id": "3272"
+    },
+    {
+      "facilityName": "Karembo HP",
+      "id": "1957"
+    }
+  ],
+  "rutsiro_murunda": [
+    {
+      "facilityName": "Karumbi CS",
+      "id": "182"
+    },
+    {
+      "facilityName": "Murunda CS",
+      "id": "189"
+    },
+    {
+      "facilityName": "Murunda DH",
+      "id": "190"
+    }
+  ],
+  "nyabihu_shyira": [
+    {
+      "facilityName": "Kazirankara HP",
+      "id": "2541"
+    },
+    {
+      "facilityName": "Mutanda HP",
+      "id": "3119"
+    },
+    {
+      "facilityName": "Shyira CS",
+      "id": "221"
+    },
+    {
+      "facilityName": "Shyira DH",
+      "id": "222"
+    }
+  ],
+  "ngoma_kazo": [
+    {
+      "facilityName": "Kazo CS",
+      "id": "3271"
+    },
+    {
+      "facilityName": "Kazo PS",
+      "id": "1661"
+    }
+  ],
+  "ngoma_mutenderi": [
+    {
+      "facilityName": "Kibare HP",
+      "id": "1958"
+    },
+    {
+      "facilityName": "Mutenderi CS",
+      "id": "438"
+    },
+    {
+      "facilityName": "Muzingira SECOND GENERATION HP",
+      "id": "3359"
+    },
+    {
+      "facilityName": "Nyagasozi (Mutenderi) HP",
+      "id": "627"
+    }
+  ],
+  "nyaruguru_kibeho": [
+    {
+      "facilityName": "Kibeho CS",
+      "id": "70"
+    },
+    {
+      "facilityName": "MBASA HP",
+      "id": "2059"
+    },
+    {
+      "facilityName": "NYANGE HP",
+      "id": "2064"
+    },
+    {
+      "facilityName": "Shammah Health Clinic",
+      "id": "3281"
+    }
+  ],
+  "nyanza_kibilizi": [
+    {
+      "facilityName": "Kibilizi (nyanza) CS",
+      "id": "41"
+    },
+    {
+      "facilityName": "Mbuye HP",
+      "id": "2402"
+    },
+    {
+      "facilityName": "Mututu CS",
+      "id": "1427"
+    },
+    {
+      "facilityName": "Rwotso HP",
+      "id": "3314"
+    }
+  ],
+  "ngoma_sake": [
+    {
+      "facilityName": "Kibonde HP",
+      "id": "3323"
+    },
+    {
+      "facilityName": "Nkanga (Sake) HP",
+      "id": "1960"
+    },
+    {
+      "facilityName": "Rukoma Sake CS",
+      "id": "442"
+    }
+  ],
+  "gisagara_nyanza": [
+    {
+      "facilityName": "Kigembe CS",
+      "id": "62"
+    },
+    {
+      "facilityName": "Nyamugali (NYANZA) HP",
+      "id": "1843"
+    },
+    {
+      "facilityName": "Nyaruteja HP",
+      "id": "2483"
+    },
+    {
+      "facilityName": "Remera (Gisagara) HP",
+      "id": "2420"
+    }
+  ],
+  "nyagatare_musheri": [
+    {
+      "facilityName": "Kijojo HP",
+      "id": "1502"
+    },
+    {
+      "facilityName": "Ntoma CS",
+      "id": "376"
+    },
+    {
+      "facilityName": "Ntoma HP",
+      "id": "2830"
+    },
+    {
+      "facilityName": "Nyagatabire HP",
+      "id": "2499"
+    },
+    {
+      "facilityName": "Nyamiyonga (Nyagatare) HP",
+      "id": "2518"
+    },
+    {
+      "facilityName": "Nyamiyonga HP",
+      "id": "1626"
+    },
+    {
+      "facilityName": "Rugarama I HP",
+      "id": "3060"
+    },
+    {
+      "facilityName": "Rwenyana HP",
+      "id": "3082"
+    }
+  ],
+  "rulindo_kinihira (rulindo)": [
+    {
+      "facilityName": "Kinihira (rulindo) CS",
+      "id": "273"
+    },
+    {
+      "facilityName": "Kinihira PH",
+      "id": "1313"
+    },
+    {
+      "facilityName": "MAREMBO (KINIHIRA) HP",
+      "id": "2100"
+    }
+  ],
+  "nyabihu_kintobo": [
+    {
+      "facilityName": "Kintobo CS",
+      "id": "637"
+    },
+    {
+      "facilityName": "Ryinyo HP",
+      "id": "3228"
+    }
+  ],
+  "nyamasheke_nyabitekeri": [
+    {
+      "facilityName": "Kinunga (Nyabitekeri) HP",
+      "id": "2737"
+    },
+    {
+      "facilityName": "Mukoma (nyamasheke) CS",
+      "id": "264"
+    },
+    {
+      "facilityName": "Muyange CS",
+      "id": "265"
+    },
+    {
+      "facilityName": "NTANGO HP",
+      "id": "2021"
+    }
+  ],
+  "nyaruguru_busanze": [
+    {
+      "facilityName": "Kirarangombe HP",
+      "id": "2698"
+    },
+    {
+      "facilityName": "NKANDA HP",
+      "id": "2061"
+    },
+    {
+      "facilityName": "Nteko (Busanze) HP",
+      "id": "3110"
+    },
+    {
+      "facilityName": "Runyombyi CS",
+      "id": "79"
+    },
+    {
+      "facilityName": "Shororo HP",
+      "id": "2725"
+    }
+  ],
+  "kirehe_kirehe": [
+    {
+      "facilityName": "Kirehe CS",
+      "id": "423"
+    },
+    {
+      "facilityName": "Kirehe DH",
+      "id": "424"
+    },
+    {
+      "facilityName": "Kirehe Health Post",
+      "id": "3320"
+    },
+    {
+      "facilityName": "Rwesero (Kirehe) HP",
+      "id": "2598"
+    },
+    {
+      "facilityName": "Umuhuza Medical Clinic",
+      "id": "2358"
+    }
+  ],
+  "nyamagabe_kamegeri": [
+    {
+      "facilityName": "KIREHE( kamegeri) HP",
+      "id": "3007"
+    },
+    {
+      "facilityName": "Nyarusiza CS",
+      "id": "110"
+    },
+    {
+      "facilityName": "RUSUSA HP",
+      "id": "1997"
+    }
+  ],
+  "karongi_murambi (karongi)": [
+    {
+      "facilityName": "Kirinda CS",
+      "id": "164"
+    },
+    {
+      "facilityName": "Kirinda DH",
+      "id": "165"
+    },
+    {
+      "facilityName": "Mubuga (Murambi) HP",
+      "id": "2954"
+    },
+    {
+      "facilityName": "Nkoto HP",
+      "id": "3055"
+    }
+  ],
+  "ruhango_kinihira (ruhango)": [
+    {
+      "facilityName": "Kirwa (Kinihira) HP",
+      "id": "2091"
+    },
+    {
+      "facilityName": "Muremure CS",
+      "id": "123"
+    },
+    {
+      "facilityName": "Muyunzwe CS",
+      "id": "124"
+    }
+  ],
+  "nyamagabe_kitabi": [
+    {
+      "facilityName": "Kitabi CS",
+      "id": "104"
+    },
+    {
+      "facilityName": "Mujuga HP",
+      "id": "3009"
+    },
+    {
+      "facilityName": "Shaba (nyamagabe) CS",
+      "id": "645"
+    }
+  ],
+  "musanze_nyange (musanze)": [
+    {
+      "facilityName": "Kivugiza HP",
+      "id": "2588"
+    },
+    {
+      "facilityName": "Ninda(NYANGE) HP",
+      "id": "1946"
+    },
+    {
+      "facilityName": "Nyange (Musanze) CS",
+      "id": "1688"
+    },
+    {
+      "facilityName": "Terimbere HP",
+      "id": "3189"
+    }
+  ],
+  "gatsibo_kiziguro": [
+    {
+      "facilityName": "Kiziguro (gatsibo) CS",
+      "id": "394"
+    },
+    {
+      "facilityName": "Kiziguro DH",
+      "id": "395"
+    },
+    {
+      "facilityName": "Mataba (Kiziguro) HP",
+      "id": "2565"
+    },
+    {
+      "facilityName": "Mbogo PS",
+      "id": "608"
+    },
+    {
+      "facilityName": "Rubona HP",
+      "id": "1519"
+    }
+  ],
+  "rwamagana_rubona": [
+    {
+      "facilityName": "Mabare (Rubona) HP",
+      "id": "2722"
+    },
+    {
+      "facilityName": "Nawe HP",
+      "id": "2455"
+    },
+    {
+      "facilityName": "Rubona (rwamagana) CS",
+      "id": "362"
+    }
+  ],
+  "kirehe_mahama": [
+    {
+      "facilityName": "Mahama CS",
+      "id": "1320"
+    },
+    {
+      "facilityName": "Mahama refugee camp CS",
+      "id": "1646"
+    },
+    {
+      "facilityName": "Mahama refugee camp II MHC",
+      "id": "1671"
+    },
+    {
+      "facilityName": "Munini HP",
+      "id": "1915"
+    },
+    {
+      "facilityName": "Mwoga Second Generation Health Post",
+      "id": "3315"
+    },
+    {
+      "facilityName": "Saruhembe (Mahama) HP",
+      "id": "2600"
+    }
+  ],
+  "nyamagabe_mbazi (nyamagabe district)": [
+    {
+      "facilityName": "MAMWARI HP",
+      "id": "1994"
+    },
+    {
+      "facilityName": "Ngara CS",
+      "id": "108"
+    }
+  ],
+  "nyaruguru_nyagisozi (nyaruguru district)": [
+    {
+      "facilityName": "Maraba (nyaruguru) CS",
+      "id": "71"
+    },
+    {
+      "facilityName": "Mwoya HP",
+      "id": "2819"
+    },
+    {
+      "facilityName": "NKAKWA HP",
+      "id": "2060"
+    },
+    {
+      "facilityName": "Nyantanga CS",
+      "id": "77"
+    },
+    {
+      "facilityName": "Toraniro HP",
+      "id": "2974"
+    }
+  ],
+  "rulindo_cyungo": [
+    {
+      "facilityName": "Marembo CS",
+      "id": "517"
+    },
+    {
+      "facilityName": "Nturo HP",
+      "id": "3225"
+    }
+  ],
+  "burera_gitovu": [
+    {
+      "facilityName": "Mariba HP",
+      "id": "1308"
+    },
+    {
+      "facilityName": "Ruhombo CS",
+      "id": "1279"
+    },
+    {
+      "facilityName": "Runoga HP",
+      "id": "1760"
+    }
+  ],
+  "muhanga_muhanga": [
+    {
+      "facilityName": "Mata CS",
+      "id": "1648"
+    }
+  ],
+  "muhanga_mushishiro": [
+    {
+      "facilityName": "Matyazo HP",
+      "id": "2539"
+    },
+    {
+      "facilityName": "Musange HP",
+      "id": "1932"
+    },
+    {
+      "facilityName": "Mushishiro CS",
+      "id": "135"
+    },
+    {
+      "facilityName": "Rukaragata HP",
+      "id": "2538"
+    }
+  ],
+  "huye_mbazi": [
+    {
+      "facilityName": "Mbazi CS",
+      "id": "89"
+    },
+    {
+      "facilityName": "Rugango HP",
+      "id": "2583"
+    },
+    {
+      "facilityName": "Tare (Mbazi) HP",
+      "id": "2776"
+    }
+  ],
+  "gakenke_minazi": [
+    {
+      "facilityName": "Minazi CS",
+      "id": "1651"
+    },
+    {
+      "facilityName": "Murambi (MINAZI) HP",
+      "id": "1774"
+    },
+    {
+      "facilityName": "Raba HP",
+      "id": "1778"
+    }
+  ],
+  "nyamagabe_mugano": [
+    {
+      "facilityName": "Mugano CS",
+      "id": "562"
+    },
+    {
+      "facilityName": "YONDE HP",
+      "id": "2000"
+    }
+  ],
+  "musanze_shingiro": [
+    {
+      "facilityName": "Mugari PS",
+      "id": "1628"
+    },
+    {
+      "facilityName": "Shingiro CS",
+      "id": "319"
+    }
+  ],
+  "nyamasheke_shangi": [
+    {
+      "facilityName": "Mugera CS",
+      "id": "263"
+    },
+    {
+      "facilityName": "MUGERA HP",
+      "id": "2017"
+    },
+    {
+      "facilityName": "SHANGI HP",
+      "id": "2025"
+    }
+  ],
+  "rusizi_rwimbogo": [
+    {
+      "facilityName": "MUHEHWE HP",
+      "id": "2114"
+    },
+    {
+      "facilityName": "Mushaka CS",
+      "id": "246"
+    },
+    {
+      "facilityName": "Rubugu HP",
+      "id": "3057"
+    }
+  ],
+  "ngororero_gatumba": [
+    {
+      "facilityName": "Muhororo CS",
+      "id": "226"
+    },
+    {
+      "facilityName": "Muhororo DH",
+      "id": "227"
+    },
+    {
+      "facilityName": "Rubona (ngororera) CS",
+      "id": "235"
+    }
+  ],
+  "rwamagana_munyaga": [
+    {
+      "facilityName": "Munyaga CS",
+      "id": "356"
+    },
+    {
+      "facilityName": "NKUNGU HP",
+      "id": "2136"
+    },
+    {
+      "facilityName": "Zinga HP",
+      "id": "2967"
+    }
+  ],
+  "nyabihu_rugera": [
+    {
+      "facilityName": "MURAMA (RUGERA) HP",
+      "id": "1974"
+    },
+    {
+      "facilityName": "Nyakigezi CS",
+      "id": "216"
+    },
+    {
+      "facilityName": "Nyakiliba CS",
+      "id": "217"
+    }
+  ],
+  "nyamasheke_cyato": [
+    {
+      "facilityName": "Murambi (Cyato) HP",
+      "id": "2018"
+    },
+    {
+      "facilityName": "MUTUNTU HP",
+      "id": "2019"
+    },
+    {
+      "facilityName": "RUGALI HP",
+      "id": "3239"
+    },
+    {
+      "facilityName": "Yove CS",
+      "id": "270"
+    }
+  ],
+  "gatsibo_murambi (gatsibo district)": [
+    {
+      "facilityName": "Murambi (Gatsibo) HP",
+      "id": "2754"
+    },
+    {
+      "facilityName": "Rwankuba HP",
+      "id": "1811"
+    },
+    {
+      "facilityName": "Rwimitereri CS",
+      "id": "403"
+    }
+  ],
+  "nyamagabe_nkomane": [
+    {
+      "facilityName": "Musaraba HP",
+      "id": "3010"
+    },
+    {
+      "facilityName": "MUTENGERI HP",
+      "id": "1996"
+    },
+    {
+      "facilityName": "Nyarwungo CS",
+      "id": "111"
+    }
+  ],
+  "nyamagabe_musebeya": [
+    {
+      "facilityName": "Musebeya CS",
+      "id": "106"
+    },
+    {
+      "facilityName": "SEKERA HP",
+      "id": "1998"
+    }
+  ],
+  "musanze_rwaza": [
+    {
+      "facilityName": "Musezero HP",
+      "id": "1948"
+    },
+    {
+      "facilityName": "Nturo HP",
+      "id": "1949"
+    },
+    {
+      "facilityName": "Nyarubuye-Rwaza HP",
+      "id": "3363"
+    },
+    {
+      "facilityName": "Rwaza CS",
+      "id": "318"
+    }
+  ],
+  "rulindo_shyorongi": [
+    {
+      "facilityName": "Muvumo HP",
+      "id": "3165"
+    },
+    {
+      "facilityName": "Muvumu HP",
+      "id": "2700"
+    },
+    {
+      "facilityName": "Rutonde CS",
+      "id": "281"
+    },
+    {
+      "facilityName": "Rwahi CS",
+      "id": "283"
+    },
+    {
+      "facilityName": "Shyorongi CS",
+      "id": "284"
+    }
+  ],
+  "ngororero_muhororo": [
+    {
+      "facilityName": "Ntaganzwa CS",
+      "id": "229"
+    }
+  ],
+  "ngororero_ndaro": [
+    {
+      "facilityName": "Ntobwe CS",
+      "id": "230"
+    }
+  ],
+  "ngoma_zaza": [
+    {
+      "facilityName": "Nyagasozi (Zaza) HP",
+      "id": "2668"
+    },
+    {
+      "facilityName": "Sangaza CS",
+      "id": "444"
+    },
+    {
+      "facilityName": "Zaza CS",
+      "id": "445"
+    }
+  ],
+  "huye_huye": [
+    {
+      "facilityName": "Nyakagezi HP",
+      "id": "2559"
+    },
+    {
+      "facilityName": "Rukira HP",
+      "id": "1855"
+    },
+    {
+      "facilityName": "Sovu (Huye) CS",
+      "id": "97"
+    }
+  ],
+  "burera_nemba (burera)": [
+    {
+      "facilityName": "Nyamugali (NEMBA) HP",
+      "id": "1753"
+    },
+    {
+      "facilityName": "Nyamugali CS",
+      "id": "330"
+    },
+    {
+      "facilityName": "Rubona HP",
+      "id": "2549"
+    },
+    {
+      "facilityName": "Rushara HP",
+      "id": "2550"
+    }
+  ],
+  "rwamagana_nzige": [
+    {
+      "facilityName": "Nzige CS",
+      "id": "361"
+    },
+    {
+      "facilityName": "Rugarama (Nzige) HP",
+      "id": "2630"
+    }
+  ],
+  "ngororero_muhanda": [
+    {
+      "facilityName": "Rubaya (ngororera) CS",
+      "id": "234"
+    }
+  ],
+  "nyaruguru_ruramba": [
+    {
+      "facilityName": "RUGOGWE HP",
+      "id": "2066"
+    },
+    {
+      "facilityName": "Ruramba CS",
+      "id": "80"
+    }
+  ],
+  "kayonza_rukara": [
+    {
+      "facilityName": "Rukara CS",
+      "id": "413"
+    },
+    {
+      "facilityName": "Rukara HP",
+      "id": "3277"
+    },
+    {
+      "facilityName": "Rwimishinya HP",
+      "id": "1899"
+    }
+  ],
+  "rulindo_rukozo": [
+    {
+      "facilityName": "Rukozo CS",
+      "id": "279"
+    }
+  ],
+  "gakenke_gashenyi": [
+    {
+      "facilityName": "Rukura CS",
+      "id": "300"
+    },
+    {
+      "facilityName": "Rutabo HP",
+      "id": "1780"
+    },
+    {
+      "facilityName": "Rutenderi CS",
+      "id": "306"
+    },
+    {
+      "facilityName": "Taba HP",
+      "id": "1781"
+    }
+  ],
+  "gakenke_rushashi": [
+    {
+      "facilityName": "Rushashi CS",
+      "id": "303"
+    },
+    {
+      "facilityName": "Rwankuba CS",
+      "id": "307"
+    }
+  ],
+  "gisagara_save": [
+    {
+      "facilityName": "Rwanza HP",
+      "id": "1430"
+    },
+    {
+      "facilityName": "Saint Champagnat Medical Clin",
+      "id": "2366"
+    },
+    {
+      "facilityName": "Save CS",
+      "id": "66"
+    },
+    {
+      "facilityName": "Shyanda HP",
+      "id": "2596"
+    },
+    {
+      "facilityName": "Zivu HP",
+      "id": "2487"
+    }
+  ],
+  "ngororero_sovu": [
+    {
+      "facilityName": "Sovu (Ngororero) CS",
+      "id": "475"
+    }
+  ],
+  "nyamagabe_uwinkingi": [
+    {
+      "facilityName": "Subukiniro HP",
+      "id": "2467"
+    },
+    {
+      "facilityName": "Uwinkingi CS",
+      "id": "646"
+    }
+  ],
+  "rulindo_tumba (rulindo)": [
+    {
+      "facilityName": "Taba HP",
+      "id": "3158"
+    },
+    {
+      "facilityName": "Tumba CS",
+      "id": "286"
+    }
+  ]
+}

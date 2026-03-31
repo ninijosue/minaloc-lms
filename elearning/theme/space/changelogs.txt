@@ -1,0 +1,746 @@
+CHANGELOG
+- - - -
+## [2.5.28] February 10, 2025
+# Improvements:
+ - Course Index Drawer - New Icons
+ - Enhanced user interface for plugin tables, improving usability and aesthetics
+ - Fixed various minor bugs to ensure a smoother user experience
+ - Improved accessibility features for the Recently Accessed Items block (role="listitem")
+ - Eliminated redundant data-region (notification_popover), duplicate data-toggle="collapse" (core_courseformat\local\content\section\header.mustache) for cleaner code
+ - Increased stability and performance across the platform
+
+## [2.5.27] January 21, 2025
+# Improvements:
+ - Minor bug fixes and improvements
+  - role=button for buttons
+
+## [2.5.26] January 10, 2025
+# Improvements:
+ - FilterCodes Custom Menu Support
+ - Minor bug fixes and improvements
+
+## [2.5.25] December 5, 2024
+# Improvements:
+ - Minor bug fixes and improvements
+
+## [2.5.24+] October 14 - November 25, 2024
+# Improvements:
+ - Minor bug fixes and improvements
+
+## [2.5.23] October 5 - October 11, 2024
+# Improvements:
+ - Accessibility Improvements
+ - Moodle 4.5
+
+# Fixed:
+ - API Long load time issue (admin/webservice/documentation.php)
+
+## [2.5.22] September 13, 2024
+# Improvements:
+ - Accessibility Improvements
+ - Course Index Icons
+ - Several little UI Improvements
+
+# Fixed:
+ - Minor bug fixes
+
+## [2.5.21+] August 16 - September 4, 2024
+# Fixed:
+ - Minor bug fixes
+
+## [2.5.21] August 12, 2024
+# Fixed:
+ - Minor bug fixes
+
+## [2.5.20+] June 17+, 2024
+# Fixed:
+ - Minor bug fixes
+
+## [2.5.20] June 17, 2024
+# Fixed:
+ - Minor bug fixes
+
+## [2.5.19] June 10, 2024
+# Added:
+ - Dashboard HTML Block #1 (On the top) 
+ - Dashboard HTML Block #2 (On the bottom) 
+ - My Courses HTML Block #1 (On the top) 
+ - My Courses HTML Block #2 (On the bottom) 
+ - Optional Accessible Links (Level A)
+
+# Improvements:
+ - Accessibility Improvements
+ - Block Heatmap CSS
+ - Course Index
+ - Course Secondary Navigation
+ - Messages
+ 
+ + and a lot of minor bug fixes and improvements
+
+## [2.5.18] April 2, 2024
+# Improvements:
+ - Book UI
+ - Drawer issue on lower resolutions
+ - Calendar (Folded events limit removed)
+ - Calendar Block Header
+ - Course Index Long Title
+ - Forum UI
+ - New Icon for Intellicart
+ - Tiles Course Format
+ 
+# Fixed:
+ - Child Theme
+
+## [2.5.17] February 21, 2024
+   [2.5.16+] Started January 29, 2024 (updated daily/weekly), Last Update: February 20, 2024
+# Added:
+ - Additional Favicons
+ - Roster Report UI
+ - New Icons (Google Meet For Moodle, Organizer, Mootyper, Custom Mailing)
+ - New X Logo
+
+# Improvements:
+ - Course Index UI
+ - Custom Alert and Sticky Buttons
+ - Grade Report Sticky Buttons Issue
+ - Hidden activities now have the same UI as others for better accessibility, but the icon is dimmed (opacity 50%)
+ - Link with Image Hover (animation)
+ - Local Mail UI
+ - Minor UI Bug fixes
+
+## [2.5.16] - January 25, 2024
+# Added:
+ - Optional Video Full-Width Size (Forced) - [Space - Genaral - Force full-width video]
+ - UI Support for Supporter Administration Tool
+
+# Improvements:
+  - Book UI
+  - Minor UI Changes
+
+# Fixed: 
+ - Activity description text-break
+ - Few bugs on Moodle 4.1 and 4.2
+ - Minor Bug Fixes
+
+## [2.5.15] - January 19, 2024
+# Added:
+ - Custom Alert ID (Space - Custom Alert - Custom Alert ID) - to reset the visibility of the alert
+ - Realtime Quiz UI Support
+ 
+# Improvements:
+ - Block Timeline UI
+ - Feedback Activity UI
+ - Login Form - "Show/Hide Password" button now works on key press (Space/Enter)
+ - Login Form - "Show/Hide Password" Additional Icon
+ - OneTopic format - Darkmode
+ - Messages UI
+ - Top Bar Logo Height (SCSS improvements)
+ - Responsive Layout Improvements
+ - Secure Layout - Logo Size
+
+# Fixed:
+ - Badges UI
+ - Badges Remote Badge Missing Image Issue
+ - Custom Alert - Close Once
+ - Remote badge image issue
+ - Report Grades UI
+ - RWD Improvements
+ - 'Skip to' button z-index
+ - Minor Bug Fixes
+
+## [2.5.14+] - December 21, 2023
+# Improvements:
+ - Tiles Course Format (Moodle 4.3)
+
+# Fixed:
+ - Checkbox Issue
+
+## [2.5.14] - December 19, 2023
+# Added:
+ - New Editing Area Button
+ - Support for Magic authentication by bdecent
+
+## [2.5.13+] - December 15, 2023
+# Improvements:
+ - Tiles Course Format
+ 
+## [2.5.13] - December 14, 2023
+# Improvements:
+ - Advanced checkboxes
+ - Border Radius Generator (Space - Customization - General - Button Border Radius)
+ - RWD Improvements
+
+## [2.5.12] - December 13, 2023
+# Added:
+ - FontAwesome 6.5.1
+ - UI Support for QuickMail Plugin
+ 
+# Improvements:
+ - Google Analytics Code Moved to the head and rendered only for logged-in users.
+ - Quiz (Drag-and-drop quiz UI)
+ - Course Activities Moving/Dragging UI/UX
+
+# Fixed:
+ - Competencies - Relocate Button
+ - Minor Bug Fixes
+
+
+## [2.5.11] - December 9, 2023
+# Added:
+ - Optional Display Hidden Courses Toggle (Sidebar - My Courses - Display Hidden Courses Toggle)
+
+# Improvements:
+ - Dark mode UI for editor (code view)
+
+# Fixed:
+ - Minor Bug Fixes
+
+
+## [2.5.10] - November 22, 2023
+# Added:
+ - Dark Mode Colors Customization (Space - Customization)
+ - Display Custom Sidebar Items based on User Roles Restrictions
+ - Separated Front Page Block Area #1, #2 (Block #01 #02)
+ 
+# Improvements:
+ - OneTopic Format (Dark Mode)
+ - Few UX Improvements
+ 
+# Fixed:
+ - Additional Sidebar Navigation Roles
+ - Few bug related to custom alert
+ - Groups non-functional buttons
+ - Grader Sticky Footer has been redesigned in a few cases
+ - Quiz Module:
+  - Minor Bug fixes
+  - Quiz navigation on mobile
+  - Multiple sections - Quiz Activity
+  - Timer (Moodle 4.3)
+ -  A few bugs on the child theme
+
+## [2.5.9] - October 23, 2023
+# Added:
+ - Support for Moodle 4.3
+
+# Fixed:
+ - Modal window backdrop issue on mobile
+ - Minor Bug Fixes
+
+## [2.5.8] - October 7, 2023
+# Added:
+ - Additional classes bg-primary-100 ... bg-primary-900, bg-gray-100 ... bg-gray-900
+
+# Improvements:
+ - Completion Progress Block
+ - Feedback Multiple Choice
+
+# Fixed:
+ - Grade Report (Moodle 4.1)
+ 
+## [2.5.7] - September 28, 2023
+# Fixed:
+ - Course Competency UI (checkboxes, dark mode)
+ - Top Bar Logo Issue
+ 
+## [2.5.6] - September 27, 2023
+# New:
+  - Child theme
+
+# Improvements:
+  - Block #1 RWD Improvements
+  - Dark Mode UI
+  - Few Quiz UI Changes
+  - Feedback Module - Edit Button Position
+  - Glossary UI
+  - Mini calendar activity icon
+  - Module Survey UI
+  - Mobile Version (Notifications)
+  
+# Fixed:
+  - Badges Overview Issue
+  - Checkbox issue (Activity Completion)
+  - Edit button and Back to top UI Issue (Front-page, admin templates)
+
+## [2.5.5] - September 7, 2023
+# Added:
+ - Center Alignment for Footer (Space - Footer)
+
+# Improvements:
+  - RTL Layout (small checkbox)
+
+## [2.5.4] - September 7, 2023
+# Fixed:
+ - Missing Icons
+ - Space - Sidebar Sidebar Label (Customization)
+ - Sidebar Button (on mobile)
+ - Minor Bug Fixes
+
+## [2.5.3] - September 4, 2023
+# Fixed:
+ - Invalid enrolment duration
+ - RTL Layout issue
+
+## [2.5.2] - September 2, 2023
+# Improvements:
+  - Block #1 (Front Page)
+  - Calendar UI
+  - Course Page - Top section block area under the course image
+  - Even more WCAG improvements (checkboxes, aria-label, colors)
+  - Forum Module UI
+  - Theme Translations uses now parameter {$a} instead hard-coded site url.
+  - RWD Improvements (Admin layout)
+
+# Fixed:
+  - Missing aria label - Notification Icon (Top Bar)
+  - Minor Bug Fixes
+
+## [2.5.1] - August 15, 2023
+# Added:
+ - Additional Settings For Custom Items (Secondary Navigation - Only on the main course page)
+- Optional Group menu item (depends on user roles capabilities moodle/course:managegroups)
+ - Mass Actions block UI Support
+
+# Improvements:
+ - Backup UI
+ - Calendar UI
+ - Forms UI
+ - Label Module (RWD)
+ - Lesson Module
+ - Proctorio Support
+
+# Fixed:
+ - Missing elements on PDF, printer (Safari Browser on Mac)
+ - Multilang Issue on My Courses (Sidebar)
+ - Minor Bug Fixes
+
+## [2.5] - August 4, 2023
+# Added:
+ - Back To Top Button (Space - General - Back to Top Button)
+ - Course Card - Custom Fields (Space - Course Page - Course Card - Show Custom Fields)
+ - My Courses Box New Features, Better UI and UX
+ - New Show/Hide Sidebar Button Icons
+ - Show/Hide Sidebar Button Aria Label (Open/Close)
+ - New Admin Settings Icon
+ - Sidebar Label on Hover (Space - Sidebar - Sidebar Label Customization)
+ - Tooltips for Messages and Notifications (on the top bar)
+
+# Improvements:
+ - Calendar UI
+ - Course Management UI
+ - Course Format Tiles UI
+ - Course Image (on the course page)
+ - Grade Report UI
+ - Login Page (Full-width Select Field)
+ - Message UI
+ - Subcourse Module Dark Mode Support and a Few UI Improvements
+ - Sidebar Icon (Show/Hide) hidden when the course index opened
+ - Quiz Page - UX improvements - Quiz navigation current question
+
+# Fixed:
+ - Blinking Page when Right Sidebar Opened
+ - Duplicate reactions with Point of view - Feedback Plugin
+ - Few issues with TinyMCE editor
+ - First-time drawer block open (forceblockdraweropen) - Mod Book, Quiz, Lesson
+ - Heading Color (Space - Customization - Text Colors)
+ - Unsupported operand types: string - int (When Course Summary Limit is null)
+ - Minor Bug Fixes
+
+## [2.4.7] - June 21, 2023
+# Improvements:
+ - Scrollbar (main content)
+ - Course Format Edwiser Dark Mode Support
+ - Course Format Titles Dark Mode Support
+
+# Fixed:
+ - Dropdown width (Safari)
+ - FontAwesome issue (icon-no-margin replace to rui-icon-no-margin)
+
+## [2.4.6] - June 19, 2023
+# Fixed:
+- Minor bug fixes
+
+## [2.4.5] - June 16, 2023
+# Fixed:
+- Activity title
+
+## [2.4.4] - June 15, 2023
+# Added:
+ - Optional Course Language Badge (Course - Course Language Icon)
+ - Light mode button title (Space - General)
+
+# Improvements:
+ - Forum Prev/Next Button UI
+ - Manage Categories UI
+
+# Fixed:
+ - Sidebar on the mobile
+
+## [2.4.3] - May 30, 2023
+# Fixed:
+ - Quiz Errors (Moodle 4.2)
+ - Minor Bug Fixes
+
+## [2.4.2] - May 27, 2023
+# Fixed:
+ - Sidebar Link Color Issue
+ - Grading issues
+ - Bulk editing issue
+ - Minor Bug Fixes
+
+## [2.4.1] - May 2, 2023
+# Improvements:
+ - UI for Grid Format
+ - Grader UI for Moodle 4.2
+
+# Fixed:
+ - Support for Point of view - Feedback
+ - Support for OpenAI Chat
+ - Badges UI elements
+ - Minor Bug Fixes
+
+## [2.4] - April 25, 2023
+# Added:
+ - Support For Moodle 4.2
+ - Course Index Drawer: Custom HTML Area Above and Below the Content Sidebar - Custom Course Index Drawer Area (Top/Bottom)
+ - Additional Body Class depends on user roles
+ - Additional ID attributes for front page blocks
+
+# Improvements:
+ - Available block areas visible when you point the Edit mode button
+
+# Fixed:
+ - Minor Bug Fixes
+
+## [2.3.10] - April 3, 2023
+# Added:
+ - Subtitle for Block #1, #2, #3
+
+# Improvements
+ - Icon on the avatar when switching role
+
+# Updated:
+ - FontAwesome 6.4.0
+
+# Fixed:
+ - Confirmation account UI
+ - Course Image Mask Color
+ - Long category names
+ - Quiz UI (Dark Mode)
+ - Minor Bug Fixes
+
+## [2.3.9] - March 25, 2023
+# Fixed:
+ - RTL Layout (Missing elements)
+
+## [2.3.8] - March 16, 2023
+# Added:
+ - Block #13, 14, #19 CTA - additional options
+ 
+# Improvements:
+ - Simple Course List UI
+ - Course Index Drawer
+ - Course Image with Parallax Effect (Main Course Page)
+
+# Fixed:
+ - Categories Badge (with a long category title)
+ - Top Bar - Search Bar Alignment
+ - Top Bar Tooltips
+ - Bug with Front Page Block Area #1, #2
+
+## [2.3.7] - March 8, 2023
+# Fixed:
+ - H5P Custom styles
+
+## [2.3.6] - March 7, 2023
+# Fixed:
+ - White Placeholder (My Courses search bar)
+
+## [2.3.5] - March 6, 2023
+# Improvements:
+ - Minor Bug Fixes (UI, Dark Mode, RWD)
+
+## [2.3.4] - March 3, 2023
+# Added
+ - Hide Details Link (Space - Sidebar - My Courses)
+
+# Improvements:
+ - Workplace course certificate UI Support
+ - Database UI for Moodle 4.1
+ - SCORM UI
+ - RWD Layout
+ 
+# Fixed:
+ - Hints bugs (Space - General - Show Hints for guest user etc.)
+ - Course Card Icon Z-index Missing
+
+## [2.3.3]
+# Added:
+  - Optional Dashboard Link in User Dropdown (Space - Top Bar - Turn off Dashboard Link)
+
+# Improvements:
+  - Course Index Drawer - position of the "Highlighted" badge
+  - PHP Code, Moodle Standards optimization
+
+## [2.3.2] - February 17, 2023
+# Added:
+  - Icon for custom modules:
+    - Card Box
+    - Debate
+    - Learning map
+    - Live poll
+    - Sticky Notes
+    - StudentQuiz
+
+# Fixed:
+  - Footer Social Icons Alignment (on the front page)
+  - Custom Main navigation items (translation issue)
+  - Search Bar UI on focus
+  - Block #15 - #17 Custom CSS issues when empty
+  - Minor bug fixes
+
+# Improvements:
+ - Attendance activity UI Support
+ - Maintenance Mode UI
+
+
+
+## [2.3.1] - February 8, 2023
+# Fixed:
+   - Missing "Add block" button when the drawer is empty
+   - Course Index - "Get Access” button
+   - Grades - Moodle 4.1
+   - Quiz UI - Few bugs on the Dark Mode
+
+
+
+## [2.3] - February 4, 2023
+# Added:
+- Child theme/Clone theme for developers
+- FontAwesome 6.2.1
+
+- Layout:
+  - Simpler Breadcrumbs UI
+  - Blocks/Dashboard: New UI for Starred courses, Recently accessed courses
+  - New UI for the Course Index Sidebar - The same color schema as the left sidebar
+  - New Dropdown
+  - New User Dropdown
+  - New Debugging UI
+  - New Page Navigation 
+  - Link with animated underline and additional CSS classes (.underline--anim)
+
+- Course Index Page:
+  - New Course Index Icon
+  - Optional Course Index Sidebar
+
+- Theme Settings:
+  - Block order UX improvements (sorting by position)
+  - Blocks settings (#15 - #17)
+  - Dark Mode - translatable title
+  - Dark Mode as a main theme
+  - Custom H5P CSS
+  - Course Index - Sections inside always collapsed (optional)
+  - Main Navigation - Customization
+  - Top Bar - Optional Company/Site Name next to the Logo
+  - Two additional Block Areas on the Front Page (Front Page Blocks Area #1, Front Page Blocks Area #2)
+
+# Improvements:
+- Layout:
+  - Advanced Grading UI
+  - Atto Editor UI
+  - Calendar UI
+  - Categories List - indent for subcategories
+  - Categories List - Number of courses (now all courses with subcategories are included, not like by default only a parent)
+  - Calendar Popover UI (Dark Mode)
+  - Course Index - Icons Alignment
+  - Block Sidebar UI, RWD
+  - Grades Report Table
+  - Login Page UI
+  - Quiz UI
+  - RTL improvements
+  - Messages Index
+  - Sidebar Responsiveness
+
+- Core:
+  - Course List UI
+  - Messages Minor UI Improvements
+  - Optional Course Progress Bar (Course Card and Course Index Page)
+  - PHP code optimization
+  - Several RTL improvements
+
+# Fixed:
+- Course progress bar
+- Logi-in Page Language Selector (Layout #5)
+- Minor bug fixes
+
+# Removed:
+- Sticky Breadcrumbs
+
+
+
+## [2.2.3] - October 27, 2022
+Fixed:
+- Missing Course Index Button on Mobile
+
+
+
+## [2.2.2] - October 27, 2022
+Fixed:
+- Minor bug fixes: Dashboard Template, Block Calendar UI, Login Page Layout #4, #5
+
+
+
+## [2.2.1] - October 25, 2022
+Improvements:
+- Quiz UI on mobile
+- Course Index Close Button Position
+
+Fixed:
+- Badges Layout issue
+- Footer Links
+- Atto Editor Image Link
+- Minor bug fixes
+
+
+
+## [2.2] - October 14, 2022
+Added:
+- Optional Course Menu (Participants, Grades, ...) [Space - Course page - Show Course Navigation]
+
+Improvements:
+- My Courses Box is optional [Sidebar - Show My Courses]
+- My Courses Box on the Sidebar - UI improvements:
+- max-height of the box [Sidebar - My Courses Wrapper Height]
+- searchable list
+- My Courses Box on the Sidebar (List of all courses depends on user permissions - moodle/category:viewcourselist)
+https://docs.moodle.org/400/en/Course_list_viewer_role
+- Course Menu (Badges, Participants, ...) right now is optional
+- Removed Confusing Labels on Hover in User Menu
+- Hidden activities now have got a different style (opacity 60%)
+- Edwiser Course Format UI Improvements
+
+Fixed:
+- Multi-lang bug (Footer Items)
+- Content Wrapper Alignment (Block #1, #2, #3)
+- Minor Bug Fixes
+
+
+
+## [2.1.5] - September 27, 2022
+Added:
+- Position of the Course Menu (Participants, Grades, ...) [Space - Course page - Course Navigation Items]
+
+Improvements:
+- Old activity navigation is back
+- Grading UI
+- Quiz UI
+
+Fixed:
+- Sign up page (minor bug fixes)
+- RWD Minor Bug Fixes
+
+
+
+## [2.1.4] - September 21, 2022
+Added:
+- Block #1 - Slider Interval
+- Feedback Fruits Plugin Custom Icon
+- Additional Class For a Guest Users (moodle-guest-user)
+
+Fixed:
+- BigBlueButton UI Support
+- Course Summary Image (added via file manager)
+- Login page layouts - RWD Improvements
+- Footer Color Customization
+- RWD Top Bar
+- H5P bug fixes
+- Minor bug fixes
+
+Improvements
+- Embedded Video UI (black border has been removed)
+- Badge for long names of categories
+
+
+
+## [2.1.3] - September 5, 2022
+Fixed:
+- Missing URL on Block #5
+- Grading issues
+
+
+
+## [2.1.2] - August 18, 2022
+Fixed:
+- Missing titles on the course index page (Moodle 4.0.2+)
+- Minor bug fixes
+
+
+
+## [2.1.1] - August 9, 2022
+Improvements:
+- Language Icon
+
+Fixed:
+- Block #0 (Main Moodle Blocks) position
+
+
+
+## [2.1] - August 5, 2022
+Added:
+- Course Card Description - Max Height (Space - Course Page)
+- Front Page Block - customization (Main Moodle Content Position - Block #0)
+- Front Page Block - Slider from Space 1.14 (Block #20)
+- Front Page Block - Content with Images 2-column grid (Block #21)
+- Front Page Block - Categories List (Block #22)
+- Front Page Block - Categories List - Legacy Block from Space 1.14 (Block #23)
+- Login page - Optional Forgot Password Link
+- Login page - Additional Content under the password field
+- Login page - Display a list of identity providers before or after the login form.
+- Login page - New layout #4 and #5 (Full height left/right)
+- Footer Social Icons
+- Footer Color Customization
+- Front Page - Main Moodle content included in front page content builder
+- Main Menu & Course Navigation Customization (navigation items on/off) (Space - Sidebar, Space - Course Page)
+- Optional teacher avatar inside the course card - (Space - Course Page - Display teachers)
+- Optional Default Moodle Footer Buttons (Space - Footer)
+- Top bar - Color Customization - Custom HTML Area -> Link Color, Link Color on Hover
+- Top bar - Custom height e.g for a larger logo
+- Theme Setting - Sidebar Icon Color
+- FontAwesome (Theme Setting - General)
+- Sidebar - Additional field inside the main navigation container with sample code snippet (Sidebar - Custom Navigation Items)
+
+Improvements:
+- RWD Improvements
+- Course Card UI (each card has the same height)
+- Course Index Sidebar on the left
+- Hidden Sidebar (up to 1440px sidebar is next to the content)
+- Pagination Hover Color (Blue to Primary 600 - text, Primary 100 - background)
+- Site home - redirect=0 when the Start page for users is different than "Site home"
+- Theme color generator
+- Theme Settings - description Improvements
+- UI Improvements
+
+Fixes:
+- Block #2 Issue (Video Hero) - Show Colorized Content Wrapper
+- Block #4 (FAQ) translation issue
+- Calendar UI
+- Minor bug fixes
+- Now My Courses section is fully translatable
+- Plugins table and Settings and Uninstall button (UI)
+- Sidebar Color Customization
+- Theme settings issue - Top bar - Turn on a logo area
+- Quiz edit question issue
+- Unnecessary background image on the login page (Layout #2, #3)
+
+
+
+## [2.0.0] - June 3, 2022
+- Released
+
+What's new?
+- Completely rebuild the core of the theme
+- New User interface
+- In-build dark mode
+- New Front Page Builder
+- Better Performance
+- 50% less CSS
+- and much more
