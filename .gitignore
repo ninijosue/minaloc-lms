@@ -98,13 +98,13 @@ elearning/cache/cachestore_*/
 # Local Override Config
 elearning/config-local.php
 
-# Documentation artifacts (created by Claude)   
+# Documentation artifacts (created by Claude)
 CLAUDE.md.backup
 MEMORY_OPTIMIZATION_COMPLETE.md
 PARAMETER_FIX_SUMMARY.md
 FINAL_FIX_SUMMARY.md
 TEST_OPTIMIZED_ENDPOINT.md
-s
+
 # Text files (temporary)
 *.tx
 text.tx
