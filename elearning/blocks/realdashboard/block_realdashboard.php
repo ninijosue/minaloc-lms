@@ -55,7 +55,7 @@ class block_realdashboard extends block_base
         // Add jQuery (Moodle already includes jQuery, but if you need a specific version:)
         $PAGE->requires->js(new moodle_url('https://code.jquery.com/jquery-3.6.0.min.js'), true);
         $PAGE->requires->js('/blocks/realdashboard/js/index.js');
-        $PAGE->requires->js_amd_inline("import('/blocks/realdashboard/frontend/dist/index_002.js');");
+        $PAGE->requires->js_amd_inline("import('/blocks/realdashboard/frontend/dist/index_0022.js');");
         $PAGE->requires->css('/blocks/realdashboard/frontend/dist/styles.css');
 
         if (empty($this->instance)) {

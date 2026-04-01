@@ -11,7 +11,7 @@ const production = !process.env.ROLLUP_WATCH;
 export default {
   input: './src/index.ts',
   output: {
-    file: 'dist/index_002.js',
+    file: 'dist/index_0022.js',
     format: 'es',
     sourcemap: true,
   },

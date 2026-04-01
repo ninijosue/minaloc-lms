@@ -26,3 +26,4 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Additional User Details';
+$string['refreshanalytics'] = 'Refresh reporting analytics data warehouse';

@@ -35,6 +35,7 @@ export interface ChartData {
 export interface PerformanceMetrics {
   totalStudents: number
   enrolledStudents: number
+  totalEnrollments: number
   excelledStudents: number
   completedCourses: number
   failedCourses: number

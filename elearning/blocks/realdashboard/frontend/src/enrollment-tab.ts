@@ -444,6 +444,7 @@ export class EnrollmentTab extends LitElement {
       completedCourses: 12450,
       failedCourses: 890,
       notStarted: 4439,
+      totalEnrollments: data.totalEnrollments || 0,
       allCourses: learningMetrics.totalCourses || 0,
       males: data.sexMetrics?.males || 0,
       females: data.sexMetrics?.females || 0
@@ -555,7 +556,7 @@ export class EnrollmentTab extends LitElement {
 
               </div>
               <div class="ml-4">
-                <p class="text-2xl font-bold text-gray-900">${metrics.enrolledStudents.toLocaleString()}</p>
+                <p class="text-2xl font-bold text-gray-900">${metrics.totalEnrollments.toLocaleString()}</p>
                 <p class="text-sm text-gray-500">Total Course Enrollments</p>
               </div>
             </div>
