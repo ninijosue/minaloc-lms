@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'local_additionaluserdetails';
-$plugin->release = '0.2.0';
-$plugin->version = 2025072201;
+$plugin->release = '0.2.1';
+$plugin->version = 2025072203;
 $plugin->requires = 2016052300;
 $plugin->maturity = MATURITY_ALPHA;
