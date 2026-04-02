@@ -31,7 +31,6 @@ $courseCategory = optional_param('courseCategory', '', PARAM_TEXT);
 // Validate pagination params
 if ($page < 1) $page = 1;
 if ($limit < 1) $limit = 50;
-if ($limit > 1000) $limit = 1000; // Max limit
 
 // Parse courses
 $courseIds = [];

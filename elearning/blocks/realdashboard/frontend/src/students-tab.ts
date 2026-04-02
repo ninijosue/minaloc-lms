@@ -153,7 +153,7 @@ protected createRenderRoot(): HTMLElement | DocumentFragment {
       // Build query params - fetch ALL data (no pagination), but keep search and filters
       const params = new URLSearchParams({
         page: "1",
-        limit: "999999", // Large number to get all records
+        limit: "200000000", // Large number to get all records
         search: this.searchQuery,
         ...this.filters
       } as any);
