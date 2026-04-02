@@ -1,7 +1,10 @@
 import { LitElement, html, css } from "lit"
 import { property, customElement, state } from "lit/decorators.js"
 import type { StudentDataEntity } from "./types"
-import { downloadCsv, toTitleCase } from "./helpers";
+import { downloadCsv, toTitleCase } from "./helpers"
+import type { PaginationState } from "./components/pagination"
+import "./components/pagination"
+import "./components/loading-spinner"
  
 
 type StudentCourseType = {
@@ -45,6 +48,15 @@ protected createRenderRoot(): HTMLElement | DocumentFragment {
     failed: StudentCourseType[]
   } = {enrolled: [], inprogress: [], completed: [], failed: []};
   @state() private filteredTableData: StudentDataEntity[] = [];
+  @state() private pagination: PaginationState = {
+    page: 1,
+    limit: 50,
+    total: 0,
+    totalPages: 0
+  };
+  @state() private searchQuery: string = "";
+  @state() private isActive: boolean = false;
+  @state() private hasLoadedData: boolean = false;
   
 
 
@@ -54,67 +66,168 @@ protected createRenderRoot(): HTMLElement | DocumentFragment {
     document.addEventListener("data-loaded", (event: Event) => {
       const customEvent = event as CustomEvent
       this.data = customEvent.detail
+      // Only fetch if tab is active
+      if (this.isActive && !this.hasLoadedData) {
+        this.fetchStudentsData();
+      }
     })
     document.addEventListener('on-filter-change', (e: Event) => {
         const customEvent = e as CustomEvent<any>;
         const sentData = customEvent.detail;
         this.filters = sentData;
+        this.pagination.page = 1; // Reset to page 1 on filter change
+        if (this.isActive) {
+          this.fetchStudentsData();
+        }
       });
-    this.filteredTableData = (this.data?.studentsData || []) as StudentDataEntity[];
+
+    // Listen for tab visibility changes
+    const observer = new MutationObserver(() => {
+      const wasActive = this.isActive;
+      this.isActive = this.offsetParent !== null && getComputedStyle(this).display !== 'none';
+      // If tab just became active and we haven't loaded data yet, fetch it
+      if (this.isActive && !wasActive && !this.hasLoadedData) {
+        this.fetchStudentsData();
+      }
+    });
+    observer.observe(this, { attributes: true, attributeFilter: ['style', 'class'] });
+
+    // Check initial visibility
+    this.isActive = this.offsetParent !== null && getComputedStyle(this).display !== 'none';
+  }
+
+  firstUpdated(): void {
+    // Check visibility after component is fully rendered
+    this.isActive = this.offsetParent !== null && getComputedStyle(this).display !== 'none';
+    // If tab is initially visible and we have data but haven't loaded students yet, fetch
+    if (this.isActive && this.data && !this.hasLoadedData) {
+      this.fetchStudentsData();
+    }
+  }
+
+  private async fetchStudentsData(): Promise<void> {
+    console.log("Fetching students data - isActive:", this.isActive, "hasLoadedData:", this.hasLoadedData, "filters:", this.filters, "pagination:", this.pagination, "searchQuery:", this.searchQuery);
+    try {
+      this.loading = true;
+
+      // Build query params from filters and pagination
+      const params = new URLSearchParams({
+        page: this.pagination.page.toString(),
+        limit: this.pagination.limit.toString(),
+        search: this.searchQuery,
+        ...this.filters
+      } as any);
+
+      const response = await fetch(`/blocks/realdashboard/get_students_paginated.php?${params}`);
+      const data = await response.json();
+
+      this.filteredTableData = data.students || [];
+      this.pagination = data.pagination || this.pagination;
+      this.hasLoadedData = true; // Mark data as loaded
+    } catch (error) {
+      console.error('Error fetching students data:', error);
+      this.filteredTableData = [];
+    } finally {
+      this.loading = false;
+    }
+  }
+
+  private _handlePageChange(e: CustomEvent): void {
+    this.pagination.page = e.detail.page;
+    this.fetchStudentsData();
+  }
+
+  private _handleLimitChange(e: CustomEvent): void {
+    this.pagination.limit = e.detail.limit;
+    this.pagination.page = 1; // Reset to page 1 when changing limit
+    this.fetchStudentsData();
   }
 
 
-   _downloadCSV(location: string, tableData: StudentDataEntity[]) {
-  
-      const headers = ["", "Names", "Sex" , "Phone number", "email","Enrollment", "Inprogress courses", "Completed courses"
-        ,"National ID", "Date of Birth", "Workplace (Urwego akorera)", "District", "Sector", "Cell", "Village", "Health facility", "Position", "Service Country"
+   async _downloadCSV(location: string, tableData: StudentDataEntity[]) {
+    try {
+      // Show loading state
+      const originalLoading = this.loading;
+      this.loading = true;
+
+      // Build query params - fetch ALL data (no pagination), but keep search and filters
+      const params = new URLSearchParams({
+        page: "1",
+        limit: "200000000", // Large number to get all records
+        search: this.searchQuery,
+        ...this.filters
+      } as any);
+
+      console.log("Fetching all students for CSV download with filters:", this.filters, "search:", this.searchQuery);
+
+      // Fetch all data from backend
+      const response = await fetch(`/blocks/realdashboard/get_students_paginated.php?${params}`);
+      const result = await response.json();
+      const allStudents = result.students || [];
+
+      console.log(`Downloaded ${allStudents.length} students for CSV export`);
+
+      // Prepare CSV data
+      const headers = ["", "Names", "Sex", "Phone number", "Email", "Enrollments", "Inprogress courses", "Completed courses",
+        "National ID", "Date of Birth", "Workplace (Urwego akorera)", "District", "Sector", "Cell", "Village", "Health facility", "Position", "Service Country"
       ];
-    const data = tableData.map((d, i)=>{
-      const category = d.servicepointcategory ?? "-";
-      const position  = d.position == "sedo"? "SEDO": d.position == "cro"? "CRO": toTitleCase( d.position ?? "-");
-      return [
-        i+1,
-        d.names,
-        d.sex == "M" ? "Male": "Female" ,
-        `250${d.phoneNumber}`,
-        d.email ?? "-",
-        d.enrollments ?? 0, 
-        d.inprogress ?? 0,
-        d.completed ?? 0,
-        d.nationalid ?? "-",  
-        d.dateofbirth ? new Date(Number(d.dateofbirth)).toLocaleDateString() : "-",
-          category == "health"? "Health facility":  toTitleCase(category)
-        ,
-        toTitleCase(d.district ?? "-"),
-        toTitleCase(d.sector ?? "-"),
-        toTitleCase(d.cell ?? "-"),
-        toTitleCase(d.village ?? "-"),
-        toTitleCase(d.healthfacility ?? "-"),
-        position,
-        d.servicecountry ?? "-"
-      ];
-    })
-  
-    downloadCsv(headers, data, `${location} learners analysis.csv`);
+
+      const data = allStudents.map((d: StudentDataEntity, i: number) => {
+        const category = d.servicepointcategory ?? "-";
+        const position = d.position == "sedo" ? "SEDO" : d.position == "cro" ? "CRO" : toTitleCase(d.position ?? "-");
+        return [
+          i + 1,
+          d.names,
+          d.sex == "M" ? "Male" : "Female",
+          d.phoneNumber ? `250${d.phoneNumber}` : "-",
+          d.email ?? "-",
+          d.enrollments ?? 0,
+          d.inprogress ?? 0,
+          d.completed ?? 0,
+          d.nationalid ?? "-",
+          d.dateofbirth ? new Date(Number(d.dateofbirth)).toLocaleDateString() : "-",
+          category == "health" ? "Health facility" : toTitleCase(category),
+          toTitleCase(d.district ?? "-"),
+          toTitleCase(d.sector ?? "-"),
+          toTitleCase(d.cell ?? "-"),
+          toTitleCase(d.village ?? "-"),
+          toTitleCase(d.healthfacility ?? "-"),
+          position,
+          toTitleCase(d.servicecountry ?? "-")
+        ];
+      });
+
+      downloadCsv(headers, data, `${location} learners analysis.csv`);
+
+      // Restore loading state
+      this.loading = originalLoading;
+    } catch (error) {
+      console.error("Error downloading CSV:", error);
+      alert("Failed to download CSV. Please try again.");
+      this.loading = false;
+    }
+  }
+
+  private _searchTimeout: any = null;
+
+  _filterTable(e: Event) {
+    const input = e.target as HTMLInputElement;
+    this.searchQuery = input.value;
+
+    // Debounce search - wait 500ms after user stops typing
+    if (this._searchTimeout) {
+      clearTimeout(this._searchTimeout);
     }
 
-  _filterTable(e: Event, primitiveDataTable: StudentDataEntity[] = []) {
-    const input = e.target as HTMLInputElement;
-    const searchTerm = input.value.toLowerCase();
-    const tableData = primitiveDataTable;
-    if(searchTerm.length){
-      this.filteredTableData = tableData.filter(d=>JSON.stringify(d).trim().replace(" ", "").toLowerCase().includes(searchTerm.trim().replace(" ", "")));
-    }
-    else{
-      this.filteredTableData = primitiveDataTable;
-    }
-    this.requestUpdate();
+    this._searchTimeout = setTimeout(() => {
+      this.pagination.page = 1; // Reset to page 1 on search
+      this.fetchStudentsData();
+    }, 500);
   }
   render() {
     const {district, sector, cell, village} = (this.filters ?? {}) as any;
     const location = village?.length ? "Villages": cell?.length ? "Cells": sector?.length ? "Sectors": district?.length ? "Districts": "Districts";
- 
-    const studentsData = (this.data?.studentsData || []) as StudentDataEntity[];
+
     const locationPerformances = this.filteredTableData;
 
     if(this.current == "studentDetails")return this.studentDetailsRender(); 
@@ -130,8 +243,9 @@ protected createRenderRoot(): HTMLElement | DocumentFragment {
               <div class="relative w-full mt-3 max-w-md">
                   <input
                     type="text"
-                    @input=${(e: Event) => this._filterTable(e, studentsData)}
-                    placeholder="Search..."
+                    @input=${this._filterTable}
+                    .value=${this.searchQuery}
+                    placeholder="Search students..."
                     class="w-[250px] pl-10 pr-4 py-2 pt-[12px!important]  rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all duration-200 bg-white shadow-sm"
                   />
                   <span class="absolute left-3 top-3 text-gray-400">
@@ -183,9 +297,32 @@ protected createRenderRoot(): HTMLElement | DocumentFragment {
                 </tr>
               </thead>
               <tbody class="bg-white divide-y divide-gray-200">
-                ${locationPerformances.map((s, i)=>{
+                ${this.loading ? html`
+                  <tr>
+                    <td colspan="18" class="px-6 text-center">
+                      <loading-spinner
+                        size="large"
+                        message="Loading students data..."
+                        submessage="Please wait"
+                      ></loading-spinner>
+                    </td>
+                  </tr>
+                ` : locationPerformances.length === 0 ? html`
+                  <tr>
+                    <td colspan="18" class="px-6 py-12 text-center">
+                      <div class="flex flex-col items-center justify-center">
+                        <svg class="h-16 w-16 text-gray-400 mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 13V6a2 2 0 00-2-2H6a2 2 0 00-2 2v7m16 0v5a2 2 0 01-2 2H6a2 2 0 01-2-2v-5m16 0h-2.586a1 1 0 00-.707.293l-2.414 2.414a1 1 0 01-.707.293h-3.172a1 1 0 01-.707-.293l-2.414-2.414A1 1 0 006.586 13H4" />
+                        </svg>
+                        <span class="text-lg text-gray-600 font-medium">No students found</span>
+                        <span class="text-sm text-gray-500 mt-2">Try adjusting your search or filters</span>
+                      </div>
+                    </td>
+                  </tr>
+                ` : locationPerformances.map((s, i)=>{
                   const category = s.servicepointcategory ?? "-";
                   const position  = s.position == "sedo"? "SEDO": s.position == "cro"? "CRO": toTitleCase(s.position ?? "-");
+                  const rowIndex = (this.pagination.page - 1) * this.pagination.limit + i + 1;
                   return html`
                   <tr @click=${()=>{
                     this.studentDetails = s;
@@ -193,7 +330,7 @@ protected createRenderRoot(): HTMLElement | DocumentFragment {
                     this.requestUpdate();
                     this.fetchStudentCourses(s.userid);
                   }} class="hover:bg-gray-100 cursor-pointer">
-                    <td class="px-2 py-4 whitespace-nowrap text-sm font-medium text-gray-900">${i+1}</td>
+                    <td class="px-2 py-4 whitespace-nowrap text-sm font-medium text-gray-900">${rowIndex}</td>
                     <td class="px-2 py-4 whitespace-nowrap text-sm font-medium text-gray-900">${toTitleCase(s.names)}</td>
                     <td class="px-2 py-4 whitespace-nowrap text-sm font-medium text-gray-900">${s.sex == "M"? "Male": "Female"}</td>
                     <td class="px-2 py-4 whitespace-nowrap text-sm text-gray-900">${s.phoneNumber}</td>
@@ -214,10 +351,18 @@ protected createRenderRoot(): HTMLElement | DocumentFragment {
                   </tr>
                   `
                 })}
-                
+
               </tbody>
             </table>
           </div>
+
+          <!-- Pagination Controls -->
+          <pagination-controls
+            .pagination=${this.pagination}
+            .disabled=${this.loading}
+            @page-change=${this._handlePageChange}
+            @limit-change=${this._handleLimitChange}
+          ></pagination-controls>
         </div>
       </div>
     `
