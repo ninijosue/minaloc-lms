@@ -1,0 +1,73 @@
+	
+<XMLDB PATH="local/additionaluserdetails/db" VERSION="20200213" COMMENT="XMLDB file for Additional User Details plugin"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="additional_user_details" COMMENT="Stores additional details for users">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="20" NOTNULL="true" COMMENT="User ID from the user table"/>
+        <FIELD NAME="nationalid" TYPE="char" UNIQUE="true" LENGTH="50" NOTNULL="true"  COMMENT="National or unique ID number"/>
+        <FIELD NAME="names" TYPE="char" LENGTH="255" NOTNULL="true" COMMENT="Full names of the user"/>
+        <FIELD NAME="dateofbirth" TYPE="int" LENGTH="20" NOTNULL="true" COMMENT="Date of birth"/>
+        <FIELD NAME="gender" TYPE="char" LENGTH="50" NOTNULL="true" COMMENT="User gender"/>
+        <FIELD NAME="servicepointcategory" TYPE="char" LENGTH="100" NOTNULL="true" COMMENT="Service point category"/>
+        <FIELD NAME="district" TYPE="char" LENGTH="50" NOTNULL="false" COMMENT="user district"/>
+        <FIELD NAME="sector" TYPE="char" LENGTH="50" NOTNULL="false" COMMENT="User sector"/>
+        <FIELD NAME="cell" TYPE="char" LENGTH="50" NOTNULL="false" COMMENT="User cell"/>
+        <FIELD NAME="village" TYPE="char" LENGTH="50" NOTNULL="false" COMMENT="User village"/>
+        <FIELD NAME="healthfacility" TYPE="char" LENGTH="50" NOTNULL="false" COMMENT="Health facility"/>
+        <FIELD NAME="servicecountry" TYPE="char" LENGTH="50" NOTNULL="false" COMMENT="Service point country when a user is as embassy categorized"/>
+        <FIELD NAME="otherspecified" TYPE="char" LENGTH="255" NOTNULL="false" COMMENT="Specification when a user choose point of service as other"/>
+        
+        <FIELD NAME="phonenumber" TYPE="char" LENGTH="50" NOTNULL="false" COMMENT="Phone number"/>
+        <FIELD NAME="email" TYPE="char" LENGTH="100" NOTNULL="false" COMMENT="Email address"/>
+        <FIELD NAME="position" TYPE="char" LENGTH="100" NOTNULL="false" COMMENT="User position"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+        <KEY NAME="userid" TYPE="foreign" FIELDS="userid" REFTABLE="mdl_user" REFFIELDS="id" ONDELETE="CASCADE"/>
+      </KEYS> 
+        <INDEXES>
+            <INDEX NAME="userid" UNIQUE="false" FIELDS="userid"/>
+            <INDEX NAME="names" UNIQUE="false" FIELDS="names"/>
+            <INDEX NAME="nationalid" UNIQUE="false" FIELDS="nationalid"/>
+            <INDEX NAME="gender" UNIQUE="false" FIELDS="gender"/>
+            <INDEX NAME="servicepointcategory" UNIQUE="false" FIELDS="servicepointcategory"/>
+            <INDEX NAME="district" UNIQUE="false" FIELDS="district"/>
+            <INDEX NAME="sector" UNIQUE="false" FIELDS="sector"/>
+            <INDEX NAME="cell" UNIQUE="false" FIELDS="cell"/>
+            <INDEX NAME="village" UNIQUE="false" FIELDS="village"/>
+            <INDEX NAME="healthfacility" UNIQUE="false" FIELDS="healthfacility"/>
+            <INDEX NAME="servicecountry" UNIQUE="false" FIELDS="servicecountry"/>
+            <INDEX NAME="otherspecified" UNIQUE="false" FIELDS="otherspecified"/>            
+            <INDEX NAME="dateofbirth" UNIQUE="false" FIELDS="dateofbirth"/>
+            <INDEX NAME="position" UNIQUE="false" FIELDS="position"/>
+        </INDEXES>
+    
+    </TABLE>
+
+    <TABLE NAME="local_reporting_status" COMMENT="Data warehouse table for reporting dashboard - stores pre-computed enrollment statuses">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="userid" TYPE="int" LENGTH="20" NOTNULL="true" COMMENT="User ID from the user table"/>
+        <FIELD NAME="courseid" TYPE="int" LENGTH="20" NOTNULL="true" COMMENT="Course ID from the course table"/>
+        <FIELD NAME="status" TYPE="char" LENGTH="20" NOTNULL="true" COMMENT="Enrollment status: enrolled, inprogress, completed, failed"/>
+        <FIELD NAME="timeenrolled" TYPE="int" LENGTH="20" NOTNULL="false" COMMENT="Timestamp when user was enrolled in the course"/>
+        <FIELD NAME="timecompleted" TYPE="int" LENGTH="20" NOTNULL="false" COMMENT="Timestamp when user completed the course"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="userid" UNIQUE="false" FIELDS="userid"/>
+        <INDEX NAME="courseid" UNIQUE="false" FIELDS="courseid"/>
+        <INDEX NAME="status" UNIQUE="false" FIELDS="status"/>
+        <INDEX NAME="userid_courseid" UNIQUE="false" FIELDS="userid,courseid"/>
+        <INDEX NAME="userid_status" UNIQUE="false" FIELDS="userid,status"/>
+        <INDEX NAME="courseid_status" UNIQUE="false" FIELDS="courseid,status"/>
+      </INDEXES>
+    </TABLE>
+  </TABLES>
+</XMLDB>
