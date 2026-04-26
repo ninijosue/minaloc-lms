@@ -56,13 +56,16 @@ export class DistrictTab extends LitElement {
   }
 
   getYears(): void {
-    const data = this.data?.learningAnalytics?.performanceTrend || [] as {
-      month: string, year: number,
-      count: number,
-      enrolementCount: number,
-      completionCount: number,
-      faillerCount: number
-    }[];
+    const rawData = this.data?.learningAnalytics?.performanceTrend || [] as any[];
+    // Transform data to handle both old and new formats
+    const data = rawData.map((d: any) => ({
+      month: d.month || "",
+      year: d.year || 0,
+      enrolementCount: d.enrolled || d.enrolementCount || 0,
+      completionCount: d.completed || d.completionCount || 0,
+      faillerCount: d.failed || d.faillerCount || 0
+    }));
+
     const yearsFound: string[] = [];
     data.forEach((d: any) => {
       const total = d.enrolementCount + d.completionCount + d.faillerCount;
@@ -97,7 +100,23 @@ export class DistrictTab extends LitElement {
     this._createGenderDistributionChartEnrolling()
     this._createGenderDistributionChartSucceeding()
     this._createAgeDistributionChart();
-    this.filteredTableData = (this.data?.learningAnalytics?.performanceLocationTrend || []) as LocationPerformanceTrend[];
+
+    // Transform performanceLocationTrend data to match expected format
+    const rawData = (this.data?.learningAnalytics?.performanceLocationTrend || []) as any[];
+    this.filteredTableData = rawData.map(d => {
+      const total = d.total || d.enrolementCount || 0;
+      const completed = d.completed || d.completionCount || 0;
+      const failed = d.failed || d.faillerCount || 0;
+      const successRate = total > 0 ? ((completed / total) * 100).toFixed(2) : "0";
+
+      return {
+        location: d.location || "",
+        enrolementCount: total,
+        completionCount: completed,
+        faillerCount: failed,
+        successRate: parseFloat(successRate)
+      };
+    });
   }
 
   private destroyCharts(canvas: any): void {
@@ -156,12 +175,16 @@ export class DistrictTab extends LitElement {
   }
 
   private _createPerformanceTrendChart(): void {
-    const rowData = (this.data?.learningAnalytics?.performanceTrend || []) as {
-      month: string, year: number,
-      enrolementCount: number,
-      completionCount: number,
-      faillerCount: number
-    }[];
+    const rawData = (this.data?.learningAnalytics?.performanceTrend || []) as any[];
+    // Transform new data format to expected format
+    const rowData = rawData.map(d => ({
+      month: d.month || "",
+      year: d.year || 0,
+      enrolementCount: d.enrolled || d.enrolementCount || 0,
+      completionCount: d.completed || d.completionCount || 0,
+      faillerCount: d.failed || d.faillerCount || 0
+    }));
+
     const data = this.getFullYearMonthsWithData(rowData);
     const canvas = document.querySelector("#performanceTrendChart") as HTMLCanvasElement
     if (!canvas) return
@@ -295,7 +318,23 @@ export class DistrictTab extends LitElement {
   }
 
   private _createProgressChart(): void {
-    const data = (this.data?.learningAnalytics?.performanceLocationTrend || []) as LocationPerformanceTrend[];
+    const rawData = (this.data?.learningAnalytics?.performanceLocationTrend || []) as any[];
+    // Transform new data format to expected format
+    const data: LocationPerformanceTrend[] = rawData.map(d => {
+      const total = d.total || d.enrolementCount || 0;
+      const completed = d.completed || d.completionCount || 0;
+      const failed = d.failed || d.faillerCount || 0;
+      const successRate = total > 0 ? ((completed / total) * 100).toFixed(2) : "0";
+
+      return {
+        location: d.location || "",
+        enrolementCount: total,
+        completionCount: completed,
+        faillerCount: failed,
+        successRate: parseFloat(successRate)
+      };
+    });
+
     const canvas = document.querySelector("#progressChart") as HTMLCanvasElement
     if (!canvas) return
 
@@ -435,7 +474,15 @@ export class DistrictTab extends LitElement {
 
   // ---------positions analysis chart -----------
   private _createPositionChart(): void {
-    const rowData = (this.data?.learningAnalytics?.positionAnalytics || []) as PositionTrendType[];
+    const rawData = (this.data?.learningAnalytics?.positionAnalytics || []) as any[];
+    // Transform new data format to expected format
+    const rowData: PositionTrendType[] = rawData.map(d => ({
+      name: d.position || d.name || "",
+      enrollments: d.total || d.enrollments || 0,
+      completions: d.completed || d.completions || 0,
+      failures: d.failed || d.failures || 0,
+    }));
+
     let data: PositionTrendType[] = [];
     const otherPositions: PositionTrendType = {
       name: "others",
@@ -529,7 +576,15 @@ export class DistrictTab extends LitElement {
 
   // ---------Courses analysis chart -----------
   private _createCoursesChart(): void {
-    const data = (this.data?.learningAnalytics?.coursesAnalytics || []) as CourseTrendType[];
+    const rawData = (this.data?.learningAnalytics?.coursesAnalytics || []) as any[];
+    // Transform new data format to expected format
+    const data: CourseTrendType[] = rawData.map(d => ({
+      name: d.courseName || d.name || "",
+      enrollments: d.enrolled || d.enrollments || 0,
+      completions: d.completed || d.completions || 0,
+      failures: d.failed || d.failures || 0,
+    }));
+
     const canvas = document.querySelector("#coursesChart") as HTMLCanvasElement
     if (!canvas) return
 
@@ -598,7 +653,13 @@ export class DistrictTab extends LitElement {
 
 
   private _createGenderDistributionChart(): void {
-    const data = (this.data?.learningAnalytics?.sexFaillingMetrics ?? {}) as { male: number, female: number }
+    const rawData = (this.data?.learningAnalytics?.sexFaillingMetrics ?? {}) as any;
+    // Handle both old format (male/female) and new format (males/females)
+    const data = {
+      male: rawData.males || rawData.male || 0,
+      female: rawData.females || rawData.female || 0
+    };
+
     const canvas = document.querySelector("#genderDistributionChart") as HTMLCanvasElement
     if (!canvas) return
 
@@ -659,7 +720,13 @@ export class DistrictTab extends LitElement {
     this.charts.set("genderDistribution", chart)
   }
   private _createGenderDistributionChartSucceeding(): void {
-    const data = (this.data?.learningAnalytics?.sexCompletionMetrics ?? {}) as { male: number, female: number }
+    const rawData = (this.data?.learningAnalytics?.sexCompletionMetrics ?? {}) as any;
+    // Handle both old format (male/female) and new format (males/females)
+    const data = {
+      male: rawData.males || rawData.male || 0,
+      female: rawData.females || rawData.female || 0
+    };
+
     const canvas = document.querySelector("#genderDistributionChartSucceeding") as HTMLCanvasElement
     if (!canvas) return
 
@@ -790,12 +857,17 @@ export class DistrictTab extends LitElement {
 
 
   private _createAgeDistributionChart(): void {
-    const data = (this.data?.learningAnalytics?.ageDistribution || []) as {
-      ageGroup: string,
-      completeCount: number,
-      inProgressCount: number,
-      failedCount: number
-    }[];
+    const rawData = (this.data?.learningAnalytics?.ageDistribution || []) as any[];
+    // Transform new data format to expected format
+    // The new format only has 'count', so we'll show total enrollments by age group
+    const data = rawData.map(d => ({
+      ageGroup: d.ageGroup || "",
+      completeCount: d.completeCount || 0,
+      inProgressCount: d.inProgressCount || 0,
+      failedCount: d.failedCount || 0,
+      count: d.count || 0
+    }));
+
     const canvas = document.querySelector("#ageDistributionChart") as HTMLCanvasElement
     if (!canvas) return
     const groups = data.map(d => d.ageGroup)
@@ -891,7 +963,24 @@ export class DistrictTab extends LitElement {
     const { district, sector, cell, village } = (this.filters ?? {}) as any;
     const location = village?.length ? "Villages" : cell?.length ? "Cells" : sector?.length ? "Sectors" : district?.length ? "Districts" : "Districts";
     const metrics = (this.data?.learningAnalytics?.metrics ?? {}) as PerformanceLearningMetrics
-    const performanceLocationTrend = (this.data?.learningAnalytics?.performanceLocationTrend || []) as LocationPerformanceTrend[];
+
+    // Transform performanceLocationTrend data for table
+    const rawLocationData = (this.data?.learningAnalytics?.performanceLocationTrend || []) as any[];
+    const performanceLocationTrend: LocationPerformanceTrend[] = rawLocationData.map(d => {
+      const total = d.total || d.enrolementCount || 0;
+      const completed = d.completed || d.completionCount || 0;
+      const failed = d.failed || d.faillerCount || 0;
+      const successRate = total > 0 ? ((completed / total) * 100).toFixed(2) : "0";
+
+      return {
+        location: d.location || "",
+        enrolementCount: total,
+        completionCount: completed,
+        faillerCount: failed,
+        successRate: parseFloat(successRate)
+      };
+    });
+
     const locationPerformances = this.filteredTableData;
     return html`
       <div class="space-y-6">

@@ -231,7 +231,8 @@ protected createRenderRoot(): HTMLElement | DocumentFragment {
       notStarted: 4439,
       females: 0,
       males: 0,
-      allCourses: 0
+      allCourses: 0,
+      totalEnrollments: 0
     }
   }
 

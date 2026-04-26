@@ -4,7 +4,10 @@
       "Bash(cat:*)",
       "Bash(docker-compose version:*)",
       "Bash(docker compose:*)",
-      "Bash(pnpm build:*)"
+      "Bash(pnpm build:*)",
+      "Bash(curl:*)",
+      "Bash(time curl -s \"http://localhost:8086/blocks/realdashboard/get_data_optimized.php\")",
+      "Bash(python3:*)"
     ],
     "deny": [],
     "ask": []

@@ -47,7 +47,7 @@ export class DashboardMain extends LitElement {
     // For now, we will use a static sample
     this.loading = true
     try {
-      const response = await fetch("/blocks/realdashboard/get_data.php", {
+      const response = await fetch("/blocks/realdashboard/get_data_optimized.php", {
        method: 'POST',
       headers: {
         'Content-Type': 'application/x-www-form-urlencoded',
